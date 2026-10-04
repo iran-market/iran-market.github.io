@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-04T18:30:01.409Z",
+    "published_at": "2026-10-04T19:00:01.420Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -1409,7 +1409,7 @@
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
       "to": "2026-10-02T20:30:00.000Z",
-      "history_published_at": "2026-10-03T21:30:01.512Z"
+      "history_published_at": "2026-10-04T19:00:01.420Z"
     },
     {
       "symbol": "COMMODITY_LUMBER",
@@ -1422,7 +1422,7 @@
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
       "to": "2026-10-02T20:30:00.000Z",
-      "history_published_at": "2026-10-03T21:30:01.512Z"
+      "history_published_at": "2026-10-04T19:00:01.420Z"
     },
     {
       "symbol": "COMMODITY_LIVE_CATTLE",
@@ -1435,7 +1435,7 @@
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
       "to": "2026-10-02T20:30:00.000Z",
-      "history_published_at": "2026-10-03T21:30:01.512Z"
+      "history_published_at": "2026-10-04T19:00:01.420Z"
     },
     {
       "symbol": "COMMODITY_FEED_CATTLE",
@@ -1448,7 +1448,7 @@
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
       "to": "2026-10-02T20:30:00.000Z",
-      "history_published_at": "2026-10-03T21:30:01.512Z"
+      "history_published_at": "2026-10-04T19:00:01.420Z"
     },
     {
       "symbol": "COMMODITY_LONDON_SUGAR",
