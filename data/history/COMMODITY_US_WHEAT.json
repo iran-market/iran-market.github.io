@@ -54191,13 +54191,13 @@
     {
       "t": "2026-10-02T20:30:00.000Z",
       "t_tehran": "2026-10-03T00:00:00+03:30",
-      "open": 682.43,
+      "open": 682.55,
       "high": 683,
-      "low": 682.43,
+      "low": 682.42,
       "close": 683,
       "volume": null,
       "ticks": 2,
-      "origin": "derived",
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/11"
     }
@@ -54209,7 +54209,7 @@
     "unit": "toman",
     "count": 4135,
     "next_cursor": null,
-    "published_at": "2026-10-03T13:00:01.258Z",
+    "published_at": "2026-10-04T14:30:01.609Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_US_WHEAT.json",
     "currency": "USD"

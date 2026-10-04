@@ -51988,7 +51988,7 @@
       "close": 19.93,
       "volume": null,
       "ticks": 1,
-      "origin": "derived",
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/11"
     }
@@ -52000,7 +52000,7 @@
     "unit": "toman",
     "count": 3998,
     "next_cursor": null,
-    "published_at": "2026-10-03T12:30:01.359Z",
+    "published_at": "2026-10-04T14:30:01.609Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_US_SUGAR_NO11.json",
     "currency": "USD"
