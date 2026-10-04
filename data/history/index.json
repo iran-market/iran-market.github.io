@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-04T19:30:01.505Z",
+    "published_at": "2026-10-04T20:00:01.722Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -1578,7 +1578,7 @@
       "currency": "USD",
       "from": "2011-01-03T20:30:00.000Z",
       "to": "2026-10-01T20:30:00.000Z",
-      "history_published_at": "2026-10-03T22:30:01.316Z"
+      "history_published_at": "2026-10-04T20:00:01.722Z"
     },
     {
       "symbol": "BASE_US_STEEL_COIL",
@@ -1591,7 +1591,7 @@
       "currency": "USD",
       "from": "2013-08-17T19:30:00.000Z",
       "to": "2026-10-02T20:30:00.000Z",
-      "history_published_at": "2026-10-03T22:30:01.316Z"
+      "history_published_at": "2026-10-04T20:00:01.722Z"
     },
     {
       "symbol": "DIFF_EUR_USD",
@@ -1604,7 +1604,7 @@
       "currency": "POINTS",
       "from": "2010-12-31T20:30:00.000Z",
       "to": "2026-10-02T20:30:00.000Z",
-      "history_published_at": "2026-10-03T22:30:01.316Z"
+      "history_published_at": "2026-10-04T20:00:01.722Z"
     },
     {
       "symbol": "DIFF_GBP_USD",
@@ -1617,7 +1617,7 @@
       "currency": "POINTS",
       "from": "2010-12-31T20:30:00.000Z",
       "to": "2026-10-02T20:30:00.000Z",
-      "history_published_at": "2026-10-03T22:30:01.316Z"
+      "history_published_at": "2026-10-04T20:00:01.722Z"
     },
     {
       "symbol": "DIFF_USD_JPY",
