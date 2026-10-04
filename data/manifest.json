@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-04T12:00:01.570Z",
+  "generated_at": "2026-10-04T12:30:01.325Z",
   "update_frequency_minutes": 30,
   "source": "TGJU",
   "license_note": "Market data belongs to its original providers; verify before financial use.",
@@ -464,28 +464,28 @@
       "path": "history/SOL_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/SOL_USD.json",
       "description": "Daily OHLC history for SOL_USD",
-      "records": 2367,
+      "records": 2368,
       "unit": "USD"
     },
     {
       "path": "history/XRP_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/XRP_USD.json",
       "description": "Daily OHLC history for XRP_USD",
-      "records": 4808,
+      "records": 4809,
       "unit": "USD"
     },
     {
       "path": "history/BNB_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BNB_USD.json",
       "description": "Daily OHLC history for BNB_USD",
-      "records": 3357,
+      "records": 3358,
       "unit": "USD"
     },
     {
       "path": "history/ADA_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/ADA_USD.json",
       "description": "Daily OHLC history for ADA_USD",
-      "records": 3289,
+      "records": 3290,
       "unit": "USD"
     },
     {
