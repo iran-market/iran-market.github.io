@@ -33707,7 +33707,7 @@
       "close": 108.82,
       "volume": null,
       "ticks": 1,
-      "origin": "derived",
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/11"
     }
@@ -33719,7 +33719,7 @@
     "unit": "toman",
     "count": 2593,
     "next_cursor": null,
-    "published_at": "2026-10-03T12:00:01.386Z",
+    "published_at": "2026-10-04T13:30:01.431Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/OPEC_BASKET_USD.json",
     "currency": "USD"
