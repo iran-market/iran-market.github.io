@@ -53151,11 +53151,11 @@
       "t_tehran": "2026-10-03T00:00:00+03:30",
       "open": 78.748,
       "high": 78.88,
-      "low": 78.742,
+      "low": 78.736,
       "close": 78.88,
       "volume": null,
       "ticks": 5,
-      "origin": "derived",
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/11"
     }
@@ -53167,7 +53167,7 @@
     "unit": "toman",
     "count": 4025,
     "next_cursor": null,
-    "published_at": "2026-10-03T13:30:01.349Z",
+    "published_at": "2026-10-04T15:00:01.568Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_COTTON.json",
     "currency": "USD"

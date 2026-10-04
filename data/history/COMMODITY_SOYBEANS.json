@@ -53743,13 +53743,13 @@
     {
       "t": "2026-10-02T20:30:00.000Z",
       "t_tehran": "2026-10-03T00:00:00+03:30",
-      "open": 1277.05,
+      "open": 1277.11,
       "high": 1278.25,
-      "low": 1277.05,
+      "low": 1277.03,
       "close": 1278.25,
       "volume": null,
       "ticks": 3,
-      "origin": "derived",
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/11"
     }
@@ -53761,7 +53761,7 @@
     "unit": "toman",
     "count": 4131,
     "next_cursor": null,
-    "published_at": "2026-10-03T13:30:01.349Z",
+    "published_at": "2026-10-04T15:00:01.568Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_SOYBEANS.json",
     "currency": "USD"
