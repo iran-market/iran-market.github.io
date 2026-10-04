@@ -8,5 +8,5 @@
   "display": "standalone",
   "background_color": "#08110f",
   "theme_color": "#08110f",
-  "icons": [{ "src": "/assets/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+  "icons": [{ "src": "/assets/favicon.png", "sizes": "any", "type": "image/svg+xml" }]
 }

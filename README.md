@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/favicon.svg" width="76" height="76" alt="Iran Market Data - API رایگان قیمت بازار ایران">
+  <img src="assets/favicon.png" width="76" height="76" alt="Iran Market Data - API رایگان قیمت بازار ایران">
   <h1 dir="rtl">API رایگان قیمت دلار، طلا، سکه و بازار ایران</h1>
   <p dir="rtl"><strong>دادهٔ آمادهٔ JSON برای قیمت فعلی و تاریخچهٔ روزانه بازار ایران؛ بدون ثبت‌نام و بدون API Key</strong></p>
   <p>
