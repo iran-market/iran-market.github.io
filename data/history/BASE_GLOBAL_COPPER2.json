@@ -53400,7 +53400,7 @@
       "close": 6.492,
       "volume": null,
       "ticks": 4,
-      "origin": "derived",
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/11"
     }
@@ -53412,7 +53412,7 @@
     "unit": "toman",
     "count": 4094,
     "next_cursor": null,
-    "published_at": "2026-10-03T14:00:01.318Z",
+    "published_at": "2026-10-04T15:30:01.525Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BASE_GLOBAL_COPPER2.json",
     "currency": "USD"

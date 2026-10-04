@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-04T15:00:01.568Z",
+    "published_at": "2026-10-04T15:30:01.525Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -1383,7 +1383,7 @@
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
       "to": "2026-10-02T20:30:00.000Z",
-      "history_published_at": "2026-10-03T13:30:01.349Z"
+      "history_published_at": "2026-10-04T15:30:01.525Z"
     },
     {
       "symbol": "COMMODITY_TEA",
@@ -1396,7 +1396,7 @@
       "currency": "USD",
       "from": "2026-07-24T20:30:00.000Z",
       "to": "2026-09-24T20:30:00.000Z",
-      "history_published_at": "2026-10-03T14:00:01.318Z"
+      "history_published_at": "2026-10-04T15:30:01.525Z"
     },
     {
       "symbol": "COMMODITY_SOYBEAN_MEAL",
@@ -1500,7 +1500,7 @@
       "currency": "USD",
       "from": "2014-06-12T19:30:00.000Z",
       "to": "2026-10-01T20:30:00.000Z",
-      "history_published_at": "2026-10-03T14:00:01.318Z"
+      "history_published_at": "2026-10-04T15:30:01.525Z"
     },
     {
       "symbol": "BASE_GLOBAL_COPPER2",
@@ -1513,7 +1513,7 @@
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
       "to": "2026-10-02T20:30:00.000Z",
-      "history_published_at": "2026-10-03T14:00:01.318Z"
+      "history_published_at": "2026-10-04T15:30:01.525Z"
     },
     {
       "symbol": "BASE_GLOBAL_IRON_ORE",
