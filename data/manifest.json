@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-04T16:30:01.526Z",
+  "generated_at": "2026-10-04T17:00:01.685Z",
   "update_frequency_minutes": 30,
   "source": "TGJU",
   "license_note": "Market data belongs to its original providers; verify before financial use.",
@@ -548,28 +548,28 @@
       "path": "history/LINK_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/LINK_USD.json",
       "description": "Daily OHLC history for LINK_USD",
-      "records": 3299,
+      "records": 3300,
       "unit": "USD"
     },
     {
       "path": "history/USDC_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/USDC_USD.json",
       "description": "Daily OHLC history for USDC_USD",
-      "records": 2898,
+      "records": 2899,
       "unit": "USD"
     },
     {
       "path": "history/SHIB_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/SHIB_USD.json",
       "description": "Daily OHLC history for SHIB_USD",
-      "records": 2255,
+      "records": 2256,
       "unit": "USD"
     },
     {
       "path": "history/DOT_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DOT_USD.json",
       "description": "Daily OHLC history for DOT_USD",
-      "records": 2235,
+      "records": 2236,
       "unit": "USD"
     },
     {
