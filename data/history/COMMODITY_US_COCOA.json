@@ -52005,11 +52005,11 @@
       "t_tehran": "2026-10-03T00:00:00+03:30",
       "open": 5605.55,
       "high": 5670,
-      "low": 5605.13,
+      "low": 5605.05,
       "close": 5670,
       "volume": null,
       "ticks": 5,
-      "origin": "derived",
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/11"
     }
@@ -52021,7 +52021,7 @@
     "unit": "toman",
     "count": 3993,
     "next_cursor": null,
-    "published_at": "2026-10-03T12:30:01.359Z",
+    "published_at": "2026-10-04T14:00:01.418Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_US_COCOA.json",
     "currency": "USD"
