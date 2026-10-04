@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-04T19:00:01.420Z",
+    "published_at": "2026-10-04T19:30:01.505Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -1461,7 +1461,7 @@
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
       "to": "2026-09-24T20:30:00.000Z",
-      "history_published_at": "2026-10-03T22:00:01.313Z"
+      "history_published_at": "2026-10-04T19:30:01.505Z"
     },
     {
       "symbol": "COMMODITY_ORANGE_JUICE",
@@ -1474,7 +1474,7 @@
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
       "to": "2026-10-02T20:30:00.000Z",
-      "history_published_at": "2026-10-03T22:00:01.313Z"
+      "history_published_at": "2026-10-04T19:30:01.505Z"
     },
     {
       "symbol": "COMMODITY_SOYBEAN_OIL",
@@ -1487,7 +1487,7 @@
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
       "to": "2026-10-02T20:30:00.000Z",
-      "history_published_at": "2026-10-03T22:00:01.313Z"
+      "history_published_at": "2026-10-04T19:30:01.505Z"
     },
     {
       "symbol": "ALUMINIUM",
@@ -1565,7 +1565,7 @@
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
       "to": "2026-10-01T20:30:00.000Z",
-      "history_published_at": "2026-10-03T22:00:01.313Z"
+      "history_published_at": "2026-10-04T19:30:01.505Z"
     },
     {
       "symbol": "BASE_GLOBAL_TIN",
