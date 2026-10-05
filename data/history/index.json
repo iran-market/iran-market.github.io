@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-05T09:30:01.533Z",
+    "published_at": "2026-10-05T10:00:01.365Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -1223,11 +1223,11 @@
       "category": "commodity",
       "file": "history/COMMODITY_LONDON_COFFEE.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_LONDON_COFFEE.json",
-      "records": 4003,
+      "records": 4004,
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-10-01T20:30:00.000Z",
-      "history_published_at": "2026-10-04T14:00:01.418Z"
+      "to": "2026-10-04T20:30:00.000Z",
+      "history_published_at": "2026-10-05T10:00:01.365Z"
     },
     {
       "symbol": "COMMODITY_US_COFFEE_C",
@@ -1236,11 +1236,11 @@
       "category": "commodity",
       "file": "history/COMMODITY_US_COFFEE_C.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_US_COFFEE_C.json",
-      "records": 3996,
+      "records": 3997,
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-10-02T20:30:00.000Z",
-      "history_published_at": "2026-10-04T14:00:01.418Z"
+      "to": "2026-10-04T20:30:00.000Z",
+      "history_published_at": "2026-10-05T10:00:01.365Z"
     },
     {
       "symbol": "COMMODITY_LONDON_COCOA",
@@ -1253,7 +1253,7 @@
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
       "to": "2026-09-24T20:30:00.000Z",
-      "history_published_at": "2026-10-04T14:00:01.418Z"
+      "history_published_at": "2026-10-05T10:00:01.365Z"
     },
     {
       "symbol": "COMMODITY_US_COCOA",
@@ -1262,11 +1262,11 @@
       "category": "commodity",
       "file": "history/COMMODITY_US_COCOA.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_US_COCOA.json",
-      "records": 3993,
+      "records": 3994,
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-10-02T20:30:00.000Z",
-      "history_published_at": "2026-10-04T14:00:01.418Z"
+      "to": "2026-10-04T20:30:00.000Z",
+      "history_published_at": "2026-10-05T10:00:01.365Z"
     },
     {
       "symbol": "COMMODITY_US_SUGAR_NO11",

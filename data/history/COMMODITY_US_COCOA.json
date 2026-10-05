@@ -52012,6 +52012,19 @@
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/11"
+    },
+    {
+      "t": "2026-10-04T20:30:00.000Z",
+      "t_tehran": "2026-10-05T00:00:00+03:30",
+      "open": 5615.36,
+      "high": 5615.36,
+      "low": 5615.36,
+      "close": 5615.36,
+      "volume": null,
+      "ticks": 1,
+      "origin": "derived",
+      "quality": [],
+      "date_jalali": "1405/07/13"
     }
   ],
   "meta": {
@@ -52019,9 +52032,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 3993,
+    "count": 3994,
     "next_cursor": null,
-    "published_at": "2026-10-04T14:00:01.418Z",
+    "published_at": "2026-10-05T10:00:01.365Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_US_COCOA.json",
     "currency": "USD"
