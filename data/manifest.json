@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-05T23:00:01.526Z",
+  "generated_at": "2026-10-05T23:30:01.300Z",
   "update_frequency_minutes": 30,
   "source": "TGJU",
   "license_note": "Market data belongs to its original providers; verify before financial use.",
@@ -184,28 +184,28 @@
       "path": "history/BHD_IRR_FREE.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BHD_IRR_FREE.json",
       "description": "Daily OHLC history for BHD_IRR_FREE",
-      "records": 3231,
+      "records": 3232,
       "unit": "IRT"
     },
     {
       "path": "history/AZN_IRR_FREE.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/AZN_IRR_FREE.json",
       "description": "Daily OHLC history for AZN_IRR_FREE",
-      "records": 3227,
+      "records": 3228,
       "unit": "IRT"
     },
     {
       "path": "history/OMR_IRR_FREE.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/OMR_IRR_FREE.json",
       "description": "Daily OHLC history for OMR_IRR_FREE",
-      "records": 3223,
+      "records": 3224,
       "unit": "IRT"
     },
     {
       "path": "history/KWD_IRR_FREE.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/KWD_IRR_FREE.json",
       "description": "Daily OHLC history for KWD_IRR_FREE",
-      "records": 3220,
+      "records": 3221,
       "unit": "IRT"
     },
     {
