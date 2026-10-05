@@ -25701,7 +25701,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1401/01/06"
     },
     {
@@ -29276,7 +29278,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1402/01/04"
     },
     {
@@ -29354,7 +29358,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1402/01/14"
     },
     {
@@ -32916,7 +32922,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1403/01/04"
     },
     {
@@ -33085,7 +33093,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1403/01/24"
     },
     {
@@ -36647,7 +36657,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1404/01/04"
     },
     {
@@ -36712,7 +36724,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1404/01/15"
     },
     {
@@ -37375,7 +37389,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1404/03/16"
     },
     {
@@ -37453,7 +37469,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1404/04/06"
     },
     {
@@ -42291,6 +42309,19 @@
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/11"
+    },
+    {
+      "t": "2026-10-03T20:30:00.000Z",
+      "t_tehran": "2026-10-04T00:00:00+03:30",
+      "open": 3219,
+      "high": 3243,
+      "low": 3169,
+      "close": 3199,
+      "volume": null,
+      "ticks": 11,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/07/12"
     }
   ],
   "meta": {
@@ -42298,9 +42329,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 3250,
+    "count": 3251,
     "next_cursor": null,
-    "published_at": "2026-10-04T07:00:01.466Z",
+    "published_at": "2026-10-05T03:00:01.540Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/RUB_IRR_FREE.json",
     "currency": "IRT"
