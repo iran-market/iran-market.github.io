@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-05T10:00:01.365Z",
+    "published_at": "2026-10-05T10:30:01.352Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -1275,11 +1275,11 @@
       "category": "commodity",
       "file": "history/COMMODITY_US_SUGAR_NO11.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_US_SUGAR_NO11.json",
-      "records": 3998,
+      "records": 3999,
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-10-02T20:30:00.000Z",
-      "history_published_at": "2026-10-04T14:30:01.609Z"
+      "to": "2026-10-04T20:30:00.000Z",
+      "history_published_at": "2026-10-05T10:30:01.352Z"
     },
     {
       "symbol": "COMMODITY_CORN",
@@ -1288,11 +1288,11 @@
       "category": "commodity",
       "file": "history/COMMODITY_CORN.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_CORN.json",
-      "records": 4038,
+      "records": 4039,
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-10-02T20:30:00.000Z",
-      "history_published_at": "2026-10-04T14:30:01.609Z"
+      "to": "2026-10-04T20:30:00.000Z",
+      "history_published_at": "2026-10-05T10:30:01.352Z"
     },
     {
       "symbol": "COMMODITY_LONDON_WHEAT",
@@ -1301,11 +1301,11 @@
       "category": "commodity",
       "file": "history/COMMODITY_LONDON_WHEAT.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_LONDON_WHEAT.json",
-      "records": 3929,
+      "records": 3930,
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-10-01T20:30:00.000Z",
-      "history_published_at": "2026-10-04T14:30:01.609Z"
+      "to": "2026-10-04T20:30:00.000Z",
+      "history_published_at": "2026-10-05T10:30:01.352Z"
     },
     {
       "symbol": "COMMODITY_US_WHEAT",
@@ -1314,11 +1314,11 @@
       "category": "commodity",
       "file": "history/COMMODITY_US_WHEAT.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_US_WHEAT.json",
-      "records": 4135,
+      "records": 4136,
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-10-02T20:30:00.000Z",
-      "history_published_at": "2026-10-04T14:30:01.609Z"
+      "to": "2026-10-04T20:30:00.000Z",
+      "history_published_at": "2026-10-05T10:30:01.352Z"
     },
     {
       "symbol": "COMMODITY_ROUGH_RICE",
