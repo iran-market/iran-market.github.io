@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-05T09:00:01.613Z",
+  "generated_at": "2026-10-05T09:30:01.533Z",
   "update_frequency_minutes": 30,
   "source": "TGJU",
   "license_note": "Market data belongs to its original providers; verify before financial use.",
@@ -674,7 +674,7 @@
       "path": "history/ENERGY_NATURAL_GAS.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/ENERGY_NATURAL_GAS.json",
       "description": "Daily OHLC history for ENERGY_NATURAL_GAS",
-      "records": 4136,
+      "records": 4137,
       "unit": "USD"
     },
     {
@@ -688,7 +688,7 @@
       "path": "history/ENERGY_GASOLINE_RBOB.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/ENERGY_GASOLINE_RBOB.json",
       "description": "Daily OHLC history for ENERGY_GASOLINE_RBOB",
-      "records": 4087,
+      "records": 4088,
       "unit": "USD"
     },
     {
