@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-05T10:30:01.352Z",
+    "published_at": "2026-10-05T11:00:01.430Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -1327,11 +1327,11 @@
       "category": "commodity",
       "file": "history/COMMODITY_ROUGH_RICE.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_ROUGH_RICE.json",
-      "records": 3994,
+      "records": 3995,
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-10-02T20:30:00.000Z",
-      "history_published_at": "2026-10-04T15:00:01.568Z"
+      "to": "2026-10-04T20:30:00.000Z",
+      "history_published_at": "2026-10-05T11:00:01.430Z"
     },
     {
       "symbol": "COMMODITY_SOYBEANS",
@@ -1340,11 +1340,11 @@
       "category": "commodity",
       "file": "history/COMMODITY_SOYBEANS.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_SOYBEANS.json",
-      "records": 4131,
+      "records": 4132,
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-10-02T20:30:00.000Z",
-      "history_published_at": "2026-10-04T15:00:01.568Z"
+      "to": "2026-10-04T20:30:00.000Z",
+      "history_published_at": "2026-10-05T11:00:01.430Z"
     },
     {
       "symbol": "COMMODITY_COTTON",
@@ -1353,11 +1353,11 @@
       "category": "commodity",
       "file": "history/COMMODITY_COTTON.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_COTTON.json",
-      "records": 4025,
+      "records": 4026,
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-10-02T20:30:00.000Z",
-      "history_published_at": "2026-10-04T15:00:01.568Z"
+      "to": "2026-10-04T20:30:00.000Z",
+      "history_published_at": "2026-10-05T11:00:01.430Z"
     },
     {
       "symbol": "COMMODITY_BARLEY",
@@ -1370,7 +1370,7 @@
       "currency": "USD",
       "from": "2026-07-24T20:30:00.000Z",
       "to": "2026-10-01T20:30:00.000Z",
-      "history_published_at": "2026-10-04T15:00:01.568Z"
+      "history_published_at": "2026-10-05T11:00:01.430Z"
     },
     {
       "symbol": "COMMODITY_OATS",
