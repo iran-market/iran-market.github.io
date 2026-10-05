@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-05T06:30:01.648Z",
+    "published_at": "2026-10-05T07:00:01.385Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -642,7 +642,7 @@
       "currency": "IRT",
       "from": "2019-02-11T20:30:00.000Z",
       "to": "2026-10-03T20:30:00.000Z",
-      "history_published_at": "2026-10-04T11:00:01.473Z"
+      "history_published_at": "2026-10-05T07:00:01.385Z"
     },
     {
       "symbol": "GOLD_MELTED_WHOLESALE",
@@ -655,7 +655,7 @@
       "currency": "IRT",
       "from": "2017-04-06T19:30:00.000Z",
       "to": "2026-10-03T20:30:00.000Z",
-      "history_published_at": "2026-10-04T11:00:01.473Z"
+      "history_published_at": "2026-10-05T07:00:01.385Z"
     },
     {
       "symbol": "GOLD_17",
@@ -668,7 +668,7 @@
       "currency": "IRT",
       "from": "2017-04-06T19:30:00.000Z",
       "to": "2026-10-03T20:30:00.000Z",
-      "history_published_at": "2026-10-04T11:00:01.473Z"
+      "history_published_at": "2026-10-05T07:00:01.385Z"
     },
     {
       "symbol": "GOLD_FUTURES",
@@ -681,7 +681,7 @@
       "currency": "IRT",
       "from": "2018-03-16T20:30:00.000Z",
       "to": "2026-10-03T20:30:00.000Z",
-      "history_published_at": "2026-10-04T11:00:01.473Z"
+      "history_published_at": "2026-10-05T07:00:01.385Z"
     },
     {
       "symbol": "GOLD_WORLD_FUTURES",
