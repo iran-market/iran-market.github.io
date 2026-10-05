@@ -30098,13 +30098,13 @@
     {
       "t": "2026-10-03T20:30:00.000Z",
       "t_tehran": "2026-10-04T00:00:00+03:30",
-      "open": 142450000,
+      "open": 142360000,
       "high": 144490000,
-      "low": 142450000,
-      "close": 144490000,
+      "low": 141760000,
+      "close": 143010000,
       "volume": null,
-      "ticks": 3,
-      "origin": "derived",
+      "ticks": 11,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/12"
     }
@@ -30116,7 +30116,7 @@
     "unit": "toman",
     "count": 2308,
     "next_cursor": null,
-    "published_at": "2026-10-04T10:00:01.438Z",
+    "published_at": "2026-10-05T06:00:01.499Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_HALF_RETAIL_IRR.json",
     "currency": "IRT"
