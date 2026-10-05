@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-05T05:00:01.279Z",
+    "published_at": "2026-10-05T05:30:01.355Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -486,7 +486,7 @@
       "currency": "IRT",
       "from": "2013-07-21T19:30:00.000Z",
       "to": "2026-10-03T20:30:00.000Z",
-      "history_published_at": "2026-10-04T09:30:01.321Z"
+      "history_published_at": "2026-10-05T05:30:01.355Z"
     },
     {
       "symbol": "COIN_QUARTER_IRR",
@@ -499,7 +499,7 @@
       "currency": "IRT",
       "from": "2013-07-21T19:30:00.000Z",
       "to": "2026-10-03T20:30:00.000Z",
-      "history_published_at": "2026-10-04T09:30:01.321Z"
+      "history_published_at": "2026-10-05T05:30:01.355Z"
     },
     {
       "symbol": "COIN_GRAMI_IRR",
@@ -508,11 +508,11 @@
       "category": "coin",
       "file": "history/COIN_GRAMI_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_GRAMI_IRR.json",
-      "records": 3364,
+      "records": 3365,
       "currency": "IRT",
       "from": "2013-07-21T19:30:00.000Z",
-      "to": "2026-10-02T20:30:00.000Z",
-      "history_published_at": "2026-10-04T09:30:01.321Z"
+      "to": "2026-10-03T20:30:00.000Z",
+      "history_published_at": "2026-10-05T05:30:01.355Z"
     },
     {
       "symbol": "COIN_EMAMI_RETAIL_IRR",
@@ -525,7 +525,7 @@
       "currency": "IRT",
       "from": "2017-07-04T19:30:00.000Z",
       "to": "2026-10-03T20:30:00.000Z",
-      "history_published_at": "2026-10-04T09:30:01.321Z"
+      "history_published_at": "2026-10-05T05:30:01.355Z"
     },
     {
       "symbol": "COIN_BAHAR_RETAIL_IRR",
