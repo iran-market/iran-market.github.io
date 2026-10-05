@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-05T12:00:01.435Z",
+    "published_at": "2026-10-05T12:30:01.504Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -898,11 +898,11 @@
       "category": "crypto",
       "file": "history/XLM_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/XLM_USD.json",
-      "records": 4443,
+      "records": 4444,
       "currency": "USD",
       "from": "2014-08-04T19:30:00.000Z",
-      "to": "2026-10-03T20:30:00.000Z",
-      "history_published_at": "2026-10-04T16:30:01.526Z"
+      "to": "2026-10-04T20:30:00.000Z",
+      "history_published_at": "2026-10-05T12:30:01.504Z"
     },
     {
       "symbol": "USDT_USD",
@@ -915,7 +915,7 @@
       "currency": "USD",
       "from": "2015-02-24T20:30:00.000Z",
       "to": "2026-09-29T20:30:00.000Z",
-      "history_published_at": "2026-10-04T16:30:01.526Z"
+      "history_published_at": "2026-10-05T12:30:01.504Z"
     },
     {
       "symbol": "ETC_USD",
@@ -924,11 +924,11 @@
       "category": "crypto",
       "file": "history/ETC_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/ETC_USD.json",
-      "records": 3724,
+      "records": 3725,
       "currency": "USD",
       "from": "2016-07-23T19:30:00.000Z",
-      "to": "2026-10-03T20:30:00.000Z",
-      "history_published_at": "2026-10-04T16:30:01.526Z"
+      "to": "2026-10-04T20:30:00.000Z",
+      "history_published_at": "2026-10-05T12:30:01.504Z"
     },
     {
       "symbol": "BCH_USD",
@@ -937,11 +937,11 @@
       "category": "crypto",
       "file": "history/BCH_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BCH_USD.json",
-      "records": 3360,
+      "records": 3361,
       "currency": "USD",
       "from": "2017-07-22T19:30:00.000Z",
-      "to": "2026-10-03T20:30:00.000Z",
-      "history_published_at": "2026-10-04T16:30:01.526Z"
+      "to": "2026-10-04T20:30:00.000Z",
+      "history_published_at": "2026-10-05T12:30:01.504Z"
     },
     {
       "symbol": "LINK_USD",
