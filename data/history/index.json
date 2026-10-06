@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-06T08:30:01.339Z",
+    "published_at": "2026-10-06T09:00:01.555Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -950,11 +950,11 @@
       "category": "crypto",
       "file": "history/LINK_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/LINK_USD.json",
-      "records": 3301,
+      "records": 3302,
       "currency": "USD",
       "from": "2017-09-19T19:30:00.000Z",
-      "to": "2026-10-04T20:30:00.000Z",
-      "history_published_at": "2026-10-05T13:00:01.519Z"
+      "to": "2026-10-05T20:30:00.000Z",
+      "history_published_at": "2026-10-06T09:00:01.555Z"
     },
     {
       "symbol": "USDC_USD",
@@ -963,11 +963,11 @@
       "category": "crypto",
       "file": "history/USDC_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/USDC_USD.json",
-      "records": 2899,
+      "records": 2901,
       "currency": "USD",
       "from": "2018-10-07T20:30:00.000Z",
-      "to": "2026-10-03T20:30:00.000Z",
-      "history_published_at": "2026-10-05T13:00:01.519Z"
+      "to": "2026-10-05T20:30:00.000Z",
+      "history_published_at": "2026-10-06T09:00:01.555Z"
     },
     {
       "symbol": "SHIB_USD",
@@ -976,11 +976,11 @@
       "category": "crypto",
       "file": "history/SHIB_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/SHIB_USD.json",
-      "records": 2257,
+      "records": 2258,
       "currency": "USD",
       "from": "2020-07-31T19:30:00.000Z",
-      "to": "2026-10-04T20:30:00.000Z",
-      "history_published_at": "2026-10-05T13:00:01.519Z"
+      "to": "2026-10-05T20:30:00.000Z",
+      "history_published_at": "2026-10-06T09:00:01.555Z"
     },
     {
       "symbol": "DOT_USD",
@@ -989,11 +989,11 @@
       "category": "crypto",
       "file": "history/DOT_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DOT_USD.json",
-      "records": 2237,
+      "records": 2238,
       "currency": "USD",
       "from": "2020-08-19T19:30:00.000Z",
-      "to": "2026-10-04T20:30:00.000Z",
-      "history_published_at": "2026-10-05T13:00:01.519Z"
+      "to": "2026-10-05T20:30:00.000Z",
+      "history_published_at": "2026-10-06T09:00:01.555Z"
     },
     {
       "symbol": "AVAX_USD",
