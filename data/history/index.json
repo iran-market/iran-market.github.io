@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-06T22:00:01.399Z",
+    "published_at": "2026-10-06T22:30:01.296Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -586,11 +586,11 @@
       "category": "coin",
       "file": "history/COIN_EMAMI_BUBBLE_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_EMAMI_BUBBLE_IRR.json",
-      "records": 1999,
+      "records": 2000,
       "currency": "IRT",
       "from": "2019-01-04T20:30:00.000Z",
-      "to": "2026-10-04T20:30:00.000Z",
-      "history_published_at": "2026-10-06T02:30:01.310Z"
+      "to": "2026-10-05T20:30:00.000Z",
+      "history_published_at": "2026-10-06T22:30:01.296Z"
     },
     {
       "symbol": "COIN_BAHAR_BUBBLE_IRR",
@@ -599,11 +599,11 @@
       "category": "coin",
       "file": "history/COIN_BAHAR_BUBBLE_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_BAHAR_BUBBLE_IRR.json",
-      "records": 1970,
+      "records": 1971,
       "currency": "IRT",
       "from": "2019-02-11T20:30:00.000Z",
-      "to": "2026-10-04T20:30:00.000Z",
-      "history_published_at": "2026-10-06T02:30:01.310Z"
+      "to": "2026-10-05T20:30:00.000Z",
+      "history_published_at": "2026-10-06T22:30:01.296Z"
     },
     {
       "symbol": "COIN_HALF_BUBBLE_IRR",
@@ -612,11 +612,11 @@
       "category": "coin",
       "file": "history/COIN_HALF_BUBBLE_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_HALF_BUBBLE_IRR.json",
-      "records": 1968,
+      "records": 1969,
       "currency": "IRT",
       "from": "2019-02-11T20:30:00.000Z",
-      "to": "2026-10-04T20:30:00.000Z",
-      "history_published_at": "2026-10-06T02:30:01.310Z"
+      "to": "2026-10-05T20:30:00.000Z",
+      "history_published_at": "2026-10-06T22:30:01.296Z"
     },
     {
       "symbol": "COIN_QUARTER_BUBBLE_IRR",
@@ -625,11 +625,11 @@
       "category": "coin",
       "file": "history/COIN_QUARTER_BUBBLE_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_QUARTER_BUBBLE_IRR.json",
-      "records": 1969,
+      "records": 1970,
       "currency": "IRT",
       "from": "2019-02-11T20:30:00.000Z",
-      "to": "2026-10-04T20:30:00.000Z",
-      "history_published_at": "2026-10-06T02:30:01.310Z"
+      "to": "2026-10-05T20:30:00.000Z",
+      "history_published_at": "2026-10-06T22:30:01.296Z"
     },
     {
       "symbol": "COIN_GRAMI_BUBBLE_IRR",
