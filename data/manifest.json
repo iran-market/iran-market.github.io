@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-05T23:30:01.300Z",
+  "generated_at": "2026-10-06T00:00:01.654Z",
   "update_frequency_minutes": 30,
   "source": "TGJU",
   "license_note": "Market data belongs to its original providers; verify before financial use.",
@@ -212,28 +212,28 @@
       "path": "history/NOK_IRR_FREE.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/NOK_IRR_FREE.json",
       "description": "Daily OHLC history for NOK_IRR_FREE",
-      "records": 3180,
+      "records": 3181,
       "unit": "IRT"
     },
     {
       "path": "history/GOLD_18K_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/GOLD_18K_IRR.json",
       "description": "Daily OHLC history for GOLD_18K_IRR",
-      "records": 3520,
+      "records": 3521,
       "unit": "IRT"
     },
     {
       "path": "history/GOLD_24K_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/GOLD_24K_IRR.json",
       "description": "Daily OHLC history for GOLD_24K_IRR",
-      "records": 3379,
+      "records": 3380,
       "unit": "IRT"
     },
     {
       "path": "history/GOLD_USED_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/GOLD_USED_IRR.json",
       "description": "Daily OHLC history for GOLD_USED_IRR",
-      "records": 2200,
+      "records": 2201,
       "unit": "IRT"
     },
     {
