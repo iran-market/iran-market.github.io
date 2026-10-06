@@ -23,7 +23,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1393/05/04"
     },
     {
@@ -2324,7 +2326,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1394/01/04"
     },
     {
@@ -2402,7 +2406,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1394/01/14"
     },
     {
@@ -3026,7 +3032,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1394/03/15"
     },
     {
@@ -4820,7 +4828,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1394/09/22"
     },
     {
@@ -5626,7 +5636,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1395/01/04"
     },
     {
@@ -6523,7 +6535,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1395/04/19"
     },
     {
@@ -8707,7 +8721,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1396/01/04"
     },
     {
@@ -8785,7 +8801,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1396/01/14"
     },
     {
@@ -9279,7 +9297,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1396/03/16"
     },
     {
@@ -11645,7 +11665,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1397/01/04"
     },
     {
@@ -11710,7 +11732,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1397/01/14"
     },
     {
@@ -12334,7 +12358,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1397/03/17"
     },
     {
@@ -13309,7 +13335,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1397/06/31"
     },
     {
@@ -13777,7 +13805,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1397/08/18"
     },
     {
@@ -15012,7 +15042,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1398/01/05"
     },
     {
@@ -15064,7 +15096,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1398/01/14"
     },
     {
@@ -15584,7 +15618,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1398/03/18"
     },
     {
@@ -16377,7 +16413,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1398/06/20"
     },
     {
@@ -18145,7 +18183,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1399/01/04"
     },
     {
@@ -18223,7 +18263,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1399/01/14"
     },
     {
@@ -18756,7 +18798,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1399/03/06"
     },
     {
@@ -18821,7 +18865,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1399/03/17"
     },
     {
@@ -19601,7 +19647,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1399/06/10"
     },
     {
@@ -21473,7 +21521,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1400/01/04"
     },
     {
@@ -22110,7 +22160,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1400/03/17"
     },
     {
@@ -24931,7 +24983,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1401/01/06"
     },
     {
@@ -28506,7 +28560,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1402/01/04"
     },
     {
@@ -28584,7 +28640,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1402/01/14"
     },
     {
@@ -32172,7 +32230,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1403/01/04"
     },
     {
@@ -32341,7 +32401,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1403/01/24"
     },
     {
@@ -35916,7 +35978,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1404/01/04"
     },
     {
@@ -35981,7 +36045,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1404/01/15"
     },
     {
@@ -36644,7 +36710,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1404/03/16"
     },
     {
@@ -36722,7 +36790,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1404/04/03"
     },
     {
@@ -41010,7 +41080,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1405/05/14"
     },
     {
@@ -41636,6 +41708,19 @@
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/13"
+    },
+    {
+      "t": "2026-10-05T20:30:00.000Z",
+      "t_tehran": "2026-10-06T00:00:00+03:30",
+      "open": 170142,
+      "high": 170407,
+      "low": 169644,
+      "close": 169861,
+      "volume": null,
+      "ticks": 10,
+      "origin": "derived",
+      "quality": [],
+      "date_jalali": "1405/07/14"
     }
   ],
   "meta": {
@@ -41643,9 +41728,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 3200,
+    "count": 3201,
     "next_cursor": null,
-    "published_at": "2026-10-05T22:00:01.496Z",
+    "published_at": "2026-10-06T18:00:01.369Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/JPY_IRR_FREE.json",
     "currency": "IRT"
