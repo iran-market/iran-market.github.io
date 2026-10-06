@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-06T07:30:01.315Z",
+  "generated_at": "2026-10-06T08:00:01.309Z",
   "update_frequency_minutes": 30,
   "source": "TGJU",
   "license_note": "Market data belongs to its original providers; verify before financial use.",
@@ -513,7 +513,7 @@
       "path": "history/XMR_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/XMR_USD.json",
       "description": "Daily OHLC history for XMR_USD",
-      "records": 4519,
+      "records": 4520,
       "unit": "USD"
     },
     {
@@ -863,14 +863,14 @@
       "path": "history/BASE_GLOBAL_NICKEL.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BASE_GLOBAL_NICKEL.json",
       "description": "Daily OHLC history for BASE_GLOBAL_NICKEL",
-      "records": 3933,
+      "records": 3934,
       "unit": "USD"
     },
     {
       "path": "history/BASE_GLOBAL_ZINC.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BASE_GLOBAL_ZINC.json",
       "description": "Daily OHLC history for BASE_GLOBAL_ZINC",
-      "records": 3941,
+      "records": 3942,
       "unit": "USD"
     },
     {
