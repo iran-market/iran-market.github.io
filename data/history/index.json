@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-07T20:00:01.638Z",
+    "published_at": "2026-10-07T20:30:01.649Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -798,7 +798,7 @@
       "currency": "USD",
       "from": "2020-04-09T19:30:00.000Z",
       "to": "2026-10-06T20:30:00.000Z",
-      "history_published_at": "2026-10-07T00:30:01.447Z"
+      "history_published_at": "2026-10-07T20:30:01.649Z"
     },
     {
       "symbol": "XRP_USD",
@@ -811,7 +811,7 @@
       "currency": "USD",
       "from": "2013-08-03T19:30:00.000Z",
       "to": "2026-10-06T20:30:00.000Z",
-      "history_published_at": "2026-10-07T00:30:01.447Z"
+      "history_published_at": "2026-10-07T20:30:01.649Z"
     },
     {
       "symbol": "BNB_USD",
@@ -824,7 +824,7 @@
       "currency": "USD",
       "from": "2017-07-24T19:30:00.000Z",
       "to": "2026-10-06T20:30:00.000Z",
-      "history_published_at": "2026-10-07T00:30:01.447Z"
+      "history_published_at": "2026-10-07T20:30:01.649Z"
     },
     {
       "symbol": "ADA_USD",
@@ -837,7 +837,7 @@
       "currency": "USD",
       "from": "2017-09-30T20:30:00.000Z",
       "to": "2026-10-06T20:30:00.000Z",
-      "history_published_at": "2026-10-07T00:30:01.447Z"
+      "history_published_at": "2026-10-07T20:30:01.649Z"
     },
     {
       "symbol": "TRX_USD",

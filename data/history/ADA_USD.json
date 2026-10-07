@@ -42801,10 +42801,10 @@
       "t_tehran": "2026-10-07T00:00:00+03:30",
       "open": 0.27114131,
       "high": 0.27114131,
-      "low": 0.2675523,
-      "close": 0.26758744,
+      "low": 0.25277403,
+      "close": 0.25535241,
       "volume": null,
-      "ticks": 4,
+      "ticks": 24,
       "origin": "derived",
       "quality": [],
       "date_jalali": "1405/07/15"
@@ -42817,7 +42817,7 @@
     "unit": "toman",
     "count": 3293,
     "next_cursor": null,
-    "published_at": "2026-10-07T00:30:01.447Z",
+    "published_at": "2026-10-07T20:30:01.649Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/ADA_USD.json",
     "currency": "USD"

@@ -30839,10 +30839,10 @@
       "t_tehran": "2026-10-07T00:00:00+03:30",
       "open": 121.06,
       "high": 121.06,
-      "low": 120.9,
-      "close": 120.9,
+      "low": 115.81,
+      "close": 115.81,
       "volume": null,
-      "ticks": 4,
+      "ticks": 24,
       "origin": "derived",
       "quality": [],
       "date_jalali": "1405/07/15"
@@ -30855,7 +30855,7 @@
     "unit": "toman",
     "count": 2371,
     "next_cursor": null,
-    "published_at": "2026-10-07T00:30:01.447Z",
+    "published_at": "2026-10-07T20:30:01.649Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/SOL_USD.json",
     "currency": "USD"
