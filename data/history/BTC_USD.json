@@ -74859,10 +74859,10 @@
       "t_tehran": "2026-10-07T00:00:00+03:30",
       "open": 85618.65,
       "high": 85618.65,
-      "low": 85553.41,
-      "close": 85585.39,
+      "low": 83023.37,
+      "close": 83402.35,
       "volume": null,
-      "ticks": 4,
+      "ticks": 24,
       "origin": "derived",
       "quality": [],
       "date_jalali": "1405/07/15"
@@ -74875,7 +74875,7 @@
     "unit": "toman",
     "count": 5759,
     "next_cursor": null,
-    "published_at": "2026-10-07T00:00:01.394Z",
+    "published_at": "2026-10-07T20:00:01.638Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BTC_USD.json",
     "currency": "USD"

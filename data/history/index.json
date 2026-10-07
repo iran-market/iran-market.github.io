@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-07T19:30:01.394Z",
+    "published_at": "2026-10-07T20:00:01.638Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -742,11 +742,11 @@
       "category": "crypto",
       "file": "history/USDT_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/USDT_IRR.json",
-      "records": 2068,
+      "records": 2069,
       "currency": "IRT",
       "from": "2020-09-15T19:30:00.000Z",
-      "to": "2026-10-05T20:30:00.000Z",
-      "history_published_at": "2026-10-07T00:00:01.394Z"
+      "to": "2026-10-06T20:30:00.000Z",
+      "history_published_at": "2026-10-07T20:00:01.638Z"
     },
     {
       "symbol": "BTC_USD",
@@ -759,7 +759,7 @@
       "currency": "USD",
       "from": "2010-12-31T20:30:00.000Z",
       "to": "2026-10-06T20:30:00.000Z",
-      "history_published_at": "2026-10-07T00:00:01.394Z"
+      "history_published_at": "2026-10-07T20:00:01.638Z"
     },
     {
       "symbol": "ETH_USD",
@@ -772,7 +772,7 @@
       "currency": "USD",
       "from": "2015-08-06T19:30:00.000Z",
       "to": "2026-10-06T20:30:00.000Z",
-      "history_published_at": "2026-10-07T00:00:01.394Z"
+      "history_published_at": "2026-10-07T20:00:01.638Z"
     },
     {
       "symbol": "DOGE_USD",
@@ -785,7 +785,7 @@
       "currency": "USD",
       "from": "2013-12-14T20:30:00.000Z",
       "to": "2026-10-06T20:30:00.000Z",
-      "history_published_at": "2026-10-07T00:00:01.394Z"
+      "history_published_at": "2026-10-07T20:00:01.638Z"
     },
     {
       "symbol": "SOL_USD",

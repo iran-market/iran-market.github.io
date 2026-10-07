@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-07T19:30:01.394Z",
+  "generated_at": "2026-10-07T20:00:01.638Z",
   "update_frequency_minutes": 30,
   "source": "TGJU",
   "license_note": "Market data belongs to its original providers; verify before financial use.",
@@ -436,7 +436,7 @@
       "path": "history/USDT_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/USDT_IRR.json",
       "description": "Daily OHLC history for USDT_IRR",
-      "records": 2068,
+      "records": 2069,
       "unit": "IRT"
     },
     {
