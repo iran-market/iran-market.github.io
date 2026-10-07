@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-07T04:00:01.564Z",
+  "generated_at": "2026-10-07T04:30:01.510Z",
   "update_frequency_minutes": 30,
   "source": "TGJU",
   "license_note": "Market data belongs to its original providers; verify before financial use.",
@@ -520,28 +520,28 @@
       "path": "history/XLM_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/XLM_USD.json",
       "description": "Daily OHLC history for XLM_USD",
-      "records": 4445,
+      "records": 4446,
       "unit": "USD"
     },
     {
       "path": "history/USDT_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/USDT_USD.json",
       "description": "Daily OHLC history for USDT_USD",
-      "records": 4228,
+      "records": 4230,
       "unit": "USD"
     },
     {
       "path": "history/ETC_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/ETC_USD.json",
       "description": "Daily OHLC history for ETC_USD",
-      "records": 3726,
+      "records": 3727,
       "unit": "USD"
     },
     {
       "path": "history/BCH_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BCH_USD.json",
       "description": "Daily OHLC history for BCH_USD",
-      "records": 3362,
+      "records": 3363,
       "unit": "USD"
     },
     {
