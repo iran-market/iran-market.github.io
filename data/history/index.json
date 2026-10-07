@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-07T03:30:01.402Z",
+    "published_at": "2026-10-07T04:00:01.564Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -885,11 +885,11 @@
       "category": "crypto",
       "file": "history/XMR_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/XMR_USD.json",
-      "records": 4520,
+      "records": 4521,
       "currency": "USD",
       "from": "2014-05-20T19:30:00.000Z",
-      "to": "2026-10-05T20:30:00.000Z",
-      "history_published_at": "2026-10-06T08:00:01.309Z"
+      "to": "2026-10-06T20:30:00.000Z",
+      "history_published_at": "2026-10-07T04:00:01.564Z"
     },
     {
       "symbol": "XLM_USD",
@@ -1526,7 +1526,7 @@
       "currency": "USD",
       "from": "2026-07-24T20:30:00.000Z",
       "to": "2026-09-29T20:30:00.000Z",
-      "history_published_at": "2026-10-06T08:00:01.309Z"
+      "history_published_at": "2026-10-07T04:00:01.564Z"
     },
     {
       "symbol": "BASE_GLOBAL_NICKEL",
@@ -1535,11 +1535,11 @@
       "category": "commodity",
       "file": "history/BASE_GLOBAL_NICKEL.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BASE_GLOBAL_NICKEL.json",
-      "records": 3934,
+      "records": 3935,
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-10-05T20:30:00.000Z",
-      "history_published_at": "2026-10-06T08:00:01.309Z"
+      "to": "2026-10-06T20:30:00.000Z",
+      "history_published_at": "2026-10-07T04:00:01.564Z"
     },
     {
       "symbol": "BASE_GLOBAL_ZINC",
@@ -1548,11 +1548,11 @@
       "category": "commodity",
       "file": "history/BASE_GLOBAL_ZINC.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BASE_GLOBAL_ZINC.json",
-      "records": 3942,
+      "records": 3943,
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-10-05T20:30:00.000Z",
-      "history_published_at": "2026-10-06T08:00:01.309Z"
+      "to": "2026-10-06T20:30:00.000Z",
+      "history_published_at": "2026-10-07T04:00:01.564Z"
     },
     {
       "symbol": "BASE_GLOBAL_LEAD",
