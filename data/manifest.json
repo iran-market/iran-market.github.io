@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-07T17:30:01.453Z",
+  "generated_at": "2026-10-07T18:00:01.536Z",
   "update_frequency_minutes": 30,
   "source": "TGJU",
   "license_note": "Market data belongs to its original providers; verify before financial use.",
@@ -324,28 +324,28 @@
       "path": "history/COIN_BAHAR_RETAIL_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_BAHAR_RETAIL_IRR.json",
       "description": "Daily OHLC history for COIN_BAHAR_RETAIL_IRR",
-      "records": 2356,
+      "records": 2357,
       "unit": "IRT"
     },
     {
       "path": "history/COIN_HALF_RETAIL_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_HALF_RETAIL_IRR.json",
       "description": "Daily OHLC history for COIN_HALF_RETAIL_IRR",
-      "records": 2310,
+      "records": 2311,
       "unit": "IRT"
     },
     {
       "path": "history/COIN_QUARTER_RETAIL_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_QUARTER_RETAIL_IRR.json",
       "description": "Daily OHLC history for COIN_QUARTER_RETAIL_IRR",
-      "records": 2298,
+      "records": 2299,
       "unit": "IRT"
     },
     {
       "path": "history/COIN_GRAMI_RETAIL_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_GRAMI_RETAIL_IRR.json",
       "description": "Daily OHLC history for COIN_GRAMI_RETAIL_IRR",
-      "records": 2265,
+      "records": 2266,
       "unit": "IRT"
     },
     {
