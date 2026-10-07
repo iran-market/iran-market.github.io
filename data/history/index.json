@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-07T12:30:01.351Z",
+    "published_at": "2026-10-07T13:00:01.571Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -14,11 +14,11 @@
       "category": "currency",
       "file": "history/USD_IRR_FREE.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/USD_IRR_FREE.json",
-      "records": 3970,
+      "records": 3971,
       "currency": "IRT",
       "from": "2011-11-25T20:30:00.000Z",
-      "to": "2026-10-05T20:30:00.000Z",
-      "history_published_at": "2026-10-06T17:00:01.463Z"
+      "to": "2026-10-06T20:30:00.000Z",
+      "history_published_at": "2026-10-07T13:00:01.571Z"
     },
     {
       "symbol": "EUR_IRR_FREE",
@@ -27,11 +27,11 @@
       "category": "currency",
       "file": "history/EUR_IRR_FREE.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/EUR_IRR_FREE.json",
-      "records": 3738,
+      "records": 3739,
       "currency": "IRT",
       "from": "2012-06-27T19:30:00.000Z",
-      "to": "2026-10-05T20:30:00.000Z",
-      "history_published_at": "2026-10-06T17:00:01.463Z"
+      "to": "2026-10-06T20:30:00.000Z",
+      "history_published_at": "2026-10-07T13:00:01.571Z"
     },
     {
       "symbol": "GBP_IRR_FREE",
@@ -40,11 +40,11 @@
       "category": "currency",
       "file": "history/GBP_IRR_FREE.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/GBP_IRR_FREE.json",
-      "records": 3733,
+      "records": 3734,
       "currency": "IRT",
       "from": "2012-08-31T19:30:00.000Z",
-      "to": "2026-10-05T20:30:00.000Z",
-      "history_published_at": "2026-10-06T17:00:01.463Z"
+      "to": "2026-10-06T20:30:00.000Z",
+      "history_published_at": "2026-10-07T13:00:01.571Z"
     },
     {
       "symbol": "AED_IRR_FREE",
@@ -53,11 +53,11 @@
       "category": "currency",
       "file": "history/AED_IRR_FREE.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/AED_IRR_FREE.json",
-      "records": 3668,
+      "records": 3669,
       "currency": "IRT",
       "from": "2012-08-31T19:30:00.000Z",
-      "to": "2026-10-05T20:30:00.000Z",
-      "history_published_at": "2026-10-06T17:00:01.463Z"
+      "to": "2026-10-06T20:30:00.000Z",
+      "history_published_at": "2026-10-07T13:00:01.571Z"
     },
     {
       "symbol": "TRY_IRR_FREE",
