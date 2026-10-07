@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-07T08:00:01.508Z",
+  "generated_at": "2026-10-07T08:30:01.496Z",
   "update_frequency_minutes": 30,
   "source": "TGJU",
   "license_note": "Market data belongs to its original providers; verify before financial use.",
@@ -912,28 +912,28 @@
       "path": "history/DIFF_USD_JPY.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DIFF_USD_JPY.json",
       "description": "Daily OHLC history for DIFF_USD_JPY",
-      "records": 4999,
+      "records": 5000,
       "unit": "POINTS"
     },
     {
       "path": "history/DIFF_USD_CHF.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DIFF_USD_CHF.json",
       "description": "Daily OHLC history for DIFF_USD_CHF",
-      "records": 4179,
+      "records": 4180,
       "unit": "POINTS"
     },
     {
       "path": "history/DIFF_AUD_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DIFF_AUD_USD.json",
       "description": "Daily OHLC history for DIFF_AUD_USD",
-      "records": 4639,
+      "records": 4640,
       "unit": "POINTS"
     },
     {
       "path": "history/DIFF_USD_CAD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DIFF_USD_CAD.json",
       "description": "Daily OHLC history for DIFF_USD_CAD",
-      "records": 4187,
+      "records": 4188,
       "unit": "POINTS"
     }
   ]
