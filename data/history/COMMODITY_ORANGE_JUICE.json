@@ -52678,14 +52678,27 @@
       "t": "2026-10-05T20:30:00.000Z",
       "t_tehran": "2026-10-06T00:00:00+03:30",
       "open": 144.26,
-      "high": 144.95,
+      "high": 150.98,
       "low": 144.25,
-      "close": 144.35,
+      "close": 150.7,
+      "volume": null,
+      "ticks": 12,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/07/14"
+    },
+    {
+      "t": "2026-10-06T20:30:00.000Z",
+      "t_tehran": "2026-10-07T00:00:00+03:30",
+      "open": 150.1,
+      "high": 150.7,
+      "low": 150.09,
+      "close": 150.3,
       "volume": null,
       "ticks": 5,
       "origin": "derived",
       "quality": [],
-      "date_jalali": "1405/07/14"
+      "date_jalali": "1405/07/15"
     }
   ],
   "meta": {
@@ -52693,9 +52706,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 3997,
+    "count": 3998,
     "next_cursor": null,
-    "published_at": "2026-10-06T11:30:01.514Z",
+    "published_at": "2026-10-07T07:30:01.451Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_ORANGE_JUICE.json",
     "currency": "USD"
