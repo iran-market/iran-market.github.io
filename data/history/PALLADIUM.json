@@ -55739,7 +55739,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1405/01/15"
     },
     {
@@ -57748,12 +57750,12 @@
       "t": "2026-10-05T20:30:00.000Z",
       "t_tehran": "2026-10-06T00:00:00+03:30",
       "open": 1176,
-      "high": 1179,
-      "low": 1162,
-      "close": 1174.5,
+      "high": 1181,
+      "low": 1159,
+      "close": 1172.5,
       "volume": null,
       "ticks": 24,
-      "origin": "derived",
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/14"
     },
@@ -57761,11 +57763,11 @@
       "t": "2026-10-06T20:30:00.000Z",
       "t_tehran": "2026-10-07T00:00:00+03:30",
       "open": 1171,
-      "high": 1171,
-      "low": 1171,
-      "close": 1171,
+      "high": 1174.5,
+      "low": 1117.5,
+      "close": 1127.5,
       "volume": null,
-      "ticks": 1,
+      "ticks": 21,
       "origin": "derived",
       "quality": [],
       "date_jalali": "1405/07/15"
@@ -57778,7 +57780,7 @@
     "unit": "toman",
     "count": 4370,
     "next_cursor": null,
-    "published_at": "2026-10-06T21:00:01.304Z",
+    "published_at": "2026-10-07T17:00:01.650Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/PALLADIUM.json",
     "currency": "USD"
