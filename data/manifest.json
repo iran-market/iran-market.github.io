@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-08T03:30:01.539Z",
+  "generated_at": "2026-10-08T04:00:01.434Z",
   "update_frequency_minutes": 30,
   "source": "TGJU",
   "license_note": "Market data belongs to its original providers; verify before financial use.",
@@ -884,28 +884,28 @@
       "path": "history/BASE_GLOBAL_TIN.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BASE_GLOBAL_TIN.json",
       "description": "Daily OHLC history for BASE_GLOBAL_TIN",
-      "records": 3941,
+      "records": 3942,
       "unit": "USD"
     },
     {
       "path": "history/BASE_US_STEEL_COIL.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BASE_US_STEEL_COIL.json",
       "description": "Daily OHLC history for BASE_US_STEEL_COIL",
-      "records": 3474,
+      "records": 3475,
       "unit": "USD"
     },
     {
       "path": "history/DIFF_EUR_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DIFF_EUR_USD.json",
       "description": "Daily OHLC history for DIFF_EUR_USD",
-      "records": 5110,
+      "records": 5111,
       "unit": "POINTS"
     },
     {
       "path": "history/DIFF_GBP_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DIFF_GBP_USD.json",
       "description": "Daily OHLC history for DIFF_GBP_USD",
-      "records": 5049,
+      "records": 5050,
       "unit": "POINTS"
     },
     {
