@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-08T22:30:01.367Z",
+    "published_at": "2026-10-08T23:00:01.484Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -1405,11 +1405,11 @@
       "category": "commodity",
       "file": "history/COMMODITY_SOYBEAN_MEAL.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_SOYBEAN_MEAL.json",
-      "records": 4027,
+      "records": 4028,
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-10-06T20:30:00.000Z",
-      "history_published_at": "2026-10-08T03:00:01.454Z"
+      "to": "2026-10-07T20:30:00.000Z",
+      "history_published_at": "2026-10-08T23:00:01.484Z"
     },
     {
       "symbol": "COMMODITY_LUMBER",
@@ -1418,11 +1418,11 @@
       "category": "commodity",
       "file": "history/COMMODITY_LUMBER.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_LUMBER.json",
-      "records": 4033,
+      "records": 4034,
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-10-07T20:30:00.000Z",
-      "history_published_at": "2026-10-08T03:00:01.454Z"
+      "to": "2026-10-08T20:30:00.000Z",
+      "history_published_at": "2026-10-08T23:00:01.484Z"
     },
     {
       "symbol": "COMMODITY_LIVE_CATTLE",
@@ -1431,11 +1431,11 @@
       "category": "commodity",
       "file": "history/COMMODITY_LIVE_CATTLE.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_LIVE_CATTLE.json",
-      "records": 4006,
+      "records": 4007,
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-10-07T20:30:00.000Z",
-      "history_published_at": "2026-10-08T03:00:01.454Z"
+      "to": "2026-10-08T20:30:00.000Z",
+      "history_published_at": "2026-10-08T23:00:01.484Z"
     },
     {
       "symbol": "COMMODITY_FEED_CATTLE",
@@ -1444,11 +1444,11 @@
       "category": "commodity",
       "file": "history/COMMODITY_FEED_CATTLE.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_FEED_CATTLE.json",
-      "records": 4003,
+      "records": 4004,
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-10-07T20:30:00.000Z",
-      "history_published_at": "2026-10-08T03:00:01.454Z"
+      "to": "2026-10-08T20:30:00.000Z",
+      "history_published_at": "2026-10-08T23:00:01.484Z"
     },
     {
       "symbol": "COMMODITY_LONDON_SUGAR",

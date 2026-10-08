@@ -52068,15 +52068,28 @@
     {
       "t": "2026-10-07T20:30:00.000Z",
       "t_tehran": "2026-10-08T00:00:00+03:30",
-      "open": 221.65,
-      "high": 221.65,
-      "low": 221.6,
-      "close": 221.6,
+      "open": 221.5373,
+      "high": 221.9,
+      "low": 220.5348,
+      "close": 221.9,
       "volume": null,
-      "ticks": 3,
-      "origin": "derived",
+      "ticks": 9,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/16"
+    },
+    {
+      "t": "2026-10-08T20:30:00.000Z",
+      "t_tehran": "2026-10-09T00:00:00+03:30",
+      "open": 221.8865,
+      "high": 221.9,
+      "low": 221.8865,
+      "close": 221.9,
+      "volume": null,
+      "ticks": 2,
+      "origin": "derived",
+      "quality": [],
+      "date_jalali": "1405/07/17"
     }
   ],
   "meta": {
@@ -52084,9 +52097,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 4006,
+    "count": 4007,
     "next_cursor": null,
-    "published_at": "2026-10-08T03:00:01.454Z",
+    "published_at": "2026-10-08T23:00:01.484Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_LIVE_CATTLE.json",
     "currency": "USD"
