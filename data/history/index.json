@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-08T19:00:01.400Z",
+    "published_at": "2026-10-08T19:30:01.377Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -1383,7 +1383,7 @@
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
       "to": "2026-10-07T20:30:00.000Z",
-      "history_published_at": "2026-10-07T23:30:01.515Z"
+      "history_published_at": "2026-10-08T19:30:01.377Z"
     },
     {
       "symbol": "COMMODITY_TEA",
@@ -1396,7 +1396,7 @@
       "currency": "USD",
       "from": "2026-07-24T20:30:00.000Z",
       "to": "2026-09-24T20:30:00.000Z",
-      "history_published_at": "2026-10-07T23:30:01.515Z"
+      "history_published_at": "2026-10-08T19:30:01.377Z"
     },
     {
       "symbol": "COMMODITY_SOYBEAN_MEAL",
@@ -1496,11 +1496,11 @@
       "category": "commodity",
       "file": "history/ALUMINIUM.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/ALUMINIUM.json",
-      "records": 3111,
+      "records": 3112,
       "currency": "USD",
       "from": "2014-06-12T19:30:00.000Z",
-      "to": "2026-10-06T20:30:00.000Z",
-      "history_published_at": "2026-10-07T23:30:01.515Z"
+      "to": "2026-10-07T20:30:00.000Z",
+      "history_published_at": "2026-10-08T19:30:01.377Z"
     },
     {
       "symbol": "BASE_GLOBAL_COPPER2",
@@ -1513,7 +1513,7 @@
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
       "to": "2026-10-07T20:30:00.000Z",
-      "history_published_at": "2026-10-07T23:30:01.515Z"
+      "history_published_at": "2026-10-08T19:30:01.377Z"
     },
     {
       "symbol": "BASE_GLOBAL_IRON_ORE",
