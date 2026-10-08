@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-08T17:30:01.451Z",
+    "published_at": "2026-10-08T18:00:01.320Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -1223,11 +1223,11 @@
       "category": "commodity",
       "file": "history/COMMODITY_LONDON_COFFEE.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_LONDON_COFFEE.json",
-      "records": 4006,
+      "records": 4007,
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-10-06T20:30:00.000Z",
-      "history_published_at": "2026-10-07T22:00:01.451Z"
+      "to": "2026-10-07T20:30:00.000Z",
+      "history_published_at": "2026-10-08T18:00:01.320Z"
     },
     {
       "symbol": "COMMODITY_US_COFFEE_C",
@@ -1240,7 +1240,7 @@
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
       "to": "2026-10-07T20:30:00.000Z",
-      "history_published_at": "2026-10-07T22:00:01.451Z"
+      "history_published_at": "2026-10-08T18:00:01.320Z"
     },
     {
       "symbol": "COMMODITY_LONDON_COCOA",
@@ -1253,7 +1253,7 @@
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
       "to": "2026-09-24T20:30:00.000Z",
-      "history_published_at": "2026-10-07T22:00:01.451Z"
+      "history_published_at": "2026-10-08T18:00:01.320Z"
     },
     {
       "symbol": "COMMODITY_US_COCOA",
@@ -1266,7 +1266,7 @@
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
       "to": "2026-10-07T20:30:00.000Z",
-      "history_published_at": "2026-10-07T22:00:01.451Z"
+      "history_published_at": "2026-10-08T18:00:01.320Z"
     },
     {
       "symbol": "COMMODITY_US_SUGAR_NO11",
