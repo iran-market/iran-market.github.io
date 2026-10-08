@@ -52461,6 +52461,19 @@
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/11"
+    },
+    {
+      "t": "2026-10-06T20:30:00.000Z",
+      "t_tehran": "2026-10-07T00:00:00+03:30",
+      "open": 354.8,
+      "high": 354.8,
+      "low": 354.8,
+      "close": 354.8,
+      "volume": null,
+      "ticks": 2,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/07/15"
     }
   ],
   "meta": {
@@ -52468,9 +52481,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 4026,
+    "count": 4027,
     "next_cursor": null,
-    "published_at": "2026-10-07T07:00:01.540Z",
+    "published_at": "2026-10-08T03:00:01.454Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_SOYBEAN_MEAL.json",
     "currency": "USD"
