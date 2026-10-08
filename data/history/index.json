@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-08T01:00:01.384Z",
+    "published_at": "2026-10-08T01:30:01.406Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -1002,11 +1002,11 @@
       "category": "crypto",
       "file": "history/AVAX_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/AVAX_USD.json",
-      "records": 2206,
+      "records": 2207,
       "currency": "USD",
       "from": "2020-09-21T20:30:00.000Z",
-      "to": "2026-10-06T20:30:00.000Z",
-      "history_published_at": "2026-10-07T05:30:01.463Z"
+      "to": "2026-10-07T20:30:00.000Z",
+      "history_published_at": "2026-10-08T01:30:01.406Z"
     },
     {
       "symbol": "TON_USD",
@@ -1019,7 +1019,7 @@
       "currency": "USD",
       "from": "2021-08-25T19:30:00.000Z",
       "to": "2026-06-15T20:30:00.000Z",
-      "history_published_at": "2026-10-07T05:30:01.463Z"
+      "history_published_at": "2026-10-08T01:30:01.406Z"
     },
     {
       "symbol": "BTC_IRR",
@@ -1028,11 +1028,11 @@
       "category": "crypto",
       "file": "history/BTC_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BTC_IRR.json",
-      "records": 2018,
+      "records": 2019,
       "currency": "IRT",
       "from": "2020-11-10T20:30:00.000Z",
-      "to": "2026-10-06T20:30:00.000Z",
-      "history_published_at": "2026-10-07T05:30:01.463Z"
+      "to": "2026-10-07T20:30:00.000Z",
+      "history_published_at": "2026-10-08T01:30:01.406Z"
     },
     {
       "symbol": "BNB_IRR",
@@ -1041,11 +1041,11 @@
       "category": "crypto",
       "file": "history/BNB_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BNB_IRR.json",
-      "records": 2015,
+      "records": 2016,
       "currency": "IRT",
       "from": "2020-11-11T20:30:00.000Z",
-      "to": "2026-10-06T20:30:00.000Z",
-      "history_published_at": "2026-10-07T05:30:01.463Z"
+      "to": "2026-10-07T20:30:00.000Z",
+      "history_published_at": "2026-10-08T01:30:01.406Z"
     },
     {
       "symbol": "DOGE_IRR",

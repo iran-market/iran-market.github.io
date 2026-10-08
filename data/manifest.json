@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-08T01:00:01.384Z",
+  "generated_at": "2026-10-08T01:30:01.406Z",
   "update_frequency_minutes": 30,
   "source": "TGJU",
   "license_note": "Market data belongs to its original providers; verify before financial use.",
@@ -576,7 +576,7 @@
       "path": "history/AVAX_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/AVAX_USD.json",
       "description": "Daily OHLC history for AVAX_USD",
-      "records": 2206,
+      "records": 2207,
       "unit": "USD"
     },
     {
@@ -590,14 +590,14 @@
       "path": "history/BTC_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BTC_IRR.json",
       "description": "Daily OHLC history for BTC_IRR",
-      "records": 2018,
+      "records": 2019,
       "unit": "IRT"
     },
     {
       "path": "history/BNB_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BNB_IRR.json",
       "description": "Daily OHLC history for BNB_IRR",
-      "records": 2015,
+      "records": 2016,
       "unit": "IRT"
     },
     {

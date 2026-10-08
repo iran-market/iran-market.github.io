@@ -8,7 +8,7 @@
       "low": 1600,
       "close": 1600,
       "volume": null,
-      "ticks": 29899,
+      "ticks": 34675,
       "origin": "derived",
       "quality": [
         "spike",
@@ -26269,15 +26269,30 @@
       "t_tehran": "2026-10-07T00:00:00+03:30",
       "open": 23029704500,
       "high": 23029704500,
-      "low": 22557582700,
-      "close": 22614762500,
+      "low": 21204952500,
+      "close": 22183357100,
       "volume": null,
-      "ticks": 2028,
+      "ticks": 5732,
       "origin": "derived",
       "quality": [
         "spike"
       ],
       "date_jalali": "1405/07/15"
+    },
+    {
+      "t": "2026-10-07T20:30:00.000Z",
+      "t_tehran": "2026-10-08T00:00:00+03:30",
+      "open": 22188948000,
+      "high": 22189634200,
+      "low": 22118245100,
+      "close": 22189634200,
+      "volume": null,
+      "ticks": 1073,
+      "origin": "derived",
+      "quality": [
+        "spike"
+      ],
+      "date_jalali": "1405/07/16"
     }
   ],
   "meta": {
@@ -26285,9 +26300,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 2018,
+    "count": 2019,
     "next_cursor": null,
-    "published_at": "2026-10-07T05:30:01.463Z",
+    "published_at": "2026-10-08T01:30:01.406Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BTC_IRR.json",
     "currency": "IRT"
