@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-08T15:00:01.525Z",
+  "generated_at": "2026-10-08T15:30:01.669Z",
   "update_frequency_minutes": 30,
   "source": "TGJU",
   "license_note": "Market data belongs to its original providers; verify before financial use.",
@@ -408,28 +408,28 @@
       "path": "history/GOLD_WORLD_FUTURES.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/GOLD_WORLD_FUTURES.json",
       "description": "Daily OHLC history for GOLD_WORLD_FUTURES",
-      "records": 2207,
+      "records": 2208,
       "unit": "IRT"
     },
     {
       "path": "history/GOLD_18K_740_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/GOLD_18K_740_IRR.json",
       "description": "Daily OHLC history for GOLD_18K_740_IRR",
-      "records": 2203,
+      "records": 2204,
       "unit": "IRT"
     },
     {
       "path": "history/GOLD_17_COIN.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/GOLD_17_COIN.json",
       "description": "Daily OHLC history for GOLD_17_COIN",
-      "records": 2202,
+      "records": 2203,
       "unit": "IRT"
     },
     {
       "path": "history/GOLD_MELTED_TRANSFER.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/GOLD_MELTED_TRANSFER.json",
       "description": "Daily OHLC history for GOLD_MELTED_TRANSFER",
-      "records": 1677,
+      "records": 1678,
       "unit": "IRT"
     },
     {
