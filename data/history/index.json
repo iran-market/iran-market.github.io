@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-08T16:30:01.499Z",
+    "published_at": "2026-10-08T17:00:01.562Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -846,11 +846,11 @@
       "category": "crypto",
       "file": "history/TRX_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/TRX_USD.json",
-      "records": 3311,
+      "records": 3312,
       "currency": "USD",
       "from": "2017-09-12T19:30:00.000Z",
-      "to": "2026-10-06T20:30:00.000Z",
-      "history_published_at": "2026-10-07T21:00:01.689Z"
+      "to": "2026-10-07T20:30:00.000Z",
+      "history_published_at": "2026-10-08T17:00:01.562Z"
     },
     {
       "symbol": "LTC_USD",
@@ -863,7 +863,7 @@
       "currency": "USD",
       "from": "2013-04-27T19:30:00.000Z",
       "to": "2026-10-07T20:30:00.000Z",
-      "history_published_at": "2026-10-07T21:00:01.689Z"
+      "history_published_at": "2026-10-08T17:00:01.562Z"
     },
     {
       "symbol": "DASH_USD",
@@ -876,7 +876,7 @@
       "currency": "USD",
       "from": "2014-02-13T20:30:00.000Z",
       "to": "2026-10-07T20:30:00.000Z",
-      "history_published_at": "2026-10-07T21:00:01.689Z"
+      "history_published_at": "2026-10-08T17:00:01.562Z"
     },
     {
       "symbol": "XMR_USD",
@@ -1162,7 +1162,7 @@
       "currency": "USD",
       "from": "2011-01-01T20:30:00.000Z",
       "to": "2026-10-07T20:30:00.000Z",
-      "history_published_at": "2026-10-07T21:00:01.689Z"
+      "history_published_at": "2026-10-08T17:00:01.562Z"
     },
     {
       "symbol": "OIL",
