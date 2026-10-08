@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-08T18:30:01.482Z",
+    "published_at": "2026-10-08T19:00:01.400Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -1331,7 +1331,7 @@
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
       "to": "2026-10-07T20:30:00.000Z",
-      "history_published_at": "2026-10-07T23:00:01.637Z"
+      "history_published_at": "2026-10-08T19:00:01.400Z"
     },
     {
       "symbol": "COMMODITY_SOYBEANS",
@@ -1344,7 +1344,7 @@
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
       "to": "2026-10-07T20:30:00.000Z",
-      "history_published_at": "2026-10-07T23:00:01.637Z"
+      "history_published_at": "2026-10-08T19:00:01.400Z"
     },
     {
       "symbol": "COMMODITY_COTTON",
@@ -1357,7 +1357,7 @@
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
       "to": "2026-10-07T20:30:00.000Z",
-      "history_published_at": "2026-10-07T23:00:01.637Z"
+      "history_published_at": "2026-10-08T19:00:01.400Z"
     },
     {
       "symbol": "COMMODITY_BARLEY",
@@ -1370,7 +1370,7 @@
       "currency": "USD",
       "from": "2026-07-24T20:30:00.000Z",
       "to": "2026-10-06T20:30:00.000Z",
-      "history_published_at": "2026-10-07T23:00:01.637Z"
+      "history_published_at": "2026-10-08T19:00:01.400Z"
     },
     {
       "symbol": "COMMODITY_OATS",
