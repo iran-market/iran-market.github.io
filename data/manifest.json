@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-07T23:30:01.515Z",
+  "generated_at": "2026-10-08T00:00:01.509Z",
   "update_frequency_minutes": 30,
   "source": "TGJU",
   "license_note": "Market data belongs to its original providers; verify before financial use.",
@@ -513,7 +513,7 @@
       "path": "history/XMR_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/XMR_USD.json",
       "description": "Daily OHLC history for XMR_USD",
-      "records": 4521,
+      "records": 4522,
       "unit": "USD"
     },
     {
