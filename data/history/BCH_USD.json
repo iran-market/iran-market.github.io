@@ -43724,10 +43724,10 @@
       "t_tehran": "2026-10-08T00:00:00+03:30",
       "open": 301.62,
       "high": 301.62,
-      "low": 298.88,
-      "close": 300.49,
+      "low": 274.57,
+      "close": 280.85,
       "volume": null,
-      "ticks": 4,
+      "ticks": 25,
       "origin": "derived",
       "quality": [],
       "date_jalali": "1405/07/16"
@@ -43740,7 +43740,7 @@
     "unit": "toman",
     "count": 3364,
     "next_cursor": null,
-    "published_at": "2026-10-08T00:30:01.563Z",
+    "published_at": "2026-10-08T20:30:01.399Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BCH_USD.json",
     "currency": "USD"
