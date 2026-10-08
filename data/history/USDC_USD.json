@@ -37716,13 +37716,13 @@
     {
       "t": "2026-10-06T20:30:00.000Z",
       "t_tehran": "2026-10-07T00:00:00+03:30",
-      "open": 0.99996083,
+      "open": 0.9999,
       "high": 1,
-      "low": 0.99996083,
+      "low": 0.9999,
       "close": 1,
       "volume": null,
-      "ticks": 7,
-      "origin": "derived",
+      "ticks": 8,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/15"
     }
@@ -37734,7 +37734,7 @@
     "unit": "toman",
     "count": 2902,
     "next_cursor": null,
-    "published_at": "2026-10-07T05:00:01.378Z",
+    "published_at": "2026-10-08T01:00:01.384Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/USDC_USD.json",
     "currency": "USD"
