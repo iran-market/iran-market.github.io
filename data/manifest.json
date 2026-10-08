@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-08T14:30:01.402Z",
+  "generated_at": "2026-10-08T15:00:01.525Z",
   "update_frequency_minutes": 30,
   "source": "TGJU",
   "license_note": "Market data belongs to its original providers; verify before financial use.",
@@ -380,28 +380,28 @@
       "path": "history/COIN_GRAMI_BUBBLE_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_GRAMI_BUBBLE_IRR.json",
       "description": "Daily OHLC history for COIN_GRAMI_BUBBLE_IRR",
-      "records": 1972,
+      "records": 1973,
       "unit": "IRT"
     },
     {
       "path": "history/GOLD_MELTED_WHOLESALE.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/GOLD_MELTED_WHOLESALE.json",
       "description": "Daily OHLC history for GOLD_MELTED_WHOLESALE",
-      "records": 2488,
+      "records": 2489,
       "unit": "IRT"
     },
     {
       "path": "history/GOLD_17.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/GOLD_17.json",
       "description": "Daily OHLC history for GOLD_17",
-      "records": 2484,
+      "records": 2485,
       "unit": "IRT"
     },
     {
       "path": "history/GOLD_FUTURES.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/GOLD_FUTURES.json",
       "description": "Daily OHLC history for GOLD_FUTURES",
-      "records": 2208,
+      "records": 2209,
       "unit": "IRT"
     },
     {
