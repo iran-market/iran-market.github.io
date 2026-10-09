@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-09T10:00:01.387Z",
+    "published_at": "2026-10-09T10:30:01.374Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -590,7 +590,7 @@
       "currency": "IRT",
       "from": "2019-01-04T20:30:00.000Z",
       "to": "2026-10-07T20:30:00.000Z",
-      "history_published_at": "2026-10-08T14:30:01.402Z"
+      "history_published_at": "2026-10-09T10:30:01.374Z"
     },
     {
       "symbol": "COIN_BAHAR_BUBBLE_IRR",
@@ -603,7 +603,7 @@
       "currency": "IRT",
       "from": "2019-02-11T20:30:00.000Z",
       "to": "2026-10-07T20:30:00.000Z",
-      "history_published_at": "2026-10-08T14:30:01.402Z"
+      "history_published_at": "2026-10-09T10:30:01.374Z"
     },
     {
       "symbol": "COIN_HALF_BUBBLE_IRR",
@@ -616,7 +616,7 @@
       "currency": "IRT",
       "from": "2019-02-11T20:30:00.000Z",
       "to": "2026-10-07T20:30:00.000Z",
-      "history_published_at": "2026-10-08T14:30:01.402Z"
+      "history_published_at": "2026-10-09T10:30:01.374Z"
     },
     {
       "symbol": "COIN_QUARTER_BUBBLE_IRR",
@@ -629,7 +629,7 @@
       "currency": "IRT",
       "from": "2019-02-11T20:30:00.000Z",
       "to": "2026-10-07T20:30:00.000Z",
-      "history_published_at": "2026-10-08T14:30:01.402Z"
+      "history_published_at": "2026-10-09T10:30:01.374Z"
     },
     {
       "symbol": "COIN_GRAMI_BUBBLE_IRR",
