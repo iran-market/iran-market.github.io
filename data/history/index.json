@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-09T17:00:01.490Z",
+    "published_at": "2026-10-09T17:30:01.440Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -1002,11 +1002,11 @@
       "category": "crypto",
       "file": "history/AVAX_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/AVAX_USD.json",
-      "records": 2207,
+      "records": 2208,
       "currency": "USD",
       "from": "2020-09-21T20:30:00.000Z",
-      "to": "2026-10-07T20:30:00.000Z",
-      "history_published_at": "2026-10-08T21:30:01.571Z"
+      "to": "2026-10-08T20:30:00.000Z",
+      "history_published_at": "2026-10-09T17:30:01.440Z"
     },
     {
       "symbol": "TON_USD",
@@ -1019,7 +1019,7 @@
       "currency": "USD",
       "from": "2021-08-25T19:30:00.000Z",
       "to": "2026-06-15T20:30:00.000Z",
-      "history_published_at": "2026-10-08T21:30:01.571Z"
+      "history_published_at": "2026-10-09T17:30:01.440Z"
     },
     {
       "symbol": "BTC_IRR",
@@ -1032,7 +1032,7 @@
       "currency": "IRT",
       "from": "2020-11-10T20:30:00.000Z",
       "to": "2026-10-08T20:30:00.000Z",
-      "history_published_at": "2026-10-08T21:30:01.571Z"
+      "history_published_at": "2026-10-09T17:30:01.440Z"
     },
     {
       "symbol": "BNB_IRR",
@@ -1045,7 +1045,7 @@
       "currency": "IRT",
       "from": "2020-11-11T20:30:00.000Z",
       "to": "2026-10-08T20:30:00.000Z",
-      "history_published_at": "2026-10-08T21:30:01.571Z"
+      "history_published_at": "2026-10-09T17:30:01.440Z"
     },
     {
       "symbol": "DOGE_IRR",
