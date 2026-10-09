@@ -52213,15 +52213,28 @@
     {
       "t": "2026-10-07T20:30:00.000Z",
       "t_tehran": "2026-10-08T00:00:00+03:30",
-      "open": 207.2,
-      "high": 209.2,
+      "open": 206.9,
+      "high": 209.5,
       "low": 206.1,
       "close": 206.1,
       "volume": null,
-      "ticks": 10,
-      "origin": "derived",
+      "ticks": 11,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/16"
+    },
+    {
+      "t": "2026-10-08T20:30:00.000Z",
+      "t_tehran": "2026-10-09T00:00:00+03:30",
+      "open": 207.8,
+      "high": 207.8,
+      "low": 206.7,
+      "close": 206.9,
+      "volume": null,
+      "ticks": 6,
+      "origin": "derived",
+      "quality": [],
+      "date_jalali": "1405/07/17"
     }
   ],
   "meta": {
@@ -52229,9 +52242,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 3933,
+    "count": 3934,
     "next_cursor": null,
-    "published_at": "2026-10-08T18:30:01.482Z",
+    "published_at": "2026-10-09T14:30:01.461Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_LONDON_WHEAT.json",
     "currency": "USD"
