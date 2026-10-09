@@ -45247,11 +45247,11 @@
       "t": "2026-10-08T20:30:00.000Z",
       "t_tehran": "2026-10-09T00:00:00+03:30",
       "open": 1313.08,
-      "high": 1313.08,
+      "high": 1318,
       "low": 1313,
-      "close": 1313,
+      "close": 1318,
       "volume": null,
-      "ticks": 3,
+      "ticks": 15,
       "origin": "derived",
       "quality": [],
       "date_jalali": "1405/07/17"
@@ -45264,7 +45264,7 @@
     "unit": "toman",
     "count": 3476,
     "next_cursor": null,
-    "published_at": "2026-10-09T00:30:01.362Z",
+    "published_at": "2026-10-09T20:30:01.362Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BASE_US_STEEL_COIL.json",
     "currency": "USD"
