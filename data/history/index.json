@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-09T11:00:01.370Z",
+    "published_at": "2026-10-09T11:30:01.379Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -694,7 +694,7 @@
       "currency": "IRT",
       "from": "2018-03-16T20:30:00.000Z",
       "to": "2026-10-07T20:30:00.000Z",
-      "history_published_at": "2026-10-08T15:30:01.669Z"
+      "history_published_at": "2026-10-09T11:30:01.379Z"
     },
     {
       "symbol": "GOLD_18K_740_IRR",
@@ -707,7 +707,7 @@
       "currency": "IRT",
       "from": "2018-03-16T20:30:00.000Z",
       "to": "2026-10-07T20:30:00.000Z",
-      "history_published_at": "2026-10-08T15:30:01.669Z"
+      "history_published_at": "2026-10-09T11:30:01.379Z"
     },
     {
       "symbol": "GOLD_17_COIN",
@@ -720,7 +720,7 @@
       "currency": "IRT",
       "from": "2018-03-17T20:30:00.000Z",
       "to": "2026-10-07T20:30:00.000Z",
-      "history_published_at": "2026-10-08T15:30:01.669Z"
+      "history_published_at": "2026-10-09T11:30:01.379Z"
     },
     {
       "symbol": "GOLD_MELTED_TRANSFER",
@@ -733,7 +733,7 @@
       "currency": "IRT",
       "from": "2017-04-06T19:30:00.000Z",
       "to": "2026-10-07T20:30:00.000Z",
-      "history_published_at": "2026-10-08T15:30:01.669Z"
+      "history_published_at": "2026-10-09T11:30:01.379Z"
     },
     {
       "symbol": "USDT_IRR",
