@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-09T15:00:01.493Z",
+    "published_at": "2026-10-09T15:30:01.543Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -1379,11 +1379,11 @@
       "category": "commodity",
       "file": "history/COMMODITY_OATS.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_OATS.json",
-      "records": 3996,
+      "records": 3997,
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-10-07T20:30:00.000Z",
-      "history_published_at": "2026-10-08T19:30:01.377Z"
+      "to": "2026-10-08T20:30:00.000Z",
+      "history_published_at": "2026-10-09T15:30:01.543Z"
     },
     {
       "symbol": "COMMODITY_TEA",
@@ -1396,7 +1396,7 @@
       "currency": "USD",
       "from": "2026-07-24T20:30:00.000Z",
       "to": "2026-09-24T20:30:00.000Z",
-      "history_published_at": "2026-10-08T19:30:01.377Z"
+      "history_published_at": "2026-10-09T15:30:01.543Z"
     },
     {
       "symbol": "COMMODITY_SOYBEAN_MEAL",
@@ -1496,11 +1496,11 @@
       "category": "commodity",
       "file": "history/ALUMINIUM.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/ALUMINIUM.json",
-      "records": 3112,
+      "records": 3113,
       "currency": "USD",
       "from": "2014-06-12T19:30:00.000Z",
-      "to": "2026-10-07T20:30:00.000Z",
-      "history_published_at": "2026-10-08T19:30:01.377Z"
+      "to": "2026-10-08T20:30:00.000Z",
+      "history_published_at": "2026-10-09T15:30:01.543Z"
     },
     {
       "symbol": "BASE_GLOBAL_COPPER2",
@@ -1509,11 +1509,11 @@
       "category": "commodity",
       "file": "history/BASE_GLOBAL_COPPER2.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BASE_GLOBAL_COPPER2.json",
-      "records": 4098,
+      "records": 4099,
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-10-07T20:30:00.000Z",
-      "history_published_at": "2026-10-08T19:30:01.377Z"
+      "to": "2026-10-08T20:30:00.000Z",
+      "history_published_at": "2026-10-09T15:30:01.543Z"
     },
     {
       "symbol": "BASE_GLOBAL_IRON_ORE",

@@ -53446,15 +53446,28 @@
     {
       "t": "2026-10-07T20:30:00.000Z",
       "t_tehran": "2026-10-08T00:00:00+03:30",
-      "open": 6.5864,
-      "high": 6.7063,
-      "low": 6.5187,
-      "close": 6.5187,
+      "open": 6.5849,
+      "high": 6.7064,
+      "low": 6.5088,
+      "close": 6.5104,
       "volume": null,
-      "ticks": 24,
-      "origin": "derived",
+      "ticks": 26,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/16"
+    },
+    {
+      "t": "2026-10-08T20:30:00.000Z",
+      "t_tehran": "2026-10-09T00:00:00+03:30",
+      "open": 6.4989,
+      "high": 6.656,
+      "low": 6.4989,
+      "close": 6.6497,
+      "volume": null,
+      "ticks": 18,
+      "origin": "derived",
+      "quality": [],
+      "date_jalali": "1405/07/17"
     }
   ],
   "meta": {
@@ -53462,9 +53475,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 4098,
+    "count": 4099,
     "next_cursor": null,
-    "published_at": "2026-10-08T19:30:01.377Z",
+    "published_at": "2026-10-09T15:30:01.543Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BASE_GLOBAL_COPPER2.json",
     "currency": "USD"
