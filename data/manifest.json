@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-09T19:30:01.418Z",
+  "generated_at": "2026-10-09T20:00:01.323Z",
   "update_frequency_minutes": 30,
   "source": "TGJU",
   "license_note": "Market data belongs to its original providers; verify before financial use.",
@@ -835,7 +835,7 @@
       "path": "history/COMMODITY_SOYBEAN_OIL.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_SOYBEAN_OIL.json",
       "description": "Daily OHLC history for COMMODITY_SOYBEAN_OIL",
-      "records": 4043,
+      "records": 4044,
       "unit": "USD"
     },
     {
@@ -877,7 +877,7 @@
       "path": "history/BASE_GLOBAL_LEAD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BASE_GLOBAL_LEAD.json",
       "description": "Daily OHLC history for BASE_GLOBAL_LEAD",
-      "records": 3943,
+      "records": 3944,
       "unit": "USD"
     },
     {
