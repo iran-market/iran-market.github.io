@@ -41280,13 +41280,13 @@
     {
       "t": "2026-10-07T20:30:00.000Z",
       "t_tehran": "2026-10-08T00:00:00+03:30",
-      "open": 5430,
-      "high": 5440,
-      "low": 5430,
-      "close": 5440,
+      "open": 5410,
+      "high": 5450,
+      "low": 5400,
+      "close": 5420,
       "volume": null,
-      "ticks": 2,
-      "origin": "derived",
+      "ticks": 6,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/16"
     }
@@ -41298,7 +41298,7 @@
     "unit": "toman",
     "count": 3170,
     "next_cursor": null,
-    "published_at": "2026-10-08T09:30:01.407Z",
+    "published_at": "2026-10-09T05:30:01.356Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/TRY_IRR_FREE.json",
     "currency": "IRT"
