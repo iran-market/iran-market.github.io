@@ -22329,11 +22329,11 @@
       "t": "2026-10-08T20:30:00.000Z",
       "t_tehran": "2026-10-09T00:00:00+03:30",
       "open": 290900,
-      "high": 290900,
+      "high": 323100,
       "low": 290900,
-      "close": 290900,
+      "close": 320200,
       "volume": null,
-      "ticks": 1,
+      "ticks": 21,
       "origin": "derived",
       "quality": [],
       "date_jalali": "1405/07/17"
@@ -22346,7 +22346,7 @@
     "unit": "toman",
     "count": 1718,
     "next_cursor": null,
-    "published_at": "2026-10-08T22:30:01.367Z",
+    "published_at": "2026-10-09T18:30:01.490Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DOT_IRR.json",
     "currency": "IRT"

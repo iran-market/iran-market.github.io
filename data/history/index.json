@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-09T18:00:01.411Z",
+    "published_at": "2026-10-09T18:30:01.490Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -1110,7 +1110,7 @@
       "currency": "IRT",
       "from": "2021-09-22T20:30:00.000Z",
       "to": "2026-10-08T20:30:00.000Z",
-      "history_published_at": "2026-10-08T22:30:01.367Z"
+      "history_published_at": "2026-10-09T18:30:01.490Z"
     },
     {
       "symbol": "AVAX_IRR",
@@ -1123,7 +1123,7 @@
       "currency": "IRT",
       "from": "2020-12-22T20:30:00.000Z",
       "to": "2026-10-08T20:30:00.000Z",
-      "history_published_at": "2026-10-08T22:30:01.367Z"
+      "history_published_at": "2026-10-09T18:30:01.490Z"
     },
     {
       "symbol": "LINK_IRR",
@@ -1136,7 +1136,7 @@
       "currency": "IRT",
       "from": "2020-11-11T20:30:00.000Z",
       "to": "2026-10-08T20:30:00.000Z",
-      "history_published_at": "2026-10-08T22:30:01.367Z"
+      "history_published_at": "2026-10-09T18:30:01.490Z"
     },
     {
       "symbol": "USDC_IRR",
@@ -1145,11 +1145,11 @@
       "category": "crypto",
       "file": "history/USDC_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/USDC_IRR.json",
-      "records": 2023,
+      "records": 2024,
       "currency": "IRT",
       "from": "2020-11-11T20:30:00.000Z",
-      "to": "2026-10-07T20:30:00.000Z",
-      "history_published_at": "2026-10-08T22:30:01.367Z"
+      "to": "2026-10-08T20:30:00.000Z",
+      "history_published_at": "2026-10-09T18:30:01.490Z"
     },
     {
       "symbol": "BRENT_USD",
