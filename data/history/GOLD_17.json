@@ -32353,13 +32353,13 @@
     {
       "t": "2026-10-07T20:30:00.000Z",
       "t_tehran": "2026-10-08T00:00:00+03:30",
-      "open": 115136100,
-      "high": 115463400,
-      "low": 115043200,
+      "open": 114839000,
+      "high": 115601800,
+      "low": 114569300,
       "close": 115043200,
       "volume": null,
       "ticks": 8,
-      "origin": "derived",
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/16"
     }
@@ -32371,7 +32371,7 @@
     "unit": "toman",
     "count": 2485,
     "next_cursor": null,
-    "published_at": "2026-10-08T15:00:01.525Z",
+    "published_at": "2026-10-09T11:00:01.370Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/GOLD_17.json",
     "currency": "IRT"
