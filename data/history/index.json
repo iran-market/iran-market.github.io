@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-09T20:30:01.362Z",
+    "published_at": "2026-10-09T21:00:01.461Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -1630,7 +1630,7 @@
       "currency": "POINTS",
       "from": "2010-12-31T20:30:00.000Z",
       "to": "2026-10-08T20:30:00.000Z",
-      "history_published_at": "2026-10-09T01:00:01.371Z"
+      "history_published_at": "2026-10-09T21:00:01.461Z"
     },
     {
       "symbol": "DIFF_USD_CHF",
@@ -1643,7 +1643,7 @@
       "currency": "POINTS",
       "from": "2011-01-02T20:30:00.000Z",
       "to": "2026-10-08T20:30:00.000Z",
-      "history_published_at": "2026-10-09T01:00:01.371Z"
+      "history_published_at": "2026-10-09T21:00:01.461Z"
     },
     {
       "symbol": "DIFF_AUD_USD",
@@ -1656,7 +1656,7 @@
       "currency": "POINTS",
       "from": "2010-12-31T20:30:00.000Z",
       "to": "2026-10-08T20:30:00.000Z",
-      "history_published_at": "2026-10-09T01:00:01.371Z"
+      "history_published_at": "2026-10-09T21:00:01.461Z"
     },
     {
       "symbol": "DIFF_USD_CAD",
@@ -1669,7 +1669,7 @@
       "currency": "POINTS",
       "from": "2011-01-02T20:30:00.000Z",
       "to": "2026-10-08T20:30:00.000Z",
-      "history_published_at": "2026-10-09T01:00:01.371Z"
+      "history_published_at": "2026-10-09T21:00:01.461Z"
     }
   ]
 }

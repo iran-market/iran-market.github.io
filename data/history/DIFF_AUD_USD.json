@@ -60337,11 +60337,11 @@
       "t": "2026-10-08T20:30:00.000Z",
       "t_tehran": "2026-10-09T00:00:00+03:30",
       "open": 0.696,
-      "high": 0.696,
+      "high": 0.6987,
       "low": 0.6956,
-      "close": 0.696,
+      "close": 0.6987,
       "volume": null,
-      "ticks": 5,
+      "ticks": 25,
       "origin": "derived",
       "quality": [],
       "date_jalali": "1405/07/17"
@@ -60354,7 +60354,7 @@
     "unit": "toman",
     "count": 4642,
     "next_cursor": null,
-    "published_at": "2026-10-09T01:00:01.371Z",
+    "published_at": "2026-10-09T21:00:01.461Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DIFF_AUD_USD.json",
     "currency": "POINTS"
