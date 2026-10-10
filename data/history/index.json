@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-10T05:00:01.371Z",
+    "published_at": "2026-10-10T05:30:01.487Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -486,7 +486,7 @@
       "currency": "IRT",
       "from": "2013-07-21T19:30:00.000Z",
       "to": "2026-10-07T20:30:00.000Z",
-      "history_published_at": "2026-10-09T09:30:01.437Z"
+      "history_published_at": "2026-10-10T05:30:01.487Z"
     },
     {
       "symbol": "COIN_QUARTER_IRR",
@@ -499,7 +499,7 @@
       "currency": "IRT",
       "from": "2013-07-21T19:30:00.000Z",
       "to": "2026-10-07T20:30:00.000Z",
-      "history_published_at": "2026-10-09T09:30:01.437Z"
+      "history_published_at": "2026-10-10T05:30:01.487Z"
     },
     {
       "symbol": "COIN_GRAMI_IRR",
@@ -512,7 +512,7 @@
       "currency": "IRT",
       "from": "2013-07-21T19:30:00.000Z",
       "to": "2026-10-07T20:30:00.000Z",
-      "history_published_at": "2026-10-09T09:30:01.437Z"
+      "history_published_at": "2026-10-10T05:30:01.487Z"
     },
     {
       "symbol": "COIN_EMAMI_RETAIL_IRR",
@@ -525,7 +525,7 @@
       "currency": "IRT",
       "from": "2017-07-04T19:30:00.000Z",
       "to": "2026-10-07T20:30:00.000Z",
-      "history_published_at": "2026-10-09T09:30:01.437Z"
+      "history_published_at": "2026-10-10T05:30:01.487Z"
     },
     {
       "symbol": "COIN_BAHAR_RETAIL_IRR",
