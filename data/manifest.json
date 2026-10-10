@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-10T10:30:01.457Z",
+  "generated_at": "2026-10-10T11:00:01.442Z",
   "update_frequency_minutes": 30,
   "source": "TGJU",
   "license_note": "Market data belongs to its original providers; verify before financial use.",
@@ -751,28 +751,28 @@
       "path": "history/COMMODITY_ROUGH_RICE.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_ROUGH_RICE.json",
       "description": "Daily OHLC history for COMMODITY_ROUGH_RICE",
-      "records": 3999,
+      "records": 4000,
       "unit": "USD"
     },
     {
       "path": "history/COMMODITY_SOYBEANS.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_SOYBEANS.json",
       "description": "Daily OHLC history for COMMODITY_SOYBEANS",
-      "records": 4136,
+      "records": 4137,
       "unit": "USD"
     },
     {
       "path": "history/COMMODITY_COTTON.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_COTTON.json",
       "description": "Daily OHLC history for COMMODITY_COTTON",
-      "records": 4030,
+      "records": 4031,
       "unit": "USD"
     },
     {
       "path": "history/COMMODITY_BARLEY.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_BARLEY.json",
       "description": "Daily OHLC history for COMMODITY_BARLEY",
-      "records": 32,
+      "records": 33,
       "unit": "USD"
     },
     {

@@ -53808,15 +53808,28 @@
     {
       "t": "2026-10-08T20:30:00.000Z",
       "t_tehran": "2026-10-09T00:00:00+03:30",
-      "open": 1286.52,
-      "high": 1298.64,
-      "low": 1285.33,
-      "close": 1295.3,
+      "open": 1286.62,
+      "high": 1299.42,
+      "low": 1269.88,
+      "close": 1292.25,
       "volume": null,
-      "ticks": 18,
-      "origin": "derived",
+      "ticks": 24,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/17"
+    },
+    {
+      "t": "2026-10-09T20:30:00.000Z",
+      "t_tehran": "2026-10-10T00:00:00+03:30",
+      "open": 1291.99,
+      "high": 1292.25,
+      "low": 1291.99,
+      "close": 1292.25,
+      "volume": null,
+      "ticks": 3,
+      "origin": "derived",
+      "quality": [],
+      "date_jalali": "1405/07/18"
     }
   ],
   "meta": {
@@ -53824,9 +53837,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 4136,
+    "count": 4137,
     "next_cursor": null,
-    "published_at": "2026-10-09T15:00:01.493Z",
+    "published_at": "2026-10-10T11:00:01.442Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_SOYBEANS.json",
     "currency": "USD"

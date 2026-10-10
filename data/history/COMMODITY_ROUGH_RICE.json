@@ -52629,15 +52629,28 @@
     {
       "t": "2026-10-08T20:30:00.000Z",
       "t_tehran": "2026-10-09T00:00:00+03:30",
-      "open": 16.8352,
-      "high": 16.9023,
-      "low": 16.7954,
-      "close": 16.9023,
+      "open": 16.8359,
+      "high": 16.97,
+      "low": 16.7514,
+      "close": 16.97,
       "volume": null,
-      "ticks": 11,
-      "origin": "derived",
+      "ticks": 17,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/17"
+    },
+    {
+      "t": "2026-10-09T20:30:00.000Z",
+      "t_tehran": "2026-10-10T00:00:00+03:30",
+      "open": 16.9305,
+      "high": 16.97,
+      "low": 16.9305,
+      "close": 16.97,
+      "volume": null,
+      "ticks": 3,
+      "origin": "derived",
+      "quality": [],
+      "date_jalali": "1405/07/18"
     }
   ],
   "meta": {
@@ -52645,9 +52658,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 3999,
+    "count": 4000,
     "next_cursor": null,
-    "published_at": "2026-10-09T15:00:01.493Z",
+    "published_at": "2026-10-10T11:00:01.442Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_ROUGH_RICE.json",
     "currency": "USD"
