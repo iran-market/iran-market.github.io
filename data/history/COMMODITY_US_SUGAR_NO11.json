@@ -52048,12 +52048,12 @@
       "t": "2026-10-08T20:30:00.000Z",
       "t_tehran": "2026-10-09T00:00:00+03:30",
       "open": 20.18,
-      "high": 20.37,
-      "low": 20.15,
-      "close": 20.26,
+      "high": 20.43,
+      "low": 20.1,
+      "close": 20.27,
       "volume": null,
-      "ticks": 11,
-      "origin": "derived",
+      "ticks": 17,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/17"
     }
@@ -52065,7 +52065,7 @@
     "unit": "toman",
     "count": 4003,
     "next_cursor": null,
-    "published_at": "2026-10-09T14:30:01.461Z",
+    "published_at": "2026-10-10T10:30:01.457Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_US_SUGAR_NO11.json",
     "currency": "USD"

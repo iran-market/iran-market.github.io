@@ -54256,15 +54256,28 @@
     {
       "t": "2026-10-08T20:30:00.000Z",
       "t_tehran": "2026-10-09T00:00:00+03:30",
-      "open": 683.02,
-      "high": 686.23,
-      "low": 681.55,
-      "close": 682.83,
+      "open": 683.06,
+      "high": 687.62,
+      "low": 661.21,
+      "close": 670.75,
       "volume": null,
-      "ticks": 16,
-      "origin": "derived",
+      "ticks": 23,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/17"
+    },
+    {
+      "t": "2026-10-09T20:30:00.000Z",
+      "t_tehran": "2026-10-10T00:00:00+03:30",
+      "open": 670.8,
+      "high": 670.8,
+      "low": 670.75,
+      "close": 670.75,
+      "volume": null,
+      "ticks": 3,
+      "origin": "derived",
+      "quality": [],
+      "date_jalali": "1405/07/18"
     }
   ],
   "meta": {
@@ -54272,9 +54285,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 4140,
+    "count": 4141,
     "next_cursor": null,
-    "published_at": "2026-10-09T14:30:01.461Z",
+    "published_at": "2026-10-10T10:30:01.457Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_US_WHEAT.json",
     "currency": "USD"

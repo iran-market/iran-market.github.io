@@ -52641,15 +52641,28 @@
     {
       "t": "2026-10-08T20:30:00.000Z",
       "t_tehran": "2026-10-09T00:00:00+03:30",
-      "open": 499.7571,
-      "high": 503.1042,
-      "low": 499.6385,
-      "close": 500.174,
+      "open": 499.7914,
+      "high": 504.2669,
+      "low": 470.0335,
+      "close": 480.5,
       "volume": null,
-      "ticks": 16,
-      "origin": "derived",
+      "ticks": 23,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/17"
+    },
+    {
+      "t": "2026-10-09T20:30:00.000Z",
+      "t_tehran": "2026-10-10T00:00:00+03:30",
+      "open": 480.2384,
+      "high": 480.5,
+      "low": 480.2384,
+      "close": 480.5,
+      "volume": null,
+      "ticks": 2,
+      "origin": "derived",
+      "quality": [],
+      "date_jalali": "1405/07/18"
     }
   ],
   "meta": {
@@ -52657,9 +52670,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 4043,
+    "count": 4044,
     "next_cursor": null,
-    "published_at": "2026-10-09T14:30:01.461Z",
+    "published_at": "2026-10-10T10:30:01.457Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_CORN.json",
     "currency": "USD"
