@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-10T09:30:01.448Z",
+  "generated_at": "2026-10-10T10:00:01.517Z",
   "update_frequency_minutes": 30,
   "source": "TGJU",
   "license_note": "Market data belongs to its original providers; verify before financial use.",
@@ -702,7 +702,7 @@
       "path": "history/COMMODITY_US_COFFEE_C.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_US_COFFEE_C.json",
       "description": "Daily OHLC history for COMMODITY_US_COFFEE_C",
-      "records": 4001,
+      "records": 4002,
       "unit": "USD"
     },
     {
@@ -716,7 +716,7 @@
       "path": "history/COMMODITY_US_COCOA.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_US_COCOA.json",
       "description": "Daily OHLC history for COMMODITY_US_COCOA",
-      "records": 3998,
+      "records": 3999,
       "unit": "USD"
     },
     {
