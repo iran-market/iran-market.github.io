@@ -33865,15 +33865,30 @@
     {
       "t": "2026-10-08T20:30:00.000Z",
       "t_tehran": "2026-10-09T00:00:00+03:30",
-      "open": 0.0000053,
-      "high": 0.00000541,
-      "low": 0.0000053,
-      "close": 0.00000541,
+      "open": 0,
+      "high": 0,
+      "low": 0,
+      "close": 0,
       "volume": null,
-      "ticks": 20,
+      "ticks": 24,
+      "origin": "source",
+      "quality": [
+        "non_positive"
+      ],
+      "date_jalali": "1405/07/17"
+    },
+    {
+      "t": "2026-10-09T20:30:00.000Z",
+      "t_tehran": "2026-10-10T00:00:00+03:30",
+      "open": 0.00000546,
+      "high": 0.0000055,
+      "low": 0.00000545,
+      "close": 0.00000545,
+      "volume": null,
+      "ticks": 17,
       "origin": "derived",
       "quality": [],
-      "date_jalali": "1405/07/17"
+      "date_jalali": "1405/07/18"
     }
   ],
   "meta": {
@@ -33881,9 +33896,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 2261,
+    "count": 2262,
     "next_cursor": null,
-    "published_at": "2026-10-09T17:00:01.490Z",
+    "published_at": "2026-10-10T13:00:01.368Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/SHIB_USD.json",
     "currency": "USD"
