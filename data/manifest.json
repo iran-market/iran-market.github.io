@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-10T14:00:01.391Z",
+  "generated_at": "2026-10-10T14:30:01.365Z",
   "update_frequency_minutes": 30,
   "source": "TGJU",
   "license_note": "Market data belongs to its original providers; verify before financial use.",
@@ -632,28 +632,28 @@
       "path": "history/DOT_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DOT_IRR.json",
       "description": "Daily OHLC history for DOT_IRR",
-      "records": 1718,
+      "records": 1719,
       "unit": "IRT"
     },
     {
       "path": "history/AVAX_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/AVAX_IRR.json",
       "description": "Daily OHLC history for AVAX_IRR",
-      "records": 1979,
+      "records": 1980,
       "unit": "IRT"
     },
     {
       "path": "history/LINK_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/LINK_IRR.json",
       "description": "Daily OHLC history for LINK_IRR",
-      "records": 2021,
+      "records": 2022,
       "unit": "IRT"
     },
     {
       "path": "history/USDC_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/USDC_IRR.json",
       "description": "Daily OHLC history for USDC_IRR",
-      "records": 2024,
+      "records": 2025,
       "unit": "IRT"
     },
     {
