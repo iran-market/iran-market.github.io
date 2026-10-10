@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-10T12:00:01.446Z",
+    "published_at": "2026-10-10T12:30:01.416Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -898,11 +898,11 @@
       "category": "crypto",
       "file": "history/XLM_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/XLM_USD.json",
-      "records": 4448,
+      "records": 4449,
       "currency": "USD",
       "from": "2014-08-04T19:30:00.000Z",
-      "to": "2026-10-08T20:30:00.000Z",
-      "history_published_at": "2026-10-09T16:30:01.333Z"
+      "to": "2026-10-09T20:30:00.000Z",
+      "history_published_at": "2026-10-10T12:30:01.416Z"
     },
     {
       "symbol": "USDT_USD",
@@ -911,11 +911,11 @@
       "category": "crypto",
       "file": "history/USDT_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/USDT_USD.json",
-      "records": 4232,
+      "records": 4233,
       "currency": "USD",
       "from": "2015-02-24T20:30:00.000Z",
-      "to": "2026-10-08T20:30:00.000Z",
-      "history_published_at": "2026-10-09T16:30:01.333Z"
+      "to": "2026-10-09T20:30:00.000Z",
+      "history_published_at": "2026-10-10T12:30:01.416Z"
     },
     {
       "symbol": "ETC_USD",
@@ -924,11 +924,11 @@
       "category": "crypto",
       "file": "history/ETC_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/ETC_USD.json",
-      "records": 3729,
+      "records": 3730,
       "currency": "USD",
       "from": "2016-07-23T19:30:00.000Z",
-      "to": "2026-10-08T20:30:00.000Z",
-      "history_published_at": "2026-10-09T16:30:01.333Z"
+      "to": "2026-10-09T20:30:00.000Z",
+      "history_published_at": "2026-10-10T12:30:01.416Z"
     },
     {
       "symbol": "BCH_USD",
@@ -937,11 +937,11 @@
       "category": "crypto",
       "file": "history/BCH_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BCH_USD.json",
-      "records": 3365,
+      "records": 3366,
       "currency": "USD",
       "from": "2017-07-22T19:30:00.000Z",
-      "to": "2026-10-08T20:30:00.000Z",
-      "history_published_at": "2026-10-09T16:30:01.333Z"
+      "to": "2026-10-09T20:30:00.000Z",
+      "history_published_at": "2026-10-10T12:30:01.416Z"
     },
     {
       "symbol": "LINK_USD",

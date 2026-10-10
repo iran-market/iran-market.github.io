@@ -43735,15 +43735,28 @@
     {
       "t": "2026-10-08T20:30:00.000Z",
       "t_tehran": "2026-10-09T00:00:00+03:30",
-      "open": 283.1,
-      "high": 284.27,
-      "low": 273.5,
-      "close": 273.5,
+      "open": 282.92,
+      "high": 284.61,
+      "low": 269.75,
+      "close": 274.49,
       "volume": null,
-      "ticks": 20,
-      "origin": "derived",
+      "ticks": 24,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/17"
+    },
+    {
+      "t": "2026-10-09T20:30:00.000Z",
+      "t_tehran": "2026-10-10T00:00:00+03:30",
+      "open": 274.5,
+      "high": 280.23,
+      "low": 274.5,
+      "close": 279.22,
+      "volume": null,
+      "ticks": 14,
+      "origin": "derived",
+      "quality": [],
+      "date_jalali": "1405/07/18"
     }
   ],
   "meta": {
@@ -43751,9 +43764,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 3365,
+    "count": 3366,
     "next_cursor": null,
-    "published_at": "2026-10-09T16:30:01.333Z",
+    "published_at": "2026-10-10T12:30:01.416Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BCH_USD.json",
     "currency": "USD"
