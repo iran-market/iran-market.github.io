@@ -52969,15 +52969,28 @@
     {
       "t": "2026-10-08T20:30:00.000Z",
       "t_tehran": "2026-10-09T00:00:00+03:30",
-      "open": 15544,
-      "high": 15731,
-      "low": 15544,
-      "close": 15640,
+      "open": 15564,
+      "high": 15750,
+      "low": 15527,
+      "close": 15700,
       "volume": null,
-      "ticks": 16,
-      "origin": "derived",
+      "ticks": 22,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/17"
+    },
+    {
+      "t": "2026-10-09T20:30:00.000Z",
+      "t_tehran": "2026-10-10T00:00:00+03:30",
+      "open": 15658,
+      "high": 15700,
+      "low": 15658,
+      "close": 15658,
+      "volume": null,
+      "ticks": 10,
+      "origin": "derived",
+      "quality": [],
+      "date_jalali": "1405/07/18"
     }
   ],
   "meta": {
@@ -52985,9 +52998,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 3937,
+    "count": 3938,
     "next_cursor": null,
-    "published_at": "2026-10-09T16:00:01.386Z",
+    "published_at": "2026-10-10T12:00:01.446Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BASE_GLOBAL_NICKEL.json",
     "currency": "USD"

@@ -647,8 +647,8 @@
       "low": 679.5,
       "close": 682.5,
       "volume": null,
-      "ticks": 9,
-      "origin": "derived",
+      "ticks": 10,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/17"
     }
@@ -660,7 +660,7 @@
     "unit": "toman",
     "count": 50,
     "next_cursor": null,
-    "published_at": "2026-10-09T16:00:01.386Z",
+    "published_at": "2026-10-10T12:00:01.446Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BASE_GLOBAL_IRON_ORE.json",
     "currency": "USD"
