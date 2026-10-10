@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-10T09:00:01.554Z",
+    "published_at": "2026-10-10T09:30:01.448Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -1175,7 +1175,7 @@
       "currency": "USD",
       "from": "2011-01-01T20:30:00.000Z",
       "to": "2026-07-19T20:30:00.000Z",
-      "history_published_at": "2026-10-09T13:30:01.510Z"
+      "history_published_at": "2026-10-10T09:30:01.448Z"
     },
     {
       "symbol": "ENERGY_NATURAL_GAS",
@@ -1184,11 +1184,11 @@
       "category": "energy",
       "file": "history/ENERGY_NATURAL_GAS.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/ENERGY_NATURAL_GAS.json",
-      "records": 4141,
+      "records": 4142,
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-10-08T20:30:00.000Z",
-      "history_published_at": "2026-10-09T13:30:01.510Z"
+      "to": "2026-10-09T20:30:00.000Z",
+      "history_published_at": "2026-10-10T09:30:01.448Z"
     },
     {
       "symbol": "OPEC_BASKET_USD",
@@ -1201,7 +1201,7 @@
       "currency": "USD",
       "from": "2015-03-06T20:30:00.000Z",
       "to": "2026-10-07T20:30:00.000Z",
-      "history_published_at": "2026-10-09T13:30:01.510Z"
+      "history_published_at": "2026-10-10T09:30:01.448Z"
     },
     {
       "symbol": "ENERGY_GASOLINE_RBOB",
@@ -1210,11 +1210,11 @@
       "category": "energy",
       "file": "history/ENERGY_GASOLINE_RBOB.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/ENERGY_GASOLINE_RBOB.json",
-      "records": 4092,
+      "records": 4093,
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-10-08T20:30:00.000Z",
-      "history_published_at": "2026-10-09T13:30:01.510Z"
+      "to": "2026-10-09T20:30:00.000Z",
+      "history_published_at": "2026-10-10T09:30:01.448Z"
     },
     {
       "symbol": "COMMODITY_LONDON_COFFEE",
