@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-10T03:30:01.450Z",
+    "published_at": "2026-10-10T04:00:01.529Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -330,7 +330,7 @@
       "currency": "IRT",
       "from": "2014-07-20T19:30:00.000Z",
       "to": "2026-10-07T20:30:00.000Z",
-      "history_published_at": "2026-10-09T08:00:01.408Z"
+      "history_published_at": "2026-10-10T04:00:01.529Z"
     },
     {
       "symbol": "GOLD_18K_IRR",
@@ -343,7 +343,7 @@
       "currency": "IRT",
       "from": "2013-07-21T19:30:00.000Z",
       "to": "2026-10-07T20:30:00.000Z",
-      "history_published_at": "2026-10-09T08:00:01.408Z"
+      "history_published_at": "2026-10-10T04:00:01.529Z"
     },
     {
       "symbol": "GOLD_24K_IRR",
@@ -356,7 +356,7 @@
       "currency": "IRT",
       "from": "2014-05-01T19:30:00.000Z",
       "to": "2026-10-07T20:30:00.000Z",
-      "history_published_at": "2026-10-09T08:00:01.408Z"
+      "history_published_at": "2026-10-10T04:00:01.529Z"
     },
     {
       "symbol": "GOLD_USED_IRR",
@@ -369,7 +369,7 @@
       "currency": "IRT",
       "from": "2018-03-16T20:30:00.000Z",
       "to": "2026-10-07T20:30:00.000Z",
-      "history_published_at": "2026-10-09T08:00:01.408Z"
+      "history_published_at": "2026-10-10T04:00:01.529Z"
     },
     {
       "symbol": "GOLD_MESGHAL_IRR",
