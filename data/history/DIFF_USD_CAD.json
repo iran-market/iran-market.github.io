@@ -54460,15 +54460,28 @@
     {
       "t": "2026-10-08T20:30:00.000Z",
       "t_tehran": "2026-10-09T00:00:00+03:30",
-      "open": 1.4222,
-      "high": 1.428,
-      "low": 1.4211,
+      "open": 1.4224,
+      "high": 1.4292,
+      "low": 1.4207,
       "close": 1.426,
       "volume": null,
       "ticks": 25,
-      "origin": "derived",
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/17"
+    },
+    {
+      "t": "2026-10-09T20:30:00.000Z",
+      "t_tehran": "2026-10-10T00:00:00+03:30",
+      "open": 1.4251,
+      "high": 1.4251,
+      "low": 1.4251,
+      "close": 1.4251,
+      "volume": null,
+      "ticks": 1,
+      "origin": "derived",
+      "quality": [],
+      "date_jalali": "1405/07/18"
     }
   ],
   "meta": {
@@ -54476,9 +54489,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 4190,
+    "count": 4191,
     "next_cursor": null,
-    "published_at": "2026-10-09T21:00:01.461Z",
+    "published_at": "2026-10-10T17:00:01.425Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DIFF_USD_CAD.json",
     "currency": "POINTS"
