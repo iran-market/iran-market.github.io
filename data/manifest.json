@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-10T04:30:01.433Z",
+  "generated_at": "2026-10-10T05:00:01.371Z",
   "update_frequency_minutes": 30,
   "source": "TGJU",
   "license_note": "Market data belongs to its original providers; verify before financial use.",
@@ -268,14 +268,14 @@
       "path": "history/PLATINUM.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/PLATINUM.json",
       "description": "Daily OHLC history for PLATINUM",
-      "records": 4639,
+      "records": 4640,
       "unit": "USD"
     },
     {
       "path": "history/PALLADIUM.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/PALLADIUM.json",
       "description": "Daily OHLC history for PALLADIUM",
-      "records": 4372,
+      "records": 4373,
       "unit": "USD"
     },
     {
