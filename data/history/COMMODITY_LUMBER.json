@@ -52460,15 +52460,28 @@
     {
       "t": "2026-10-08T20:30:00.000Z",
       "t_tehran": "2026-10-09T00:00:00+03:30",
-      "open": 518.02,
-      "high": 533.57,
+      "open": 518.04,
+      "high": 535.58,
       "low": 516.05,
-      "close": 533.57,
+      "close": 534,
       "volume": null,
-      "ticks": 9,
-      "origin": "derived",
+      "ticks": 11,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/17"
+    },
+    {
+      "t": "2026-10-09T20:30:00.000Z",
+      "t_tehran": "2026-10-10T00:00:00+03:30",
+      "open": 532.52,
+      "high": 532.53,
+      "low": 532.52,
+      "close": 532.53,
+      "volume": null,
+      "ticks": 2,
+      "origin": "derived",
+      "quality": [],
+      "date_jalali": "1405/07/18"
     }
   ],
   "meta": {
@@ -52476,9 +52489,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 4034,
+    "count": 4035,
     "next_cursor": null,
-    "published_at": "2026-10-09T19:00:01.419Z",
+    "published_at": "2026-10-10T15:00:01.418Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_LUMBER.json",
     "currency": "USD"
