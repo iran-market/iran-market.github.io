@@ -50195,7 +50195,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1405/01/19"
     },
     {
@@ -51222,7 +51224,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1405/05/03"
     },
     {
@@ -52065,7 +52069,7 @@
     "unit": "toman",
     "count": 4003,
     "next_cursor": null,
-    "published_at": "2026-10-10T10:30:01.457Z",
+    "published_at": "2026-10-11T07:00:01.424Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_US_SUGAR_NO11.json",
     "currency": "USD"
