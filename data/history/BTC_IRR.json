@@ -8,7 +8,7 @@
       "low": 1600,
       "close": 1600,
       "volume": null,
-      "ticks": 48992,
+      "ticks": 53887,
       "origin": "derived",
       "quality": [
         "spike",
@@ -12142,7 +12142,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1402/07/05"
     },
     {
@@ -26293,32 +26295,43 @@
     {
       "t": "2026-10-08T20:30:00.000Z",
       "t_tehran": "2026-10-09T00:00:00+03:30",
-      "open": 21834564200,
-      "high": 22257463500,
-      "low": 21799190600,
-      "close": 21997964200,
+      "open": 21814284700,
+      "high": 22334302200,
+      "low": 21785654900,
+      "close": 21984602800,
       "volume": null,
       "ticks": 5724,
-      "origin": "derived",
-      "quality": [
-        "spike"
-      ],
+      "origin": "source",
+      "quality": [],
       "date_jalali": "1405/07/17"
     },
     {
       "t": "2026-10-09T20:30:00.000Z",
       "t_tehran": "2026-10-10T00:00:00+03:30",
-      "open": 21978770600,
-      "high": 22081825700,
-      "low": 21978770600,
-      "close": 22025757400,
+      "open": 21978605800,
+      "high": 22125409800,
+      "low": 21939455600,
+      "close": 22070610200,
       "volume": null,
-      "ticks": 4040,
+      "ticks": 5760,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/07/18"
+    },
+    {
+      "t": "2026-10-10T20:30:00.000Z",
+      "t_tehran": "2026-10-11T00:00:00+03:30",
+      "open": 22071657100,
+      "high": 22081778400,
+      "low": 21867296800,
+      "close": 21981371500,
+      "volume": null,
+      "ticks": 3171,
       "origin": "derived",
       "quality": [
         "spike"
       ],
-      "date_jalali": "1405/07/18"
+      "date_jalali": "1405/07/19"
     }
   ],
   "meta": {
@@ -26326,9 +26339,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 2021,
+    "count": 2022,
     "next_cursor": null,
-    "published_at": "2026-10-10T13:30:01.424Z",
+    "published_at": "2026-10-11T10:00:01.410Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BTC_IRR.json",
     "currency": "IRT"

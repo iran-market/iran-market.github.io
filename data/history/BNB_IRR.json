@@ -12100,7 +12100,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1402/07/05"
     },
     {
@@ -26306,15 +26308,28 @@
     {
       "t": "2026-10-09T20:30:00.000Z",
       "t_tehran": "2026-10-10T00:00:00+03:30",
-      "open": 197231900,
-      "high": 199962330,
-      "low": 197231900,
-      "close": 198935740,
+      "open": 197230420,
+      "high": 200108970,
+      "low": 197202550,
+      "close": 199547750,
       "volume": null,
-      "ticks": 18,
-      "origin": "derived",
+      "ticks": 25,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/18"
+    },
+    {
+      "t": "2026-10-10T20:30:00.000Z",
+      "t_tehran": "2026-10-11T00:00:00+03:30",
+      "open": 199566350,
+      "high": 199566350,
+      "low": 197020570,
+      "close": 197858100,
+      "volume": null,
+      "ticks": 14,
+      "origin": "derived",
+      "quality": [],
+      "date_jalali": "1405/07/19"
     }
   ],
   "meta": {
@@ -26322,9 +26337,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 2018,
+    "count": 2019,
     "next_cursor": null,
-    "published_at": "2026-10-10T13:30:01.424Z",
+    "published_at": "2026-10-11T10:00:01.410Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BNB_IRR.json",
     "currency": "IRT"
