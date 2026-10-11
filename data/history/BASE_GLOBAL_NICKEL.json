@@ -12620,7 +12620,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1393/10/07"
     },
     {
@@ -36719,7 +36721,8 @@
       "ticks": null,
       "origin": "source",
       "quality": [
-        "ohlc_repaired"
+        "ohlc_repaired",
+        "gap_before"
       ],
       "date_jalali": "1400/12/24"
     },
@@ -37504,7 +37507,8 @@
       "ticks": null,
       "origin": "source",
       "quality": [
-        "ohlc_repaired"
+        "ohlc_repaired",
+        "gap_before"
       ],
       "date_jalali": "1401/03/15"
     },
@@ -47399,7 +47403,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1403/11/22"
     },
     {
@@ -51143,7 +51149,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1405/01/15"
     },
     {
@@ -52092,7 +52100,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1405/05/03"
     },
     {
@@ -52985,12 +52995,25 @@
       "open": 15658,
       "high": 15700,
       "low": 15658,
-      "close": 15658,
+      "close": 15700,
       "volume": null,
-      "ticks": 10,
-      "origin": "derived",
+      "ticks": 19,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/18"
+    },
+    {
+      "t": "2026-10-10T20:30:00.000Z",
+      "t_tehran": "2026-10-11T00:00:00+03:30",
+      "open": 15700,
+      "high": 15700,
+      "low": 15700,
+      "close": 15700,
+      "volume": null,
+      "ticks": 1,
+      "origin": "derived",
+      "quality": [],
+      "date_jalali": "1405/07/19"
     }
   ],
   "meta": {
@@ -52998,9 +53021,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 3938,
+    "count": 3939,
     "next_cursor": null,
-    "published_at": "2026-10-10T12:00:01.446Z",
+    "published_at": "2026-10-11T08:30:01.494Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BASE_GLOBAL_NICKEL.json",
     "currency": "USD"
