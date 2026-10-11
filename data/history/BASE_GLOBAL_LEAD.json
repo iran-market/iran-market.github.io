@@ -12620,7 +12620,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1393/10/07"
     },
     {
@@ -37537,7 +37539,8 @@
       "ticks": null,
       "origin": "source",
       "quality": [
-        "ohlc_repaired"
+        "ohlc_repaired",
+        "gap_before"
       ],
       "date_jalali": "1401/03/15"
     },
@@ -51411,7 +51414,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1405/01/15"
     },
     {
@@ -52360,7 +52365,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1405/05/03"
     },
     {
@@ -53086,7 +53093,7 @@
     "unit": "toman",
     "count": 3944,
     "next_cursor": null,
-    "published_at": "2026-10-10T16:00:01.424Z",
+    "published_at": "2026-10-11T12:00:01.543Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BASE_GLOBAL_LEAD.json",
     "currency": "USD"

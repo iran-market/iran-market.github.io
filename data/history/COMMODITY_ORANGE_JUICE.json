@@ -50877,7 +50877,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1405/01/19"
     },
     {
@@ -51878,7 +51880,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1405/05/03"
     },
     {
@@ -52734,8 +52738,8 @@
       "low": 146.55,
       "close": 146.56,
       "volume": null,
-      "ticks": 4,
-      "origin": "derived",
+      "ticks": 5,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/18"
     }
@@ -52747,7 +52751,7 @@
     "unit": "toman",
     "count": 4001,
     "next_cursor": null,
-    "published_at": "2026-10-10T16:00:01.424Z",
+    "published_at": "2026-10-11T12:00:01.543Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_ORANGE_JUICE.json",
     "currency": "USD"
