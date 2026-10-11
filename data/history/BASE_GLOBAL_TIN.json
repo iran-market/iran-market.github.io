@@ -50616,7 +50616,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1404/10/08"
     },
     {
@@ -51058,7 +51060,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1404/12/02"
     },
     {
@@ -51409,7 +51413,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1405/01/15"
     },
     {
@@ -51422,7 +51428,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1405/01/20"
     },
     {
@@ -52267,7 +52275,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1405/05/03"
     },
     {
@@ -53160,12 +53170,25 @@
       "open": 51245,
       "high": 51447,
       "low": 51245,
-      "close": 51245,
+      "close": 51447,
       "volume": null,
-      "ticks": 11,
-      "origin": "derived",
+      "ticks": 13,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/18"
+    },
+    {
+      "t": "2026-10-10T20:30:00.000Z",
+      "t_tehran": "2026-10-11T00:00:00+03:30",
+      "open": 51447,
+      "high": 51447,
+      "low": 51447,
+      "close": 51447,
+      "volume": null,
+      "ticks": 14,
+      "origin": "derived",
+      "quality": [],
+      "date_jalali": "1405/07/19"
     }
   ],
   "meta": {
@@ -53173,9 +53196,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 3945,
+    "count": 3946,
     "next_cursor": null,
-    "published_at": "2026-10-10T16:30:01.382Z",
+    "published_at": "2026-10-11T12:30:01.395Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BASE_GLOBAL_TIN.json",
     "currency": "USD"

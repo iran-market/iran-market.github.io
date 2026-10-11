@@ -19626,7 +19626,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1398/04/28"
     },
     {
@@ -19652,7 +19654,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1398/05/27"
     },
     {
@@ -19678,7 +19682,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1398/06/19"
     },
     {
@@ -20705,7 +20711,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1398/10/15"
     },
     {
@@ -27764,7 +27772,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1400/08/10"
     },
     {
@@ -34225,7 +34235,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1402/07/06"
     },
     {
@@ -43381,7 +43393,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1405/01/19"
     },
     {
@@ -44408,7 +44422,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1405/05/03"
     },
     {
@@ -45260,12 +45276,12 @@
       "t": "2026-10-09T20:30:00.000Z",
       "t_tehran": "2026-10-10T00:00:00+03:30",
       "open": 1316.06,
-      "high": 1316.08,
-      "low": 1316.05,
+      "high": 1316.11,
+      "low": 1316,
       "close": 1316.08,
       "volume": null,
-      "ticks": 3,
-      "origin": "derived",
+      "ticks": 4,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/18"
     }
@@ -45277,7 +45293,7 @@
     "unit": "toman",
     "count": 3477,
     "next_cursor": null,
-    "published_at": "2026-10-10T16:30:01.382Z",
+    "published_at": "2026-10-11T12:30:01.395Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BASE_US_STEEL_COIL.json",
     "currency": "USD"
