@@ -53789,13 +53789,13 @@
     {
       "t": "2026-10-09T20:30:00.000Z",
       "t_tehran": "2026-10-10T00:00:00+03:30",
-      "open": 4195.83,
-      "high": 4195.83,
-      "low": 4193.87,
+      "open": 4195.91,
+      "high": 4195.95,
+      "low": 4193,
       "close": 4193.87,
       "volume": null,
-      "ticks": 2,
-      "origin": "derived",
+      "ticks": 3,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/18"
     }
@@ -53807,7 +53807,7 @@
     "unit": "toman",
     "count": 4135,
     "next_cursor": null,
-    "published_at": "2026-10-10T04:30:01.433Z",
+    "published_at": "2026-10-11T00:30:01.366Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/XAU_USD.json",
     "currency": "USD"
