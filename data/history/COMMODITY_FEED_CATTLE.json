@@ -50164,7 +50164,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1405/01/19"
     },
     {
@@ -51217,7 +51219,9 @@
       "volume": null,
       "ticks": null,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1405/05/03"
     },
     {
@@ -52055,13 +52059,13 @@
     {
       "t": "2026-10-09T20:30:00.000Z",
       "t_tehran": "2026-10-10T00:00:00+03:30",
-      "open": 343.7395,
-      "high": 343.7396,
-      "low": 343.7395,
+      "open": 343.7816,
+      "high": 343.9,
+      "low": 343.7232,
       "close": 343.7396,
       "volume": null,
-      "ticks": 2,
-      "origin": "derived",
+      "ticks": 3,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/18"
     }
@@ -52073,7 +52077,7 @@
     "unit": "toman",
     "count": 4005,
     "next_cursor": null,
-    "published_at": "2026-10-10T15:00:01.418Z",
+    "published_at": "2026-10-11T11:30:01.407Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_FEED_CATTLE.json",
     "currency": "USD"
