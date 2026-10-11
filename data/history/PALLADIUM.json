@@ -57801,13 +57801,13 @@
     {
       "t": "2026-10-09T20:30:00.000Z",
       "t_tehran": "2026-10-10T00:00:00+03:30",
-      "open": 1150,
-      "high": 1150.5,
-      "low": 1150,
+      "open": 1149.5,
+      "high": 1151,
+      "low": 1149.5,
       "close": 1150,
       "volume": null,
-      "ticks": 4,
-      "origin": "derived",
+      "ticks": 5,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/18"
     }
@@ -57819,7 +57819,7 @@
     "unit": "toman",
     "count": 4373,
     "next_cursor": null,
-    "published_at": "2026-10-10T05:00:01.371Z",
+    "published_at": "2026-10-11T01:30:01.407Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/PALLADIUM.json",
     "currency": "USD"

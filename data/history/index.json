@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-11T00:30:01.366Z",
+    "published_at": "2026-10-11T01:30:01.407Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -434,7 +434,7 @@
       "currency": "USD",
       "from": "2011-01-01T20:30:00.000Z",
       "to": "2026-10-09T20:30:00.000Z",
-      "history_published_at": "2026-10-10T05:00:01.371Z"
+      "history_published_at": "2026-10-11T01:30:01.407Z"
     },
     {
       "symbol": "PALLADIUM",
@@ -447,7 +447,7 @@
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
       "to": "2026-10-09T20:30:00.000Z",
-      "history_published_at": "2026-10-10T05:00:01.371Z"
+      "history_published_at": "2026-10-11T01:30:01.407Z"
     },
     {
       "symbol": "COIN_EMAMI_IRR",
@@ -456,11 +456,11 @@
       "category": "coin",
       "file": "history/COIN_EMAMI_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_EMAMI_IRR.json",
-      "records": 4133,
+      "records": 4134,
       "currency": "IRT",
       "from": "2010-12-31T20:30:00.000Z",
-      "to": "2026-10-07T20:30:00.000Z",
-      "history_published_at": "2026-10-10T05:00:01.371Z"
+      "to": "2026-10-09T20:30:00.000Z",
+      "history_published_at": "2026-10-11T01:30:01.407Z"
     },
     {
       "symbol": "COIN_BAHAR_IRR",
@@ -469,11 +469,11 @@
       "category": "coin",
       "file": "history/COIN_BAHAR_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_BAHAR_IRR.json",
-      "records": 3505,
+      "records": 3506,
       "currency": "IRT",
       "from": "2013-07-21T19:30:00.000Z",
-      "to": "2026-10-07T20:30:00.000Z",
-      "history_published_at": "2026-10-10T05:00:01.371Z"
+      "to": "2026-10-09T20:30:00.000Z",
+      "history_published_at": "2026-10-11T01:30:01.407Z"
     },
     {
       "symbol": "COIN_HALF_IRR",
