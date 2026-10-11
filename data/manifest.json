@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-11T05:30:01.381Z",
+  "generated_at": "2026-10-11T06:00:01.356Z",
   "update_frequency_minutes": 30,
   "source": "TGJU",
   "license_note": "Market data belongs to its original providers; verify before financial use.",
@@ -681,7 +681,7 @@
       "path": "history/OPEC_BASKET_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/OPEC_BASKET_USD.json",
       "description": "Daily OHLC history for OPEC_BASKET_USD",
-      "records": 2596,
+      "records": 2597,
       "unit": "USD"
     },
     {

@@ -53838,13 +53838,13 @@
     {
       "t": "2026-10-09T20:30:00.000Z",
       "t_tehran": "2026-10-10T00:00:00+03:30",
-      "open": 3.1943,
-      "high": 3.2013,
-      "low": 3.1943,
+      "open": 3.1954,
+      "high": 3.2043,
+      "low": 3.1954,
       "close": 3.2013,
       "volume": null,
-      "ticks": 3,
-      "origin": "derived",
+      "ticks": 4,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/18"
     }
@@ -53856,7 +53856,7 @@
     "unit": "toman",
     "count": 4142,
     "next_cursor": null,
-    "published_at": "2026-10-10T09:30:01.448Z",
+    "published_at": "2026-10-11T06:00:01.356Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/ENERGY_NATURAL_GAS.json",
     "currency": "USD"
