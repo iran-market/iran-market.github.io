@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-12T23:00:01.500Z",
+    "published_at": "2026-10-12T23:30:01.446Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -1327,11 +1327,11 @@
       "category": "commodity",
       "file": "history/COMMODITY_ROUGH_RICE.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_ROUGH_RICE.json",
-      "records": 4001,
+      "records": 4002,
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-10-11T20:30:00.000Z",
-      "history_published_at": "2026-10-12T03:30:01.562Z"
+      "to": "2026-10-12T20:30:00.000Z",
+      "history_published_at": "2026-10-12T23:30:01.446Z"
     },
     {
       "symbol": "COMMODITY_SOYBEANS",
@@ -1340,11 +1340,11 @@
       "category": "commodity",
       "file": "history/COMMODITY_SOYBEANS.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_SOYBEANS.json",
-      "records": 4138,
+      "records": 4139,
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-10-11T20:30:00.000Z",
-      "history_published_at": "2026-10-12T03:30:01.562Z"
+      "to": "2026-10-12T20:30:00.000Z",
+      "history_published_at": "2026-10-12T23:30:01.446Z"
     },
     {
       "symbol": "COMMODITY_COTTON",
@@ -1353,11 +1353,11 @@
       "category": "commodity",
       "file": "history/COMMODITY_COTTON.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_COTTON.json",
-      "records": 4032,
+      "records": 4033,
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-10-11T20:30:00.000Z",
-      "history_published_at": "2026-10-12T03:30:01.562Z"
+      "to": "2026-10-12T20:30:00.000Z",
+      "history_published_at": "2026-10-12T23:30:01.446Z"
     },
     {
       "symbol": "COMMODITY_BARLEY",
@@ -1366,11 +1366,11 @@
       "category": "commodity",
       "file": "history/COMMODITY_BARLEY.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_BARLEY.json",
-      "records": 33,
+      "records": 34,
       "currency": "USD",
       "from": "2026-07-24T20:30:00.000Z",
-      "to": "2026-10-09T20:30:00.000Z",
-      "history_published_at": "2026-10-12T03:30:01.562Z"
+      "to": "2026-10-12T20:30:00.000Z",
+      "history_published_at": "2026-10-12T23:30:01.446Z"
     },
     {
       "symbol": "COMMODITY_OATS",
