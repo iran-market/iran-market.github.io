@@ -52486,6 +52486,19 @@
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/18"
+    },
+    {
+      "t": "2026-10-11T20:30:00.000Z",
+      "t_tehran": "2026-10-12T00:00:00+03:30",
+      "open": 533,
+      "high": 533,
+      "low": 533,
+      "close": 533,
+      "volume": null,
+      "ticks": 1,
+      "origin": "derived",
+      "quality": [],
+      "date_jalali": "1405/07/20"
     }
   ],
   "meta": {
@@ -52493,9 +52506,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 4035,
+    "count": 4036,
     "next_cursor": null,
-    "published_at": "2026-10-11T11:30:01.407Z",
+    "published_at": "2026-10-12T07:30:01.658Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_LUMBER.json",
     "currency": "USD"

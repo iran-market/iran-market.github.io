@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-12T07:00:01.363Z",
+    "published_at": "2026-10-12T07:30:01.658Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -1409,7 +1409,7 @@
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
       "to": "2026-10-09T20:30:00.000Z",
-      "history_published_at": "2026-10-11T11:30:01.407Z"
+      "history_published_at": "2026-10-12T07:30:01.658Z"
     },
     {
       "symbol": "COMMODITY_LUMBER",
@@ -1418,11 +1418,11 @@
       "category": "commodity",
       "file": "history/COMMODITY_LUMBER.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_LUMBER.json",
-      "records": 4035,
+      "records": 4036,
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-10-09T20:30:00.000Z",
-      "history_published_at": "2026-10-11T11:30:01.407Z"
+      "to": "2026-10-11T20:30:00.000Z",
+      "history_published_at": "2026-10-12T07:30:01.658Z"
     },
     {
       "symbol": "COMMODITY_LIVE_CATTLE",
@@ -1431,11 +1431,11 @@
       "category": "commodity",
       "file": "history/COMMODITY_LIVE_CATTLE.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_LIVE_CATTLE.json",
-      "records": 4008,
+      "records": 4009,
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-10-09T20:30:00.000Z",
-      "history_published_at": "2026-10-11T11:30:01.407Z"
+      "to": "2026-10-11T20:30:00.000Z",
+      "history_published_at": "2026-10-12T07:30:01.658Z"
     },
     {
       "symbol": "COMMODITY_FEED_CATTLE",
@@ -1444,11 +1444,11 @@
       "category": "commodity",
       "file": "history/COMMODITY_FEED_CATTLE.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_FEED_CATTLE.json",
-      "records": 4005,
+      "records": 4006,
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-10-09T20:30:00.000Z",
-      "history_published_at": "2026-10-11T11:30:01.407Z"
+      "to": "2026-10-11T20:30:00.000Z",
+      "history_published_at": "2026-10-12T07:30:01.658Z"
     },
     {
       "symbol": "COMMODITY_LONDON_SUGAR",
