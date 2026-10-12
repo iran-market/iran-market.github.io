@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-12T02:30:01.447Z",
+    "published_at": "2026-10-12T03:00:01.393Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -1275,11 +1275,11 @@
       "category": "commodity",
       "file": "history/COMMODITY_US_SUGAR_NO11.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_US_SUGAR_NO11.json",
-      "records": 4003,
+      "records": 4004,
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-10-08T20:30:00.000Z",
-      "history_published_at": "2026-10-11T07:00:01.424Z"
+      "to": "2026-10-11T20:30:00.000Z",
+      "history_published_at": "2026-10-12T03:00:01.393Z"
     },
     {
       "symbol": "COMMODITY_CORN",
@@ -1288,11 +1288,11 @@
       "category": "commodity",
       "file": "history/COMMODITY_CORN.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_CORN.json",
-      "records": 4044,
+      "records": 4045,
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-10-09T20:30:00.000Z",
-      "history_published_at": "2026-10-11T07:00:01.424Z"
+      "to": "2026-10-11T20:30:00.000Z",
+      "history_published_at": "2026-10-12T03:00:01.393Z"
     },
     {
       "symbol": "COMMODITY_LONDON_WHEAT",
@@ -1305,7 +1305,7 @@
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
       "to": "2026-10-08T20:30:00.000Z",
-      "history_published_at": "2026-10-11T07:00:01.424Z"
+      "history_published_at": "2026-10-12T03:00:01.393Z"
     },
     {
       "symbol": "COMMODITY_US_WHEAT",
@@ -1314,11 +1314,11 @@
       "category": "commodity",
       "file": "history/COMMODITY_US_WHEAT.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_US_WHEAT.json",
-      "records": 4141,
+      "records": 4142,
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-10-09T20:30:00.000Z",
-      "history_published_at": "2026-10-11T07:00:01.424Z"
+      "to": "2026-10-11T20:30:00.000Z",
+      "history_published_at": "2026-10-12T03:00:01.393Z"
     },
     {
       "symbol": "COMMODITY_ROUGH_RICE",
