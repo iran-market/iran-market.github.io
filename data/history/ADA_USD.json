@@ -42851,13 +42851,13 @@
     {
       "t": "2026-10-10T20:30:00.000Z",
       "t_tehran": "2026-10-11T00:00:00+03:30",
-      "open": 0.25351078,
-      "high": 0.25351078,
-      "low": 0.2474231,
-      "close": 0.2474231,
+      "open": 0.2533,
+      "high": 0.2561,
+      "low": 0.2454,
+      "close": 0.2536,
       "volume": null,
-      "ticks": 9,
-      "origin": "derived",
+      "ticks": 25,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/19"
     }
@@ -42869,7 +42869,7 @@
     "unit": "toman",
     "count": 3297,
     "next_cursor": null,
-    "published_at": "2026-10-11T05:00:01.312Z",
+    "published_at": "2026-10-12T01:00:01.424Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/ADA_USD.json",
     "currency": "USD"
