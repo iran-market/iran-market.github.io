@@ -53069,13 +53069,13 @@
     {
       "t": "2026-10-10T20:30:00.000Z",
       "t_tehran": "2026-10-11T00:00:00+03:30",
-      "open": 2507.92,
-      "high": 2512.61,
-      "low": 2505.32,
-      "close": 2509.93,
+      "open": 2507.4,
+      "high": 2553.61,
+      "low": 2498.6,
+      "close": 2535.83,
       "volume": null,
-      "ticks": 8,
-      "origin": "derived",
+      "ticks": 25,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/19"
     }
@@ -53087,7 +53087,7 @@
     "unit": "toman",
     "count": 4083,
     "next_cursor": null,
-    "published_at": "2026-10-11T04:30:01.321Z",
+    "published_at": "2026-10-12T00:30:01.429Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/ETH_USD.json",
     "currency": "USD"

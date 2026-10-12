@@ -60882,13 +60882,13 @@
     {
       "t": "2026-10-10T20:30:00.000Z",
       "t_tehran": "2026-10-11T00:00:00+03:30",
-      "open": 0.0860185,
-      "high": 0.08606662,
-      "low": 0.0854323,
-      "close": 0.0854323,
+      "open": 0.086,
+      "high": 0.0876,
+      "low": 0.0001,
+      "close": 0.0869,
       "volume": null,
-      "ticks": 8,
-      "origin": "derived",
+      "ticks": 25,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/19"
     }
@@ -60900,7 +60900,7 @@
     "unit": "toman",
     "count": 4684,
     "next_cursor": null,
-    "published_at": "2026-10-11T04:30:01.321Z",
+    "published_at": "2026-10-12T00:30:01.429Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DOGE_USD.json",
     "currency": "USD"
