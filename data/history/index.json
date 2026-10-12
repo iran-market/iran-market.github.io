@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-12T01:00:01.424Z",
+    "published_at": "2026-10-12T01:30:01.542Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -850,7 +850,7 @@
       "currency": "USD",
       "from": "2017-09-12T19:30:00.000Z",
       "to": "2026-10-10T20:30:00.000Z",
-      "history_published_at": "2026-10-11T05:30:01.381Z"
+      "history_published_at": "2026-10-12T01:30:01.542Z"
     },
     {
       "symbol": "LTC_USD",
@@ -863,7 +863,7 @@
       "currency": "USD",
       "from": "2013-04-27T19:30:00.000Z",
       "to": "2026-10-10T20:30:00.000Z",
-      "history_published_at": "2026-10-11T05:30:01.381Z"
+      "history_published_at": "2026-10-12T01:30:01.542Z"
     },
     {
       "symbol": "DASH_USD",
@@ -876,7 +876,7 @@
       "currency": "USD",
       "from": "2014-02-13T20:30:00.000Z",
       "to": "2026-10-10T20:30:00.000Z",
-      "history_published_at": "2026-10-11T05:30:01.381Z"
+      "history_published_at": "2026-10-12T01:30:01.542Z"
     },
     {
       "symbol": "XMR_USD",
@@ -1158,11 +1158,11 @@
       "category": "energy",
       "file": "history/BRENT_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BRENT_USD.json",
-      "records": 4504,
+      "records": 4505,
       "currency": "USD",
       "from": "2011-01-01T20:30:00.000Z",
-      "to": "2026-10-09T20:30:00.000Z",
-      "history_published_at": "2026-10-11T05:30:01.381Z"
+      "to": "2026-10-11T20:30:00.000Z",
+      "history_published_at": "2026-10-12T01:30:01.542Z"
     },
     {
       "symbol": "OIL",
