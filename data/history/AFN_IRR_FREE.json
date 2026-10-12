@@ -42796,15 +42796,28 @@
     {
       "t": "2026-10-10T20:30:00.000Z",
       "t_tehran": "2026-10-11T00:00:00+03:30",
-      "open": 4111,
-      "high": 4111,
-      "low": 4070,
+      "open": 4063,
+      "high": 4143,
+      "low": 4063,
       "close": 4073,
       "volume": null,
-      "ticks": 10,
-      "origin": "derived",
+      "ticks": 11,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/19"
+    },
+    {
+      "t": "2026-10-11T20:30:00.000Z",
+      "t_tehran": "2026-10-12T00:00:00+03:30",
+      "open": 4077,
+      "high": 4077,
+      "low": 4045,
+      "close": 4048,
+      "volume": null,
+      "ticks": 7,
+      "origin": "derived",
+      "quality": [],
+      "date_jalali": "1405/07/20"
     }
   ],
   "meta": {
@@ -42812,9 +42825,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 3288,
+    "count": 3289,
     "next_cursor": null,
-    "published_at": "2026-10-11T18:30:01.483Z",
+    "published_at": "2026-10-12T14:30:01.459Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/AFN_IRR_FREE.json",
     "currency": "IRT"
