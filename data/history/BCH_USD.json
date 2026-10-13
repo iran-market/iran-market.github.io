@@ -43790,9 +43790,9 @@
       "open": 275.04,
       "high": 275.04,
       "low": 263.8,
-      "close": 263.8,
+      "close": 273.37,
       "volume": null,
-      "ticks": 5,
+      "ticks": 20,
       "origin": "derived",
       "quality": [],
       "date_jalali": "1405/07/21"
@@ -43805,7 +43805,7 @@
     "unit": "toman",
     "count": 3369,
     "next_cursor": null,
-    "published_at": "2026-10-13T01:00:01.393Z",
+    "published_at": "2026-10-13T21:00:01.483Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BCH_USD.json",
     "currency": "USD"

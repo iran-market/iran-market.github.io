@@ -57869,9 +57869,9 @@
       "open": 0.19767255,
       "high": 0.19769604,
       "low": 0.18918256,
-      "close": 0.18918256,
+      "close": 0.19234964,
       "volume": null,
-      "ticks": 5,
+      "ticks": 20,
       "origin": "derived",
       "quality": [],
       "date_jalali": "1405/07/21"
@@ -57884,7 +57884,7 @@
     "unit": "toman",
     "count": 4452,
     "next_cursor": null,
-    "published_at": "2026-10-13T01:00:01.393Z",
+    "published_at": "2026-10-13T21:00:01.483Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/XLM_USD.json",
     "currency": "USD"
