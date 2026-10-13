@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-13T02:30:01.396Z",
+    "published_at": "2026-10-13T03:00:01.401Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -1106,11 +1106,11 @@
       "category": "crypto",
       "file": "history/DOT_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DOT_IRR.json",
-      "records": 1721,
+      "records": 1722,
       "currency": "IRT",
       "from": "2021-09-22T20:30:00.000Z",
-      "to": "2026-10-11T20:30:00.000Z",
-      "history_published_at": "2026-10-12T07:00:01.363Z"
+      "to": "2026-10-12T20:30:00.000Z",
+      "history_published_at": "2026-10-13T03:00:01.401Z"
     },
     {
       "symbol": "AVAX_IRR",
@@ -1119,11 +1119,11 @@
       "category": "crypto",
       "file": "history/AVAX_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/AVAX_IRR.json",
-      "records": 1982,
+      "records": 1983,
       "currency": "IRT",
       "from": "2020-12-22T20:30:00.000Z",
-      "to": "2026-10-11T20:30:00.000Z",
-      "history_published_at": "2026-10-12T07:00:01.363Z"
+      "to": "2026-10-12T20:30:00.000Z",
+      "history_published_at": "2026-10-13T03:00:01.401Z"
     },
     {
       "symbol": "LINK_IRR",
@@ -1132,11 +1132,11 @@
       "category": "crypto",
       "file": "history/LINK_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/LINK_IRR.json",
-      "records": 2024,
+      "records": 2025,
       "currency": "IRT",
       "from": "2020-11-11T20:30:00.000Z",
-      "to": "2026-10-11T20:30:00.000Z",
-      "history_published_at": "2026-10-12T07:00:01.363Z"
+      "to": "2026-10-12T20:30:00.000Z",
+      "history_published_at": "2026-10-13T03:00:01.401Z"
     },
     {
       "symbol": "USDC_IRR",
@@ -1149,7 +1149,7 @@
       "currency": "IRT",
       "from": "2020-11-11T20:30:00.000Z",
       "to": "2026-10-11T20:30:00.000Z",
-      "history_published_at": "2026-10-12T07:00:01.363Z"
+      "history_published_at": "2026-10-13T03:00:01.401Z"
     },
     {
       "symbol": "BRENT_USD",
