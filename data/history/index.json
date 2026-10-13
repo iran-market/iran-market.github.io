@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-12T23:30:01.446Z",
+    "published_at": "2026-10-13T00:00:01.399Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -1379,11 +1379,11 @@
       "category": "commodity",
       "file": "history/COMMODITY_OATS.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_OATS.json",
-      "records": 3999,
+      "records": 4000,
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-10-11T20:30:00.000Z",
-      "history_published_at": "2026-10-12T04:00:01.370Z"
+      "to": "2026-10-12T20:30:00.000Z",
+      "history_published_at": "2026-10-13T00:00:01.399Z"
     },
     {
       "symbol": "COMMODITY_TEA",
@@ -1392,11 +1392,11 @@
       "category": "commodity",
       "file": "history/COMMODITY_TEA.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_TEA.json",
-      "records": 10,
+      "records": 11,
       "currency": "USD",
       "from": "2026-07-24T20:30:00.000Z",
-      "to": "2026-09-24T20:30:00.000Z",
-      "history_published_at": "2026-10-12T04:00:01.370Z"
+      "to": "2026-10-11T20:30:00.000Z",
+      "history_published_at": "2026-10-13T00:00:01.399Z"
     },
     {
       "symbol": "COMMODITY_SOYBEAN_MEAL",
@@ -1496,11 +1496,11 @@
       "category": "commodity",
       "file": "history/ALUMINIUM.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/ALUMINIUM.json",
-      "records": 3113,
+      "records": 3114,
       "currency": "USD",
       "from": "2014-06-12T19:30:00.000Z",
-      "to": "2026-10-08T20:30:00.000Z",
-      "history_published_at": "2026-10-12T04:00:01.370Z"
+      "to": "2026-10-11T20:30:00.000Z",
+      "history_published_at": "2026-10-13T00:00:01.399Z"
     },
     {
       "symbol": "BASE_GLOBAL_COPPER2",
@@ -1509,11 +1509,11 @@
       "category": "commodity",
       "file": "history/BASE_GLOBAL_COPPER2.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BASE_GLOBAL_COPPER2.json",
-      "records": 4101,
+      "records": 4102,
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-10-11T20:30:00.000Z",
-      "history_published_at": "2026-10-12T04:00:01.370Z"
+      "to": "2026-10-12T20:30:00.000Z",
+      "history_published_at": "2026-10-13T00:00:01.399Z"
     },
     {
       "symbol": "BASE_GLOBAL_IRON_ORE",
