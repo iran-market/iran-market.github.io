@@ -25862,15 +25862,31 @@
     {
       "t": "2026-10-11T20:30:00.000Z",
       "t_tehran": "2026-10-12T00:00:00+03:30",
-      "open": 10743000,
-      "high": 11816000,
-      "low": 10676000,
+      "open": 11289000,
+      "high": 11951000,
+      "low": 10588000,
       "close": 10874000,
       "volume": null,
       "ticks": 10,
-      "origin": "derived",
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/20"
+    },
+    {
+      "t": "2026-10-12T20:30:00.000Z",
+      "t_tehran": "2026-10-13T00:00:00+03:30",
+      "open": 11347000,
+      "high": 11412000,
+      "low": 10163000,
+      "close": 11412000,
+      "volume": null,
+      "ticks": 15,
+      "origin": "derived",
+      "quality": [
+        "out_of_order",
+        "ohlc_inconsistent"
+      ],
+      "date_jalali": "1405/07/21"
     }
   ],
   "meta": {
@@ -25878,9 +25894,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 1974,
+    "count": 1975,
     "next_cursor": null,
-    "published_at": "2026-10-12T19:00:01.483Z",
+    "published_at": "2026-10-13T15:00:01.384Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_HALF_BUBBLE_IRR.json",
     "currency": "IRT"
