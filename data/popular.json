@@ -23,7 +23,7 @@
       "timestamp": "2026-10-13T16:29:56.000Z",
       "timestamp_tehran": "2026-10-13T19:59:56+03:30",
       "timestamp_jalali": "1405/07/21 19:59:56",
-      "checked_at": "2026-10-13T17:59:50.585Z",
+      "checked_at": "2026-10-13T18:29:49.785Z",
       "source": "tgju",
       "stale": false,
       "quality": []
@@ -51,7 +51,7 @@
       "timestamp": "2026-10-13T16:29:53.000Z",
       "timestamp_tehran": "2026-10-13T19:59:53+03:30",
       "timestamp_jalali": "1405/07/21 19:59:53",
-      "checked_at": "2026-10-13T17:59:50.585Z",
+      "checked_at": "2026-10-13T18:29:49.785Z",
       "source": "tgju",
       "stale": false,
       "quality": []
@@ -79,7 +79,7 @@
       "timestamp": "2026-10-13T16:29:53.000Z",
       "timestamp_tehran": "2026-10-13T19:59:53+03:30",
       "timestamp_jalali": "1405/07/21 19:59:53",
-      "checked_at": "2026-10-13T17:59:50.585Z",
+      "checked_at": "2026-10-13T18:29:49.785Z",
       "source": "tgju",
       "stale": false,
       "quality": []
@@ -107,7 +107,7 @@
       "timestamp": "2026-10-13T16:29:53.000Z",
       "timestamp_tehran": "2026-10-13T19:59:53+03:30",
       "timestamp_jalali": "1405/07/21 19:59:53",
-      "checked_at": "2026-10-13T17:59:50.585Z",
+      "checked_at": "2026-10-13T18:29:49.785Z",
       "source": "tgju",
       "stale": false,
       "quality": []
@@ -135,7 +135,7 @@
       "timestamp": "2026-10-13T16:29:56.000Z",
       "timestamp_tehran": "2026-10-13T19:59:56+03:30",
       "timestamp_jalali": "1405/07/21 19:59:56",
-      "checked_at": "2026-10-13T17:59:50.585Z",
+      "checked_at": "2026-10-13T18:29:49.785Z",
       "source": "tgju",
       "stale": false,
       "quality": []
@@ -149,21 +149,21 @@
       "currency": "IRT",
       "unit": "unit",
       "unit_size": 1,
-      "price": 258042,
+      "price": 258014,
       "bid": null,
       "ask": null,
       "open": null,
       "high": 260708,
       "low": 254091,
       "prev_close": 259932,
-      "change": -1890,
-      "change_pct": -0.73,
+      "change": -1918,
+      "change_pct": -0.74,
       "volume": null,
       "market_status": null,
-      "timestamp": "2026-10-13T17:11:44.000Z",
-      "timestamp_tehran": "2026-10-13T20:41:44+03:30",
-      "timestamp_jalali": "1405/07/21 20:41:44",
-      "checked_at": "2026-10-13T17:59:50.585Z",
+      "timestamp": "2026-10-13T17:27:10.000Z",
+      "timestamp_tehran": "2026-10-13T20:57:10+03:30",
+      "timestamp_jalali": "1405/07/21 20:57:10",
+      "checked_at": "2026-10-13T18:29:49.785Z",
       "source": "tgju",
       "stale": false,
       "quality": [
@@ -174,12 +174,12 @@
   "meta": {
     "count": 6,
     "unit": "toman",
-    "updated_at": "2026-10-13T17:11:44.000Z",
+    "updated_at": "2026-10-13T17:27:10.000Z",
     "stale": false,
     "sources": [
       "tgju"
     ],
-    "published_at": "2026-10-13T18:00:01.648Z",
+    "published_at": "2026-10-13T18:30:01.372Z",
     "update_frequency_minutes": 30,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/popular.json",
     "source": "TGJU"
