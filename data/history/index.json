@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-13T09:30:01.503Z",
+    "published_at": "2026-10-13T10:00:01.340Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -118,11 +118,11 @@
       "category": "currency",
       "file": "history/JPY_IRR_FREE.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/JPY_IRR_FREE.json",
-      "records": 3206,
+      "records": 3207,
       "currency": "IRT",
       "from": "2014-07-20T19:30:00.000Z",
-      "to": "2026-10-11T20:30:00.000Z",
-      "history_published_at": "2026-10-12T14:00:01.510Z"
+      "to": "2026-10-12T20:30:00.000Z",
+      "history_published_at": "2026-10-13T10:00:01.340Z"
     },
     {
       "symbol": "IQD_IRR_FREE",
@@ -135,7 +135,7 @@
       "currency": "IRT",
       "from": "2014-07-22T19:30:00.000Z",
       "to": "2026-10-07T20:30:00.000Z",
-      "history_published_at": "2026-10-12T14:00:01.510Z"
+      "history_published_at": "2026-10-13T10:00:01.340Z"
     },
     {
       "symbol": "AUD_IRR_FREE",
@@ -144,11 +144,11 @@
       "category": "currency",
       "file": "history/AUD_IRR_FREE.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/AUD_IRR_FREE.json",
-      "records": 3232,
+      "records": 3233,
       "currency": "IRT",
       "from": "2014-07-20T19:30:00.000Z",
-      "to": "2026-10-11T20:30:00.000Z",
-      "history_published_at": "2026-10-12T14:00:01.510Z"
+      "to": "2026-10-12T20:30:00.000Z",
+      "history_published_at": "2026-10-13T10:00:01.340Z"
     },
     {
       "symbol": "SGD_IRR_FREE",
@@ -157,11 +157,11 @@
       "category": "currency",
       "file": "history/SGD_IRR_FREE.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/SGD_IRR_FREE.json",
-      "records": 3336,
+      "records": 3337,
       "currency": "IRT",
       "from": "2014-07-20T19:30:00.000Z",
-      "to": "2026-10-11T20:30:00.000Z",
-      "history_published_at": "2026-10-12T14:00:01.510Z"
+      "to": "2026-10-12T20:30:00.000Z",
+      "history_published_at": "2026-10-13T10:00:01.340Z"
     },
     {
       "symbol": "NZD_IRR_FREE",
