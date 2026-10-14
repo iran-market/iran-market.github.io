@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-14T19:30:01.433Z",
+    "published_at": "2026-10-14T20:00:01.595Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -1461,7 +1461,7 @@
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
       "to": "2026-09-24T20:30:00.000Z",
-      "history_published_at": "2026-10-14T00:00:01.377Z"
+      "history_published_at": "2026-10-14T20:00:01.595Z"
     },
     {
       "symbol": "COMMODITY_ORANGE_JUICE",
@@ -1474,7 +1474,7 @@
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
       "to": "2026-10-13T20:30:00.000Z",
-      "history_published_at": "2026-10-14T00:00:01.377Z"
+      "history_published_at": "2026-10-14T20:00:01.595Z"
     },
     {
       "symbol": "COMMODITY_SOYBEAN_OIL",
@@ -1483,11 +1483,11 @@
       "category": "energy",
       "file": "history/COMMODITY_SOYBEAN_OIL.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_SOYBEAN_OIL.json",
-      "records": 4047,
+      "records": 4048,
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-10-12T20:30:00.000Z",
-      "history_published_at": "2026-10-14T00:00:01.377Z"
+      "to": "2026-10-13T20:30:00.000Z",
+      "history_published_at": "2026-10-14T20:00:01.595Z"
     },
     {
       "symbol": "ALUMINIUM",
@@ -1561,11 +1561,11 @@
       "category": "commodity",
       "file": "history/BASE_GLOBAL_LEAD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BASE_GLOBAL_LEAD.json",
-      "records": 3946,
+      "records": 3947,
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-10-12T20:30:00.000Z",
-      "history_published_at": "2026-10-14T00:00:01.377Z"
+      "to": "2026-10-13T20:30:00.000Z",
+      "history_published_at": "2026-10-14T20:00:01.595Z"
     },
     {
       "symbol": "BASE_GLOBAL_TIN",
