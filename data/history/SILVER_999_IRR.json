@@ -22005,15 +22005,28 @@
     {
       "t": "2026-10-12T20:30:00.000Z",
       "t_tehran": "2026-10-13T00:00:00+03:30",
-      "open": 528930,
-      "high": 529030,
-      "low": 516060,
-      "close": 516060,
+      "open": 525960,
+      "high": 529120,
+      "low": 509520,
+      "close": 518620,
       "volume": null,
-      "ticks": 16,
-      "origin": "derived",
+      "ticks": 24,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/21"
+    },
+    {
+      "t": "2026-10-13T20:30:00.000Z",
+      "t_tehran": "2026-10-14T00:00:00+03:30",
+      "open": 516760,
+      "high": 522240,
+      "low": 510390,
+      "close": 517770,
+      "volume": null,
+      "ticks": 10,
+      "origin": "derived",
+      "quality": [],
+      "date_jalali": "1405/07/22"
     }
   ],
   "meta": {
@@ -22021,9 +22034,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 1689,
+    "count": 1690,
     "next_cursor": null,
-    "published_at": "2026-10-13T12:30:01.480Z",
+    "published_at": "2026-10-14T08:30:01.420Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/SILVER_999_IRR.json",
     "currency": "IRT"
