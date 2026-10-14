@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-14T17:30:01.472Z",
+    "published_at": "2026-10-14T18:00:01.383Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -1006,7 +1006,7 @@
       "currency": "USD",
       "from": "2020-09-21T20:30:00.000Z",
       "to": "2026-10-13T20:30:00.000Z",
-      "history_published_at": "2026-10-13T22:00:01.364Z"
+      "history_published_at": "2026-10-14T18:00:01.383Z"
     },
     {
       "symbol": "TON_USD",
@@ -1019,7 +1019,7 @@
       "currency": "USD",
       "from": "2021-08-25T19:30:00.000Z",
       "to": "2026-06-15T20:30:00.000Z",
-      "history_published_at": "2026-10-13T22:00:01.364Z"
+      "history_published_at": "2026-10-14T18:00:01.383Z"
     },
     {
       "symbol": "BTC_IRR",
@@ -1032,7 +1032,7 @@
       "currency": "IRT",
       "from": "2020-11-10T20:30:00.000Z",
       "to": "2026-10-13T20:30:00.000Z",
-      "history_published_at": "2026-10-13T22:00:01.364Z"
+      "history_published_at": "2026-10-14T18:00:01.383Z"
     },
     {
       "symbol": "BNB_IRR",
@@ -1045,7 +1045,7 @@
       "currency": "IRT",
       "from": "2020-11-11T20:30:00.000Z",
       "to": "2026-10-13T20:30:00.000Z",
-      "history_published_at": "2026-10-13T22:00:01.364Z"
+      "history_published_at": "2026-10-14T18:00:01.383Z"
     },
     {
       "symbol": "DOGE_IRR",
