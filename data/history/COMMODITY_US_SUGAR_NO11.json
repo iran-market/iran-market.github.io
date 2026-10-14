@@ -52078,14 +52078,27 @@
       "t": "2026-10-12T20:30:00.000Z",
       "t_tehran": "2026-10-13T00:00:00+03:30",
       "open": 20.85,
-      "high": 21.11,
-      "low": 20.61,
+      "high": 21.13,
+      "low": 20.59,
       "close": 21.11,
       "volume": null,
-      "ticks": 16,
-      "origin": "derived",
+      "ticks": 17,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/21"
+    },
+    {
+      "t": "2026-10-13T20:30:00.000Z",
+      "t_tehran": "2026-10-14T00:00:00+03:30",
+      "open": 21.1,
+      "high": 21.11,
+      "low": 20.86,
+      "close": 20.91,
+      "volume": null,
+      "ticks": 13,
+      "origin": "derived",
+      "quality": [],
+      "date_jalali": "1405/07/22"
     }
   ],
   "meta": {
@@ -52093,9 +52106,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 4005,
+    "count": 4006,
     "next_cursor": null,
-    "published_at": "2026-10-13T19:00:01.636Z",
+    "published_at": "2026-10-14T15:00:01.314Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_US_SUGAR_NO11.json",
     "currency": "USD"
