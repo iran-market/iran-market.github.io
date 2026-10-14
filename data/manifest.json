@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-14T13:00:01.608Z",
+  "generated_at": "2026-10-14T13:30:01.494Z",
   "update_frequency_minutes": 30,
   "source": "TGJU",
   "license_note": "Market data belongs to its original providers; verify before financial use.",
@@ -492,21 +492,21 @@
       "path": "history/TRX_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/TRX_USD.json",
       "description": "Daily OHLC history for TRX_USD",
-      "records": 3317,
+      "records": 3318,
       "unit": "USD"
     },
     {
       "path": "history/LTC_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/LTC_USD.json",
       "description": "Daily OHLC history for LTC_USD",
-      "records": 4916,
+      "records": 4917,
       "unit": "USD"
     },
     {
       "path": "history/DASH_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DASH_USD.json",
       "description": "Daily OHLC history for DASH_USD",
-      "records": 4624,
+      "records": 4625,
       "unit": "USD"
     },
     {
@@ -660,7 +660,7 @@
       "path": "history/BRENT_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BRENT_USD.json",
       "description": "Daily OHLC history for BRENT_USD",
-      "records": 4506,
+      "records": 4507,
       "unit": "USD"
     },
     {
