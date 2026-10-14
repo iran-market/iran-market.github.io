@@ -438,11 +438,11 @@
       "t_tehran": "2026-10-13T00:00:00+03:30",
       "open": 3354,
       "high": 3354,
-      "low": 3354,
-      "close": 3354,
+      "low": 3303.5,
+      "close": 3303.5,
       "volume": null,
-      "ticks": 1,
-      "origin": "derived",
+      "ticks": 3,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/21"
     }
@@ -454,7 +454,7 @@
     "unit": "toman",
     "count": 34,
     "next_cursor": null,
-    "published_at": "2026-10-13T19:30:01.475Z",
+    "published_at": "2026-10-14T15:30:01.512Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_BARLEY.json",
     "currency": "USD"
