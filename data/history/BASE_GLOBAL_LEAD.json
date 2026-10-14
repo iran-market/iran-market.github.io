@@ -53101,13 +53101,13 @@
     {
       "t": "2026-10-12T20:30:00.000Z",
       "t_tehran": "2026-10-13T00:00:00+03:30",
-      "open": 1882.48,
-      "high": 1890.1,
-      "low": 1882.35,
-      "close": 1890.1,
+      "open": 1882.43,
+      "high": 1903.83,
+      "low": 1881.8,
+      "close": 1900.83,
       "volume": null,
-      "ticks": 5,
-      "origin": "derived",
+      "ticks": 21,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/21"
     }
@@ -53119,7 +53119,7 @@
     "unit": "toman",
     "count": 3946,
     "next_cursor": null,
-    "published_at": "2026-10-13T04:00:01.555Z",
+    "published_at": "2026-10-14T00:00:01.377Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BASE_GLOBAL_LEAD.json",
     "currency": "USD"
