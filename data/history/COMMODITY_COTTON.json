@@ -53270,15 +53270,28 @@
     {
       "t": "2026-10-13T20:30:00.000Z",
       "t_tehran": "2026-10-14T00:00:00+03:30",
-      "open": 80.526,
-      "high": 81.908,
-      "low": 80.418,
-      "close": 80.893,
+      "open": 80.536,
+      "high": 82.138,
+      "low": 80.346,
+      "close": 80.65,
       "volume": null,
-      "ticks": 20,
-      "origin": "derived",
+      "ticks": 26,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/22"
+    },
+    {
+      "t": "2026-10-14T20:30:00.000Z",
+      "t_tehran": "2026-10-15T00:00:00+03:30",
+      "open": 80.656,
+      "high": 80.657,
+      "low": 79.825,
+      "close": 80.267,
+      "volume": null,
+      "ticks": 15,
+      "origin": "derived",
+      "quality": [],
+      "date_jalali": "1405/07/23"
     }
   ],
   "meta": {
@@ -53286,9 +53299,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 4034,
+    "count": 4035,
     "next_cursor": null,
-    "published_at": "2026-10-14T15:30:01.512Z",
+    "published_at": "2026-10-15T12:00:01.380Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_COTTON.json",
     "currency": "USD"
