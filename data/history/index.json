@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-15T05:00:01.373Z",
+    "published_at": "2026-10-15T05:30:01.351Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -430,11 +430,11 @@
       "category": "precious_metal",
       "file": "history/PLATINUM.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/PLATINUM.json",
-      "records": 4643,
+      "records": 4644,
       "currency": "USD",
       "from": "2011-01-01T20:30:00.000Z",
-      "to": "2026-10-13T20:30:00.000Z",
-      "history_published_at": "2026-10-14T09:30:01.401Z"
+      "to": "2026-10-14T20:30:00.000Z",
+      "history_published_at": "2026-10-15T05:30:01.351Z"
     },
     {
       "symbol": "PALLADIUM",
@@ -443,11 +443,11 @@
       "category": "precious_metal",
       "file": "history/PALLADIUM.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/PALLADIUM.json",
-      "records": 4376,
+      "records": 4377,
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-10-13T20:30:00.000Z",
-      "history_published_at": "2026-10-14T09:30:01.401Z"
+      "to": "2026-10-14T20:30:00.000Z",
+      "history_published_at": "2026-10-15T05:30:01.351Z"
     },
     {
       "symbol": "COIN_EMAMI_IRR",
@@ -460,7 +460,7 @@
       "currency": "IRT",
       "from": "2010-12-31T20:30:00.000Z",
       "to": "2026-10-13T20:30:00.000Z",
-      "history_published_at": "2026-10-14T09:30:01.401Z"
+      "history_published_at": "2026-10-15T05:30:01.351Z"
     },
     {
       "symbol": "COIN_BAHAR_IRR",
@@ -473,7 +473,7 @@
       "currency": "IRT",
       "from": "2013-07-21T19:30:00.000Z",
       "to": "2026-10-13T20:30:00.000Z",
-      "history_published_at": "2026-10-14T09:30:01.401Z"
+      "history_published_at": "2026-10-15T05:30:01.351Z"
     },
     {
       "symbol": "COIN_HALF_IRR",

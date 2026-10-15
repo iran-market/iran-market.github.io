@@ -53894,13 +53894,13 @@
     {
       "t": "2026-10-13T20:30:00.000Z",
       "t_tehran": "2026-10-14T00:00:00+03:30",
-      "open": 263115000,
-      "high": 264805000,
-      "low": 263115000,
-      "close": 264805000,
+      "open": 263385000,
+      "high": 268850000,
+      "low": 262900000,
+      "close": 267090000,
       "volume": null,
-      "ticks": 2,
-      "origin": "derived",
+      "ticks": 14,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/22"
     }
@@ -53912,7 +53912,7 @@
     "unit": "toman",
     "count": 4138,
     "next_cursor": null,
-    "published_at": "2026-10-14T09:30:01.401Z",
+    "published_at": "2026-10-15T05:30:01.351Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_EMAMI_IRR.json",
     "currency": "IRT"
