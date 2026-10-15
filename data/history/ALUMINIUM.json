@@ -43808,15 +43808,28 @@
     {
       "t": "2026-10-13T20:30:00.000Z",
       "t_tehran": "2026-10-14T00:00:00+03:30",
-      "open": 3030,
-      "high": 3030,
-      "low": 2979.65,
-      "close": 2979.65,
+      "open": 3028.05,
+      "high": 3034.05,
+      "low": 2977,
+      "close": 2989.7,
       "volume": null,
-      "ticks": 12,
-      "origin": "derived",
+      "ticks": 15,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/22"
+    },
+    {
+      "t": "2026-10-14T20:30:00.000Z",
+      "t_tehran": "2026-10-15T00:00:00+03:30",
+      "open": 2957,
+      "high": 2990.95,
+      "low": 2957,
+      "close": 2990.95,
+      "volume": null,
+      "ticks": 6,
+      "origin": "derived",
+      "quality": [],
+      "date_jalali": "1405/07/23"
     }
   ],
   "meta": {
@@ -43824,9 +43837,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 3116,
+    "count": 3117,
     "next_cursor": null,
-    "published_at": "2026-10-14T16:00:01.417Z",
+    "published_at": "2026-10-15T12:30:01.580Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/ALUMINIUM.json",
     "currency": "USD"
