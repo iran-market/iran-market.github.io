@@ -53200,14 +53200,27 @@
       "t": "2026-10-13T20:30:00.000Z",
       "t_tehran": "2026-10-14T00:00:00+03:30",
       "open": 293.21,
-      "high": 301.71,
+      "high": 303.23,
       "low": 292.7,
-      "close": 301.71,
+      "close": 296.75,
       "volume": null,
-      "ticks": 14,
-      "origin": "derived",
+      "ticks": 20,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/22"
+    },
+    {
+      "t": "2026-10-14T20:30:00.000Z",
+      "t_tehran": "2026-10-15T00:00:00+03:30",
+      "open": 296.73,
+      "high": 298.05,
+      "low": 293.5,
+      "close": 293.5,
+      "volume": null,
+      "ticks": 8,
+      "origin": "derived",
+      "quality": [],
+      "date_jalali": "1405/07/23"
     }
   ],
   "meta": {
@@ -53215,9 +53228,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 4005,
+    "count": 4006,
     "next_cursor": null,
-    "published_at": "2026-10-14T14:30:01.340Z",
+    "published_at": "2026-10-15T11:00:01.389Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_US_COFFEE_C.json",
     "currency": "USD"
