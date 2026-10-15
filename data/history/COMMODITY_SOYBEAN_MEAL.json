@@ -52539,8 +52539,8 @@
       "low": 363.2,
       "close": 363.2,
       "volume": null,
-      "ticks": 2,
-      "origin": "derived",
+      "ticks": 3,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/22"
     }
@@ -52552,7 +52552,7 @@
     "unit": "toman",
     "count": 4032,
     "next_cursor": null,
-    "published_at": "2026-10-14T19:30:01.433Z",
+    "published_at": "2026-10-15T16:00:01.387Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_SOYBEAN_MEAL.json",
     "currency": "USD"
