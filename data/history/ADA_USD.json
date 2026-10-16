@@ -42903,15 +42903,28 @@
     {
       "t": "2026-10-14T20:30:00.000Z",
       "t_tehran": "2026-10-15T00:00:00+03:30",
-      "open": 0.22887194,
-      "high": 0.23075193,
-      "low": 0.21992499,
-      "close": 0.22258553,
+      "open": 0.2289,
+      "high": 0.2319,
+      "low": 0.2189,
+      "close": 0.2312,
       "volume": null,
-      "ticks": 13,
-      "origin": "derived",
+      "ticks": 24,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/23"
+    },
+    {
+      "t": "2026-10-15T20:30:00.000Z",
+      "t_tehran": "2026-10-16T00:00:00+03:30",
+      "open": 0.2313591,
+      "high": 0.2313591,
+      "low": 0.22868484,
+      "close": 0.22972012,
+      "volume": null,
+      "ticks": 9,
+      "origin": "derived",
+      "quality": [],
+      "date_jalali": "1405/07/24"
     }
   ],
   "meta": {
@@ -42919,9 +42932,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 3301,
+    "count": 3302,
     "next_cursor": null,
-    "published_at": "2026-10-15T09:30:01.489Z",
+    "published_at": "2026-10-16T05:30:01.411Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/ADA_USD.json",
     "currency": "USD"
