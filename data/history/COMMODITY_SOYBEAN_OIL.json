@@ -52692,10 +52692,23 @@
       "low": 67.05,
       "close": 67.05,
       "volume": null,
-      "ticks": 2,
-      "origin": "derived",
+      "ticks": 3,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/23"
+    },
+    {
+      "t": "2026-10-15T20:30:00.000Z",
+      "t_tehran": "2026-10-16T00:00:00+03:30",
+      "open": 67.15,
+      "high": 67.15,
+      "low": 67.15,
+      "close": 67.15,
+      "volume": null,
+      "ticks": 1,
+      "origin": "derived",
+      "quality": [],
+      "date_jalali": "1405/07/24"
     }
   ],
   "meta": {
@@ -52703,9 +52716,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 4049,
+    "count": 4050,
     "next_cursor": null,
-    "published_at": "2026-10-15T16:30:01.511Z",
+    "published_at": "2026-10-16T12:30:01.523Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_SOYBEAN_OIL.json",
     "currency": "USD"
