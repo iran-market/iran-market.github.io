@@ -699,10 +699,23 @@
       "low": 668,
       "close": 671.5,
       "volume": null,
-      "ticks": 7,
-      "origin": "derived",
+      "ticks": 8,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/23"
+    },
+    {
+      "t": "2026-10-15T20:30:00.000Z",
+      "t_tehran": "2026-10-16T00:00:00+03:30",
+      "open": 673,
+      "high": 677.5,
+      "low": 673,
+      "close": 673,
+      "volume": null,
+      "ticks": 6,
+      "origin": "derived",
+      "quality": [],
+      "date_jalali": "1405/07/24"
     }
   ],
   "meta": {
@@ -710,9 +723,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 54,
+    "count": 55,
     "next_cursor": null,
-    "published_at": "2026-10-15T13:00:01.386Z",
+    "published_at": "2026-10-16T09:00:01.466Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BASE_GLOBAL_IRON_ORE.json",
     "currency": "USD"
