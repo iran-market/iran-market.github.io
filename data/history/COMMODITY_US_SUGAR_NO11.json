@@ -52118,11 +52118,11 @@
       "t_tehran": "2026-10-16T00:00:00+03:30",
       "open": 21.12,
       "high": 21.14,
-      "low": 21.12,
-      "close": 21.13,
+      "low": 20.5,
+      "close": 20.85,
       "volume": null,
-      "ticks": 4,
-      "origin": "derived",
+      "ticks": 15,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/24"
     }
@@ -52134,7 +52134,7 @@
     "unit": "toman",
     "count": 4008,
     "next_cursor": null,
-    "published_at": "2026-10-16T07:30:01.457Z",
+    "published_at": "2026-10-17T03:30:01.666Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_US_SUGAR_NO11.json",
     "currency": "USD"

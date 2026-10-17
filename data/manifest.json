@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-17T03:00:01.524Z",
+  "generated_at": "2026-10-17T03:30:01.666Z",
   "update_frequency_minutes": 30,
   "source": "TGJU",
   "license_note": "Market data belongs to its original providers; verify before financial use.",
@@ -730,21 +730,21 @@
       "path": "history/COMMODITY_CORN.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_CORN.json",
       "description": "Daily OHLC history for COMMODITY_CORN",
-      "records": 4049,
+      "records": 4050,
       "unit": "USD"
     },
     {
       "path": "history/COMMODITY_LONDON_WHEAT.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_LONDON_WHEAT.json",
       "description": "Daily OHLC history for COMMODITY_LONDON_WHEAT",
-      "records": 3938,
+      "records": 3939,
       "unit": "USD"
     },
     {
       "path": "history/COMMODITY_US_WHEAT.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_US_WHEAT.json",
       "description": "Daily OHLC history for COMMODITY_US_WHEAT",
-      "records": 4146,
+      "records": 4147,
       "unit": "USD"
     },
     {
