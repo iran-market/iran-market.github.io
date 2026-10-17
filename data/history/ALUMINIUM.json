@@ -43834,13 +43834,13 @@
     {
       "t": "2026-10-15T20:30:00.000Z",
       "t_tehran": "2026-10-16T00:00:00+03:30",
-      "open": 2995.3,
-      "high": 3008,
-      "low": 2995.3,
-      "close": 3008,
+      "open": 2998.8,
+      "high": 3023,
+      "low": 2991,
+      "close": 3008.5,
       "volume": null,
-      "ticks": 2,
-      "origin": "derived",
+      "ticks": 13,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/24"
     }
@@ -43852,7 +43852,7 @@
     "unit": "toman",
     "count": 3118,
     "next_cursor": null,
-    "published_at": "2026-10-16T08:30:01.391Z",
+    "published_at": "2026-10-17T04:30:01.510Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/ALUMINIUM.json",
     "currency": "USD"

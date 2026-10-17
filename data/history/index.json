@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-17T04:00:01.445Z",
+    "published_at": "2026-10-17T04:30:01.510Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -1379,11 +1379,11 @@
       "category": "commodity",
       "file": "history/COMMODITY_OATS.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_OATS.json",
-      "records": 4003,
+      "records": 4004,
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-10-15T20:30:00.000Z",
-      "history_published_at": "2026-10-16T08:30:01.391Z"
+      "to": "2026-10-16T20:30:00.000Z",
+      "history_published_at": "2026-10-17T04:30:01.510Z"
     },
     {
       "symbol": "COMMODITY_TEA",
@@ -1396,7 +1396,7 @@
       "currency": "USD",
       "from": "2026-07-24T20:30:00.000Z",
       "to": "2026-10-11T20:30:00.000Z",
-      "history_published_at": "2026-10-16T08:30:01.391Z"
+      "history_published_at": "2026-10-17T04:30:01.510Z"
     },
     {
       "symbol": "COMMODITY_SOYBEAN_MEAL",
@@ -1500,7 +1500,7 @@
       "currency": "USD",
       "from": "2014-06-12T19:30:00.000Z",
       "to": "2026-10-15T20:30:00.000Z",
-      "history_published_at": "2026-10-16T08:30:01.391Z"
+      "history_published_at": "2026-10-17T04:30:01.510Z"
     },
     {
       "symbol": "BASE_GLOBAL_COPPER2",
@@ -1509,11 +1509,11 @@
       "category": "commodity",
       "file": "history/BASE_GLOBAL_COPPER2.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BASE_GLOBAL_COPPER2.json",
-      "records": 4105,
+      "records": 4106,
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-10-15T20:30:00.000Z",
-      "history_published_at": "2026-10-16T08:30:01.391Z"
+      "to": "2026-10-16T20:30:00.000Z",
+      "history_published_at": "2026-10-17T04:30:01.510Z"
     },
     {
       "symbol": "BASE_GLOBAL_IRON_ORE",
