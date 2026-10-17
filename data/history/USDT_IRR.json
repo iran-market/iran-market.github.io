@@ -26998,47 +26998,56 @@
     {
       "t": "2026-10-13T20:30:00.000Z",
       "t_tehran": "2026-10-14T00:00:00+03:30",
-      "open": 264993,
-      "high": 264993,
-      "low": 260607,
+      "open": 259000,
+      "high": 265010,
+      "low": 257898,
       "close": 264993,
       "volume": null,
       "ticks": 5119,
-      "origin": "derived",
-      "quality": [
-        "spike"
-      ],
+      "origin": "source",
+      "quality": [],
       "date_jalali": "1405/07/22"
     },
     {
       "t": "2026-10-14T20:30:00.000Z",
       "t_tehran": "2026-10-15T00:00:00+03:30",
-      "open": 266196,
-      "high": 267476,
-      "low": 264918,
+      "open": 264911,
+      "high": 267545,
+      "low": 264906,
       "close": 266196,
       "volume": null,
       "ticks": 5727,
-      "origin": "derived",
-      "quality": [
-        "spike"
-      ],
+      "origin": "source",
+      "quality": [],
       "date_jalali": "1405/07/23"
     },
     {
       "t": "2026-10-15T20:30:00.000Z",
       "t_tehran": "2026-10-16T00:00:00+03:30",
-      "open": 264051,
-      "high": 266187,
-      "low": 262995,
+      "open": 266193,
+      "high": 266198,
+      "low": 262695,
       "close": 264051,
       "volume": null,
-      "ticks": 4619,
+      "ticks": 4996,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/07/24"
+    },
+    {
+      "t": "2026-10-16T20:30:00.000Z",
+      "t_tehran": "2026-10-17T00:00:00+03:30",
+      "open": 263279,
+      "high": 264177,
+      "low": 262875,
+      "close": 264177,
+      "volume": null,
+      "ticks": 3217,
       "origin": "derived",
       "quality": [
         "spike"
       ],
-      "date_jalali": "1405/07/24"
+      "date_jalali": "1405/07/25"
     }
   ],
   "meta": {
@@ -27046,9 +27055,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 2078,
+    "count": 2079,
     "next_cursor": null,
-    "published_at": "2026-10-17T01:00:01.557Z",
+    "published_at": "2026-10-17T21:00:01.689Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/USDT_IRR.json",
     "currency": "IRT"
