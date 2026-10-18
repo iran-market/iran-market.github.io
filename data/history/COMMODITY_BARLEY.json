@@ -467,8 +467,8 @@
       "low": 3252,
       "close": 3252,
       "volume": null,
-      "ticks": 1,
-      "origin": "derived",
+      "ticks": 2,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/25"
     }
@@ -480,7 +480,7 @@
     "unit": "toman",
     "count": 36,
     "next_cursor": null,
-    "published_at": "2026-10-17T04:00:01.445Z",
+    "published_at": "2026-10-18T00:00:01.419Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_BARLEY.json",
     "currency": "USD"
