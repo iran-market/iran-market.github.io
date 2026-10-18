@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-18T15:00:01.495Z",
+    "published_at": "2026-10-18T15:30:01.393Z",
     "update_frequency_minutes": 30,
     "source": "TGJU",
     "symbol_scope": "Iran Market canonical identifiers",
@@ -11,11 +11,11 @@
       "coin": 77,
       "commodity": 89,
       "crypto": 70,
-      "currency": 326,
+      "currency": 327,
       "energy": 136,
       "gold": 57,
       "index": 149,
-      "other": 441,
+      "other": 440,
       "precious_metal": 6
     },
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/symbols.json"
@@ -1367,7 +1367,7 @@
     },
     {
       "symbol": "BASE_GLOBAL_TIN",
-      "name_fa": "قلع",
+      "name_fa": "base_global_tin",
       "name_en": "Tin",
       "category": "commodity",
       "market": "global",
@@ -2305,8 +2305,8 @@
     },
     {
       "symbol": "TIN",
-      "name_fa": null,
-      "name_en": null,
+      "name_fa": "قلع",
+      "name_en": "Tin",
       "category": "commodity",
       "market": "global",
       "currency": "USD",
@@ -3436,6 +3436,20 @@
       "has_latest": true,
       "latest_file": "latest.json",
       "history_file": "history/AZN_IRR_FREE.json"
+    },
+    {
+      "symbol": "BASE_GLOBAL_INDIUM",
+      "name_fa": "ایندیوم",
+      "name_en": "Indium",
+      "category": "currency",
+      "market": "iran_free",
+      "currency": "IRR",
+      "unit": "unit",
+      "unit_size": 1,
+      "status": "provisional",
+      "has_latest": true,
+      "latest_file": "latest.json",
+      "history_file": null
     },
     {
       "symbol": "BHD_IRR_FREE",
@@ -12972,20 +12986,6 @@
       "history_file": null
     },
     {
-      "symbol": "BASE_GLOBAL_INDIUM",
-      "name_fa": null,
-      "name_en": null,
-      "category": "other",
-      "market": "other",
-      "currency": "IRR",
-      "unit": "unit",
-      "unit_size": 1,
-      "status": "provisional",
-      "has_latest": true,
-      "latest_file": "latest.json",
-      "history_file": null
-    },
-    {
       "symbol": "BASE_GLOBAL_LITHIUM",
       "name_fa": "لیتیم",
       "name_en": "Lithium",
@@ -13015,8 +13015,8 @@
     },
     {
       "symbol": "BASE_GLOBAL_MOLYBDENUM",
-      "name_fa": null,
-      "name_en": null,
+      "name_fa": "مولیبدن",
+      "name_en": "Molybdenum",
       "category": "other",
       "market": "other",
       "currency": "IRR",
@@ -13029,8 +13029,8 @@
     },
     {
       "symbol": "BASE_GLOBAL_NEODYMIUM",
-      "name_fa": null,
-      "name_en": null,
+      "name_fa": "نئودیمیم",
+      "name_en": "Neodymium",
       "category": "other",
       "market": "other",
       "currency": "IRR",
