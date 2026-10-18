@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-18T00:30:01.646Z",
+    "published_at": "2026-10-18T01:00:01.367Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -885,11 +885,11 @@
       "category": "crypto",
       "file": "history/XMR_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/XMR_USD.json",
-      "records": 4531,
+      "records": 4532,
       "currency": "USD",
       "from": "2014-05-20T19:30:00.000Z",
-      "to": "2026-10-16T20:30:00.000Z",
-      "history_published_at": "2026-10-17T05:00:01.538Z"
+      "to": "2026-10-17T20:30:00.000Z",
+      "history_published_at": "2026-10-18T01:00:01.367Z"
     },
     {
       "symbol": "XLM_USD",
@@ -1526,7 +1526,7 @@
       "currency": "USD",
       "from": "2026-07-24T20:30:00.000Z",
       "to": "2026-10-15T20:30:00.000Z",
-      "history_published_at": "2026-10-17T05:00:01.538Z"
+      "history_published_at": "2026-10-18T01:00:01.367Z"
     },
     {
       "symbol": "BASE_GLOBAL_NICKEL",
@@ -1539,7 +1539,7 @@
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
       "to": "2026-10-16T20:30:00.000Z",
-      "history_published_at": "2026-10-17T05:00:01.538Z"
+      "history_published_at": "2026-10-18T01:00:01.367Z"
     },
     {
       "symbol": "BASE_GLOBAL_ZINC",
@@ -1552,7 +1552,7 @@
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
       "to": "2026-10-15T20:30:00.000Z",
-      "history_published_at": "2026-10-17T05:00:01.538Z"
+      "history_published_at": "2026-10-18T01:00:01.367Z"
     },
     {
       "symbol": "BASE_GLOBAL_LEAD",
