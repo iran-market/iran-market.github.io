@@ -1,21 +1,21 @@
 {
   "meta": {
-    "published_at": "2026-10-18T18:00:01.513Z",
+    "published_at": "2026-10-18T18:30:01.484Z",
     "update_frequency_minutes": 30,
     "source": "TGJU",
     "symbol_scope": "Iran Market canonical identifiers",
-    "total": 1409,
-    "with_latest_price": 1014,
+    "total": 1427,
+    "with_latest_price": 1032,
     "with_published_history": 128,
     "categories": {
       "coin": 77,
-      "commodity": 147,
+      "commodity": 155,
       "crypto": 70,
       "currency": 327,
       "energy": 136,
       "gold": 57,
       "index": 149,
-      "other": 440,
+      "other": 450,
       "precious_metal": 6
     },
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/symbols.json"
@@ -1464,6 +1464,20 @@
       "history_file": null
     },
     {
+      "symbol": "BASEMETAL_COBALT_HYDROXIDE",
+      "name_fa": null,
+      "name_en": null,
+      "category": "commodity",
+      "market": "global",
+      "currency": "USD",
+      "unit": "unit",
+      "unit_size": 1,
+      "status": "provisional",
+      "has_latest": true,
+      "latest_file": "latest.json",
+      "history_file": null
+    },
+    {
       "symbol": "BASEMETAL_COPPER",
       "name_fa": null,
       "name_en": null,
@@ -1492,7 +1506,35 @@
       "history_file": null
     },
     {
+      "symbol": "BASEMETAL_GERMANIUM",
+      "name_fa": null,
+      "name_en": null,
+      "category": "commodity",
+      "market": "global",
+      "currency": "USD",
+      "unit": "unit",
+      "unit_size": 1,
+      "status": "provisional",
+      "has_latest": true,
+      "latest_file": "latest.json",
+      "history_file": null
+    },
+    {
       "symbol": "BASEMETAL_INDIUM",
+      "name_fa": null,
+      "name_en": null,
+      "category": "commodity",
+      "market": "global",
+      "currency": "USD",
+      "unit": "unit",
+      "unit_size": 1,
+      "status": "provisional",
+      "has_latest": true,
+      "latest_file": "latest.json",
+      "history_file": null
+    },
+    {
+      "symbol": "BASEMETAL_IRON_ORE",
       "name_fa": null,
       "name_en": null,
       "category": "commodity",
@@ -1534,6 +1576,20 @@
       "history_file": null
     },
     {
+      "symbol": "BASEMETAL_MANGANESE",
+      "name_fa": null,
+      "name_en": null,
+      "category": "commodity",
+      "market": "global",
+      "currency": "USD",
+      "unit": "unit",
+      "unit_size": 1,
+      "status": "provisional",
+      "has_latest": true,
+      "latest_file": "latest.json",
+      "history_file": null
+    },
+    {
       "symbol": "BASEMETAL_MOLYBDENUM",
       "name_fa": null,
       "name_en": null,
@@ -1549,6 +1605,34 @@
     },
     {
       "symbol": "BASEMETAL_NEODYMIUM",
+      "name_fa": null,
+      "name_en": null,
+      "category": "commodity",
+      "market": "global",
+      "currency": "USD",
+      "unit": "unit",
+      "unit_size": 1,
+      "status": "provisional",
+      "has_latest": true,
+      "latest_file": "latest.json",
+      "history_file": null
+    },
+    {
+      "symbol": "BASEMETAL_STEEL",
+      "name_fa": null,
+      "name_en": null,
+      "category": "commodity",
+      "market": "global",
+      "currency": "USD",
+      "unit": "unit",
+      "unit_size": 1,
+      "status": "provisional",
+      "has_latest": true,
+      "latest_file": "latest.json",
+      "history_file": null
+    },
+    {
+      "symbol": "BASEMETAL_TITANIUM",
       "name_fa": null,
       "name_en": null,
       "category": "commodity",
@@ -3088,6 +3172,20 @@
       "history_file": null
     },
     {
+      "symbol": "LONDON_COPPER",
+      "name_fa": null,
+      "name_en": null,
+      "category": "commodity",
+      "market": "global",
+      "currency": "USD",
+      "unit": "unit",
+      "unit_size": 1,
+      "status": "provisional",
+      "has_latest": true,
+      "latest_file": "latest.json",
+      "history_file": null
+    },
+    {
       "symbol": "NICKEL",
       "name_fa": null,
       "name_en": null,
@@ -3105,6 +3203,20 @@
       "symbol": "RATIO_PLATINUM",
       "name_fa": "برابری طلا / پلاتین",
       "name_en": "XAU / Platinum",
+      "category": "commodity",
+      "market": "global",
+      "currency": "USD",
+      "unit": "unit",
+      "unit_size": 1,
+      "status": "provisional",
+      "has_latest": true,
+      "latest_file": "latest.json",
+      "history_file": null
+    },
+    {
+      "symbol": "STEEL",
+      "name_fa": null,
+      "name_en": null,
       "category": "commodity",
       "market": "global",
       "currency": "USD",
@@ -13602,6 +13714,20 @@
       "history_file": null
     },
     {
+      "symbol": "AMMONIUM",
+      "name_fa": null,
+      "name_en": null,
+      "category": "other",
+      "market": "other",
+      "currency": "IRR",
+      "unit": "unit",
+      "unit_size": 1,
+      "status": "provisional",
+      "has_latest": true,
+      "latest_file": "latest.json",
+      "history_file": null
+    },
+    {
       "symbol": "ARSHINEXCHANGE_AED_SELL",
       "name_fa": null,
       "name_en": null,
@@ -13924,6 +14050,20 @@
       "history_file": null
     },
     {
+      "symbol": "COBALT_HYDROXIDE",
+      "name_fa": null,
+      "name_en": null,
+      "category": "other",
+      "market": "other",
+      "currency": "IRR",
+      "unit": "unit",
+      "unit_size": 1,
+      "status": "provisional",
+      "has_latest": true,
+      "latest_file": "latest.json",
+      "history_file": null
+    },
+    {
       "symbol": "DASH_IRR",
       "name_fa": null,
       "name_en": null,
@@ -14176,6 +14316,20 @@
       "history_file": null
     },
     {
+      "symbol": "GALLIUM",
+      "name_fa": null,
+      "name_en": null,
+      "category": "other",
+      "market": "other",
+      "currency": "IRR",
+      "unit": "unit",
+      "unit_size": 1,
+      "status": "provisional",
+      "has_latest": true,
+      "latest_file": "latest.json",
+      "history_file": null
+    },
+    {
       "symbol": "GBP_USD_ASK",
       "name_fa": "GBP/USD",
       "name_en": null,
@@ -14373,6 +14527,20 @@
     },
     {
       "symbol": "GENERAL_9",
+      "name_fa": null,
+      "name_en": null,
+      "category": "other",
+      "market": "other",
+      "currency": "IRR",
+      "unit": "unit",
+      "unit_size": 1,
+      "status": "provisional",
+      "has_latest": true,
+      "latest_file": "latest.json",
+      "history_file": null
+    },
+    {
+      "symbol": "GERMANIUM",
       "name_fa": null,
       "name_en": null,
       "category": "other",
@@ -17354,7 +17522,35 @@
       "history_file": null
     },
     {
+      "symbol": "INDIUM",
+      "name_fa": null,
+      "name_en": null,
+      "category": "other",
+      "market": "other",
+      "currency": "IRR",
+      "unit": "unit",
+      "unit_size": 1,
+      "status": "provisional",
+      "has_latest": true,
+      "latest_file": "latest.json",
+      "history_file": null
+    },
+    {
       "symbol": "IREC_FUTURE",
+      "name_fa": null,
+      "name_en": null,
+      "category": "other",
+      "market": "other",
+      "currency": "IRR",
+      "unit": "unit",
+      "unit_size": 1,
+      "status": "provisional",
+      "has_latest": true,
+      "latest_file": "latest.json",
+      "history_file": null
+    },
+    {
+      "symbol": "IRON_ORE",
       "name_fa": null,
       "name_en": null,
       "category": "other",
@@ -17524,6 +17720,34 @@
     {
       "symbol": "KAJEX_USD_SELL",
       "name_fa": "صرافی کاج",
+      "name_en": null,
+      "category": "other",
+      "market": "other",
+      "currency": "IRR",
+      "unit": "unit",
+      "unit_size": 1,
+      "status": "provisional",
+      "has_latest": true,
+      "latest_file": "latest.json",
+      "history_file": null
+    },
+    {
+      "symbol": "LITHIUM",
+      "name_fa": null,
+      "name_en": null,
+      "category": "other",
+      "market": "other",
+      "currency": "IRR",
+      "unit": "unit",
+      "unit_size": 1,
+      "status": "provisional",
+      "has_latest": true,
+      "latest_file": "latest.json",
+      "history_file": null
+    },
+    {
+      "symbol": "MANGANESE",
+      "name_fa": null,
       "name_en": null,
       "category": "other",
       "market": "other",
@@ -18433,6 +18657,20 @@
     },
     {
       "symbol": "NASAAC",
+      "name_fa": null,
+      "name_en": null,
+      "category": "other",
+      "market": "other",
+      "currency": "IRR",
+      "unit": "unit",
+      "unit_size": 1,
+      "status": "provisional",
+      "has_latest": true,
+      "latest_file": "latest.json",
+      "history_file": null
+    },
+    {
+      "symbol": "NEODYMIUM",
       "name_fa": null,
       "name_en": null,
       "category": "other",
@@ -19455,6 +19693,20 @@
     },
     {
       "symbol": "TGJU_GOLD_IRG18_BUY",
+      "name_fa": null,
+      "name_en": null,
+      "category": "other",
+      "market": "other",
+      "currency": "IRR",
+      "unit": "unit",
+      "unit_size": 1,
+      "status": "provisional",
+      "has_latest": true,
+      "latest_file": "latest.json",
+      "history_file": null
+    },
+    {
+      "symbol": "TITANIUM",
       "name_fa": null,
       "name_en": null,
       "category": "other",
