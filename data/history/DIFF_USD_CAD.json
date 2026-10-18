@@ -54551,13 +54551,13 @@
     {
       "t": "2026-10-16T20:30:00.000Z",
       "t_tehran": "2026-10-17T00:00:00+03:30",
-      "open": 1.4135,
-      "high": 1.4135,
+      "open": 1.4139,
+      "high": 1.4139,
       "low": 1.4135,
       "close": 1.4135,
       "volume": null,
-      "ticks": 1,
-      "origin": "derived",
+      "ticks": 2,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/25"
     }
@@ -54569,7 +54569,7 @@
     "unit": "toman",
     "count": 4197,
     "next_cursor": null,
-    "published_at": "2026-10-17T09:30:01.401Z",
+    "published_at": "2026-10-18T05:30:01.442Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DIFF_USD_CAD.json",
     "currency": "POINTS"
