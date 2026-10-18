@@ -37280,8 +37280,8 @@
       "low": 171.6,
       "close": 171.6,
       "volume": null,
-      "ticks": 1,
-      "origin": "derived",
+      "ticks": 2,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/25"
     }
@@ -37293,7 +37293,7 @@
     "unit": "toman",
     "count": 2845,
     "next_cursor": null,
-    "published_at": "2026-10-17T14:00:01.579Z",
+    "published_at": "2026-10-18T10:00:01.571Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/IQD_IRR_FREE.json",
     "currency": "IRT"
