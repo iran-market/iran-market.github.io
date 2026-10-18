@@ -52137,13 +52137,13 @@
     {
       "t": "2026-10-16T20:30:00.000Z",
       "t_tehran": "2026-10-17T00:00:00+03:30",
-      "open": 343.9559,
+      "open": 343.9455,
       "high": 343.975,
       "low": 343.625,
       "close": 343.625,
       "volume": null,
-      "ticks": 3,
-      "origin": "derived",
+      "ticks": 4,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/25"
     }
@@ -52155,7 +52155,7 @@
     "unit": "toman",
     "count": 4011,
     "next_cursor": null,
-    "published_at": "2026-10-17T08:00:01.384Z",
+    "published_at": "2026-10-18T04:00:01.454Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_FEED_CATTLE.json",
     "currency": "USD"
