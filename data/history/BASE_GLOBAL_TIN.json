@@ -53260,13 +53260,26 @@
       "t_tehran": "2026-10-17T00:00:00+03:30",
       "open": 50127,
       "high": 50127,
-      "low": 50127,
+      "low": 50125,
       "close": 50127,
       "volume": null,
-      "ticks": 4,
-      "origin": "derived",
+      "ticks": 14,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/25"
+    },
+    {
+      "t": "2026-10-17T20:30:00.000Z",
+      "t_tehran": "2026-10-18T00:00:00+03:30",
+      "open": 50127,
+      "high": 50127,
+      "low": 50125,
+      "close": 50125,
+      "volume": null,
+      "ticks": 8,
+      "origin": "derived",
+      "quality": [],
+      "date_jalali": "1405/07/26"
     }
   ],
   "meta": {
@@ -53274,9 +53287,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 3952,
+    "count": 3953,
     "next_cursor": null,
-    "published_at": "2026-10-17T09:00:01.471Z",
+    "published_at": "2026-10-18T05:00:01.414Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BASE_GLOBAL_TIN.json",
     "currency": "USD"
