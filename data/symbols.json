@@ -1,15 +1,15 @@
 {
   "meta": {
-    "published_at": "2026-10-18T16:30:01.493Z",
+    "published_at": "2026-10-18T17:00:01.609Z",
     "update_frequency_minutes": 30,
     "source": "TGJU",
     "symbol_scope": "Iran Market canonical identifiers",
-    "total": 1351,
-    "with_latest_price": 956,
+    "total": 1356,
+    "with_latest_price": 961,
     "with_published_history": 128,
     "categories": {
       "coin": 77,
-      "commodity": 89,
+      "commodity": 94,
       "crypto": 70,
       "currency": 327,
       "energy": 136,
@@ -1520,6 +1520,34 @@
       "history_file": null
     },
     {
+      "symbol": "COMMODITIES_LONDON_SUGAR",
+      "name_fa": null,
+      "name_en": null,
+      "category": "commodity",
+      "market": "global",
+      "currency": "USD",
+      "unit": "unit",
+      "unit_size": 1,
+      "status": "provisional",
+      "has_latest": true,
+      "latest_file": "latest.json",
+      "history_file": null
+    },
+    {
+      "symbol": "COMMODITIES_LUMBER",
+      "name_fa": null,
+      "name_en": null,
+      "category": "commodity",
+      "market": "global",
+      "currency": "USD",
+      "unit": "unit",
+      "unit_size": 1,
+      "status": "provisional",
+      "has_latest": true,
+      "latest_file": "latest.json",
+      "history_file": null
+    },
+    {
       "symbol": "COMMODITIES_SOYBEAN_OIL_P",
       "name_fa": "روغن سویا p (بازار آمریکا)",
       "name_en": null,
@@ -1534,6 +1562,34 @@
       "history_file": null
     },
     {
+      "symbol": "COMMODITIES_US_COCOA",
+      "name_fa": null,
+      "name_en": null,
+      "category": "commodity",
+      "market": "global",
+      "currency": "USD",
+      "unit": "unit",
+      "unit_size": 1,
+      "status": "provisional",
+      "has_latest": true,
+      "latest_file": "latest.json",
+      "history_file": null
+    },
+    {
+      "symbol": "COMMODITIES_US_COFFEE",
+      "name_fa": null,
+      "name_en": null,
+      "category": "commodity",
+      "market": "global",
+      "currency": "USD",
+      "unit": "unit",
+      "unit_size": 1,
+      "status": "provisional",
+      "has_latest": true,
+      "latest_file": "latest.json",
+      "history_file": null
+    },
+    {
       "symbol": "COMMODITIES_US_SOYBEAN_OIL_CONTRACTS",
       "name_fa": "روغن سویا (بازار آمریکا)",
       "name_en": null,
@@ -1545,6 +1601,20 @@
       "status": "provisional",
       "has_latest": false,
       "latest_file": null,
+      "history_file": null
+    },
+    {
+      "symbol": "COMMODITIES_US_SUGAR",
+      "name_fa": null,
+      "name_en": null,
+      "category": "commodity",
+      "market": "global",
+      "currency": "USD",
+      "unit": "unit",
+      "unit_size": 1,
+      "status": "provisional",
+      "has_latest": true,
+      "latest_file": "latest.json",
       "history_file": null
     },
     {
