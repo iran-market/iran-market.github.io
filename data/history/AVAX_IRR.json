@@ -25866,11 +25866,11 @@
       "t": "2026-10-18T20:30:00.000Z",
       "t_tehran": "2026-10-19T00:00:00+03:30",
       "open": 2441400,
-      "high": 2519400,
+      "high": 2550600,
       "low": 2441400,
-      "close": 2519400,
+      "close": 2485600,
       "volume": null,
-      "ticks": 3,
+      "ticks": 23,
       "origin": "derived",
       "quality": [],
       "date_jalali": "1405/07/27"
@@ -25883,7 +25883,7 @@
     "unit": "toman",
     "count": 1989,
     "next_cursor": null,
-    "published_at": "2026-10-19T00:00:01.467Z",
+    "published_at": "2026-10-19T20:00:01.492Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/AVAX_IRR.json",
     "currency": "IRT"
