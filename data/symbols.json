@@ -1,15 +1,15 @@
 {
   "meta": {
-    "published_at": "2026-10-19T09:00:01.418Z",
+    "published_at": "2026-10-19T09:30:01.498Z",
     "update_frequency_minutes": 30,
     "source": "TGJU",
     "symbol_scope": "Iran Market canonical identifiers",
-    "total": 1427,
-    "with_latest_price": 1032,
+    "total": 1433,
+    "with_latest_price": 1038,
     "with_published_history": 128,
     "categories": {
       "coin": 77,
-      "commodity": 155,
+      "commodity": 161,
       "crypto": 70,
       "currency": 327,
       "energy": 136,
@@ -1450,6 +1450,20 @@
       "history_file": null
     },
     {
+      "symbol": "BASEMETAL_ALUMINUM",
+      "name_fa": null,
+      "name_en": null,
+      "category": "commodity",
+      "market": "global",
+      "currency": "USD",
+      "unit": "unit",
+      "unit_size": 1,
+      "status": "provisional",
+      "has_latest": true,
+      "latest_file": "latest.json",
+      "history_file": null
+    },
+    {
       "symbol": "BASEMETAL_AMMONIUM",
       "name_fa": null,
       "name_en": null,
@@ -1548,6 +1562,20 @@
       "history_file": null
     },
     {
+      "symbol": "BASEMETAL_LEAD",
+      "name_fa": null,
+      "name_en": null,
+      "category": "commodity",
+      "market": "global",
+      "currency": "USD",
+      "unit": "unit",
+      "unit_size": 1,
+      "status": "provisional",
+      "has_latest": true,
+      "latest_file": "latest.json",
+      "history_file": null
+    },
+    {
       "symbol": "BASEMETAL_LITHIUM",
       "name_fa": null,
       "name_en": null,
@@ -1618,6 +1646,20 @@
       "history_file": null
     },
     {
+      "symbol": "BASEMETAL_NICKEL",
+      "name_fa": null,
+      "name_en": null,
+      "category": "commodity",
+      "market": "global",
+      "currency": "USD",
+      "unit": "unit",
+      "unit_size": 1,
+      "status": "provisional",
+      "has_latest": true,
+      "latest_file": "latest.json",
+      "history_file": null
+    },
+    {
       "symbol": "BASEMETAL_STEEL",
       "name_fa": null,
       "name_en": null,
@@ -1632,7 +1674,35 @@
       "history_file": null
     },
     {
+      "symbol": "BASEMETAL_TIN",
+      "name_fa": null,
+      "name_en": null,
+      "category": "commodity",
+      "market": "global",
+      "currency": "USD",
+      "unit": "unit",
+      "unit_size": 1,
+      "status": "provisional",
+      "has_latest": true,
+      "latest_file": "latest.json",
+      "history_file": null
+    },
+    {
       "symbol": "BASEMETAL_TITANIUM",
+      "name_fa": null,
+      "name_en": null,
+      "category": "commodity",
+      "market": "global",
+      "currency": "USD",
+      "unit": "unit",
+      "unit_size": 1,
+      "status": "provisional",
+      "has_latest": true,
+      "latest_file": "latest.json",
+      "history_file": null
+    },
+    {
+      "symbol": "BASEMETAL_ZINC",
       "name_fa": null,
       "name_en": null,
       "category": "commodity",
@@ -2361,6 +2431,20 @@
     },
     {
       "symbol": "COMMODITIES_US_COFFEE",
+      "name_fa": null,
+      "name_en": null,
+      "category": "commodity",
+      "market": "global",
+      "currency": "USD",
+      "unit": "unit",
+      "unit_size": 1,
+      "status": "provisional",
+      "has_latest": true,
+      "latest_file": "latest.json",
+      "history_file": null
+    },
+    {
+      "symbol": "COMMODITIES_US_COTTON",
       "name_fa": null,
       "name_en": null,
       "category": "commodity",
