@@ -53274,9 +53274,9 @@
       "open": 50127,
       "high": 50127,
       "low": 50125,
-      "close": 50125,
+      "close": 50127,
       "volume": null,
-      "ticks": 8,
+      "ticks": 13,
       "origin": "derived",
       "quality": [],
       "date_jalali": "1405/07/26"
@@ -53289,7 +53289,7 @@
     "unit": "toman",
     "count": 3953,
     "next_cursor": null,
-    "published_at": "2026-10-18T05:00:01.414Z",
+    "published_at": "2026-10-19T01:30:01.479Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BASE_GLOBAL_TIN.json",
     "currency": "USD"

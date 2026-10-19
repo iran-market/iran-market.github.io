@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-19T01:00:01.585Z",
+    "published_at": "2026-10-19T01:30:01.479Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -1578,7 +1578,7 @@
       "currency": "USD",
       "from": "2011-01-03T20:30:00.000Z",
       "to": "2026-10-17T20:30:00.000Z",
-      "history_published_at": "2026-10-18T05:00:01.414Z"
+      "history_published_at": "2026-10-19T01:30:01.479Z"
     },
     {
       "symbol": "BASE_US_STEEL_COIL",
@@ -1591,7 +1591,7 @@
       "currency": "USD",
       "from": "2013-08-17T19:30:00.000Z",
       "to": "2026-10-16T20:30:00.000Z",
-      "history_published_at": "2026-10-18T05:00:01.414Z"
+      "history_published_at": "2026-10-19T01:30:01.479Z"
     },
     {
       "symbol": "DIFF_EUR_USD",
@@ -1600,11 +1600,11 @@
       "category": "index",
       "file": "history/DIFF_EUR_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DIFF_EUR_USD.json",
-      "records": 5119,
+      "records": 5120,
       "currency": "POINTS",
       "from": "2010-12-31T20:30:00.000Z",
-      "to": "2026-10-16T20:30:00.000Z",
-      "history_published_at": "2026-10-18T05:00:01.414Z"
+      "to": "2026-10-18T20:30:00.000Z",
+      "history_published_at": "2026-10-19T01:30:01.479Z"
     },
     {
       "symbol": "DIFF_GBP_USD",
@@ -1613,11 +1613,11 @@
       "category": "index",
       "file": "history/DIFF_GBP_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DIFF_GBP_USD.json",
-      "records": 5058,
+      "records": 5059,
       "currency": "POINTS",
       "from": "2010-12-31T20:30:00.000Z",
-      "to": "2026-10-16T20:30:00.000Z",
-      "history_published_at": "2026-10-18T05:00:01.414Z"
+      "to": "2026-10-18T20:30:00.000Z",
+      "history_published_at": "2026-10-19T01:30:01.479Z"
     },
     {
       "symbol": "DIFF_USD_JPY",
