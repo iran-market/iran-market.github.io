@@ -58682,6 +58682,19 @@
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/25"
+    },
+    {
+      "t": "2026-10-18T20:30:00.000Z",
+      "t_tehran": "2026-10-19T00:00:00+03:30",
+      "open": 108.806,
+      "high": 108.806,
+      "low": 107.155,
+      "close": 108.176,
+      "volume": null,
+      "ticks": 17,
+      "origin": "derived",
+      "quality": [],
+      "date_jalali": "1405/07/27"
     }
   ],
   "meta": {
@@ -58689,9 +58702,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 4510,
+    "count": 4511,
     "next_cursor": null,
-    "published_at": "2026-10-18T18:00:01.513Z",
+    "published_at": "2026-10-19T14:30:01.398Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BRENT_USD.json",
     "currency": "USD"
