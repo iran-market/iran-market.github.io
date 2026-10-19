@@ -1,15 +1,15 @@
 {
   "meta": {
-    "published_at": "2026-10-19T10:00:01.465Z",
+    "published_at": "2026-10-19T10:30:01.586Z",
     "update_frequency_minutes": 30,
     "source": "TGJU",
     "symbol_scope": "Iran Market canonical identifiers",
-    "total": 1433,
-    "with_latest_price": 1038,
+    "total": 1437,
+    "with_latest_price": 1042,
     "with_published_history": 128,
     "categories": {
       "coin": 77,
-      "commodity": 161,
+      "commodity": 165,
       "crypto": 70,
       "currency": 327,
       "energy": 136,
@@ -2444,6 +2444,20 @@
       "history_file": null
     },
     {
+      "symbol": "COMMODITIES_US_CORN",
+      "name_fa": null,
+      "name_en": null,
+      "category": "commodity",
+      "market": "global",
+      "currency": "USD",
+      "unit": "unit",
+      "unit_size": 1,
+      "status": "provisional",
+      "has_latest": true,
+      "latest_file": "latest.json",
+      "history_file": null
+    },
+    {
       "symbol": "COMMODITIES_US_COTTON",
       "name_fa": null,
       "name_en": null,
@@ -2472,6 +2486,34 @@
       "history_file": null
     },
     {
+      "symbol": "COMMODITIES_US_SOYBEAN_MEAL",
+      "name_fa": null,
+      "name_en": null,
+      "category": "commodity",
+      "market": "global",
+      "currency": "USD",
+      "unit": "unit",
+      "unit_size": 1,
+      "status": "provisional",
+      "has_latest": true,
+      "latest_file": "latest.json",
+      "history_file": null
+    },
+    {
+      "symbol": "COMMODITIES_US_SOYBEAN_OIL",
+      "name_fa": null,
+      "name_en": null,
+      "category": "commodity",
+      "market": "global",
+      "currency": "USD",
+      "unit": "unit",
+      "unit_size": 1,
+      "status": "provisional",
+      "has_latest": true,
+      "latest_file": "latest.json",
+      "history_file": null
+    },
+    {
       "symbol": "COMMODITIES_US_SOYBEAN_OIL_CONTRACTS",
       "name_fa": "روغن سویا (بازار آمریکا)",
       "name_en": null,
@@ -2483,6 +2525,20 @@
       "status": "provisional",
       "has_latest": false,
       "latest_file": null,
+      "history_file": null
+    },
+    {
+      "symbol": "COMMODITIES_US_SOYBEANS",
+      "name_fa": null,
+      "name_en": null,
+      "category": "commodity",
+      "market": "global",
+      "currency": "USD",
+      "unit": "unit",
+      "unit_size": 1,
+      "status": "provisional",
+      "has_latest": true,
+      "latest_file": "latest.json",
       "history_file": null
     },
     {
