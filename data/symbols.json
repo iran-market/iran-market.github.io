@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-20T03:00:01.477Z",
+    "published_at": "2026-10-20T03:30:01.525Z",
     "update_frequency_minutes": 30,
     "source": "TGJU",
     "symbol_scope": "Iran Market canonical identifiers",
@@ -1591,8 +1591,8 @@
     },
     {
       "symbol": "BASEMETAL_LONDON_COPPER",
-      "name_fa": null,
-      "name_en": null,
+      "name_fa": "مس",
+      "name_en": "Copper",
       "category": "commodity",
       "market": "global",
       "currency": "USD",
@@ -1955,8 +1955,8 @@
     },
     {
       "symbol": "COMMODITIES_LONDON_COCOA",
-      "name_fa": null,
-      "name_en": null,
+      "name_fa": "کاکائو",
+      "name_en": "London Cocoa",
       "category": "commodity",
       "market": "global",
       "currency": "USD",
@@ -1969,8 +1969,8 @@
     },
     {
       "symbol": "COMMODITIES_LONDON_COFFEE",
-      "name_fa": null,
-      "name_en": null,
+      "name_fa": "قهوه",
+      "name_en": "London Coffee",
       "category": "commodity",
       "market": "global",
       "currency": "USD",
@@ -2417,8 +2417,8 @@
     },
     {
       "symbol": "COMMODITIES_US_COCOA",
-      "name_fa": null,
-      "name_en": null,
+      "name_fa": "کاکائو",
+      "name_en": "Cocoa",
       "category": "commodity",
       "market": "global",
       "currency": "USD",
@@ -2431,8 +2431,8 @@
     },
     {
       "symbol": "COMMODITIES_US_COFFEE",
-      "name_fa": null,
-      "name_en": null,
+      "name_fa": "قهوه",
+      "name_en": "Coffee",
       "category": "commodity",
       "market": "global",
       "currency": "USD",
