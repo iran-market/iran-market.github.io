@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-20T04:30:01.388Z",
+  "generated_at": "2026-10-20T05:00:01.570Z",
   "update_frequency_minutes": 30,
   "source": "TGJU",
   "license_note": "Market data belongs to its original providers; verify before financial use.",
@@ -247,21 +247,21 @@
       "path": "history/XAU_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/XAU_USD.json",
       "description": "Daily OHLC history for XAU_USD",
-      "records": 4142,
+      "records": 4143,
       "unit": "USD"
     },
     {
       "path": "history/SILVER.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/SILVER.json",
       "description": "Daily OHLC history for SILVER",
-      "records": 4147,
+      "records": 4148,
       "unit": "USD"
     },
     {
       "path": "history/SILVER_999_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/SILVER_999_IRR.json",
       "description": "Daily OHLC history for SILVER_999_IRR",
-      "records": 1695,
+      "records": 1696,
       "unit": "IRT"
     },
     {
