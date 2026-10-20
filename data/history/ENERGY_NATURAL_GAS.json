@@ -53933,15 +53933,28 @@
     {
       "t": "2026-10-18T20:30:00.000Z",
       "t_tehran": "2026-10-19T00:00:00+03:30",
-      "open": 3.116,
-      "high": 3.1604,
-      "low": 3.0542,
-      "close": 3.0855,
+      "open": 3.0712,
+      "high": 3.178,
+      "low": 3.0344,
+      "close": 3.0364,
       "volume": null,
-      "ticks": 17,
-      "origin": "derived",
+      "ticks": 23,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/27"
+    },
+    {
+      "t": "2026-10-19T20:30:00.000Z",
+      "t_tehran": "2026-10-20T00:00:00+03:30",
+      "open": 3.0365,
+      "high": 3.0375,
+      "low": 2.9932,
+      "close": 2.9958,
+      "volume": null,
+      "ticks": 14,
+      "origin": "derived",
+      "quality": [],
+      "date_jalali": "1405/07/28"
     }
   ],
   "meta": {
@@ -53949,9 +53962,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 4149,
+    "count": 4150,
     "next_cursor": null,
-    "published_at": "2026-10-19T15:00:01.551Z",
+    "published_at": "2026-10-20T11:00:01.412Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/ENERGY_NATURAL_GAS.json",
     "currency": "USD"
