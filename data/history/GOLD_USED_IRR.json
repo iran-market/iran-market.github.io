@@ -28821,13 +28821,13 @@
     {
       "t": "2026-10-18T20:30:00.000Z",
       "t_tehran": "2026-10-19T00:00:00+03:30",
-      "open": 25824424,
-      "high": 25824424,
-      "low": 25824424,
-      "close": 25824424,
+      "open": 25589591,
+      "high": 25933072,
+      "low": 25589591,
+      "close": 25828752,
       "volume": null,
-      "ticks": 1,
-      "origin": "derived",
+      "ticks": 10,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/27"
     }
@@ -28839,7 +28839,7 @@
     "unit": "toman",
     "count": 2213,
     "next_cursor": null,
-    "published_at": "2026-10-19T08:30:01.458Z",
+    "published_at": "2026-10-20T04:30:01.388Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/GOLD_USED_IRR.json",
     "currency": "IRT"
