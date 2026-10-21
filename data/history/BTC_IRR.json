@@ -8,7 +8,7 @@
       "low": 1600,
       "close": 1600,
       "volume": null,
-      "ticks": 106635,
+      "ticks": 111380,
       "origin": "derived",
       "quality": [
         "spike",
@@ -26425,32 +26425,43 @@
     {
       "t": "2026-10-18T20:30:00.000Z",
       "t_tehran": "2026-10-19T00:00:00+03:30",
-      "open": 21068091200,
-      "high": 21617160600,
-      "low": 21068091200,
-      "close": 21311614100,
+      "open": 21041872800,
+      "high": 21676078100,
+      "low": 21017625200,
+      "close": 21317672700,
       "volume": null,
       "ticks": 5734,
-      "origin": "derived",
-      "quality": [
-        "spike"
-      ],
+      "origin": "source",
+      "quality": [],
       "date_jalali": "1405/07/27"
     },
     {
       "t": "2026-10-19T20:30:00.000Z",
       "t_tehran": "2026-10-20T00:00:00+03:30",
-      "open": 21353241300,
-      "high": 21748667900,
+      "open": 21313836400,
+      "high": 21841463600,
       "low": 21110020200,
-      "close": 21748667900,
+      "close": 21482143800,
       "volume": null,
-      "ticks": 4228,
+      "ticks": 5693,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/07/28"
+    },
+    {
+      "t": "2026-10-20T20:30:00.000Z",
+      "t_tehran": "2026-10-21T00:00:00+03:30",
+      "open": 21559020600,
+      "high": 22091714000,
+      "low": 21499123900,
+      "close": 22037188200,
+      "volume": null,
+      "ticks": 3210,
       "origin": "derived",
       "quality": [
         "spike"
       ],
-      "date_jalali": "1405/07/28"
+      "date_jalali": "1405/07/29"
     }
   ],
   "meta": {
@@ -26458,9 +26469,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 2031,
+    "count": 2032,
     "next_cursor": null,
-    "published_at": "2026-10-20T15:00:01.593Z",
+    "published_at": "2026-10-21T11:00:01.530Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BTC_IRR.json",
     "currency": "IRT"
