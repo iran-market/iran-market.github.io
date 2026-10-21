@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-21T00:00:01.490Z",
+    "published_at": "2026-10-21T00:30:01.460Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -326,11 +326,11 @@
       "category": "currency",
       "file": "history/NOK_IRR_FREE.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/NOK_IRR_FREE.json",
-      "records": 3193,
+      "records": 3194,
       "currency": "IRT",
       "from": "2014-07-20T19:30:00.000Z",
-      "to": "2026-10-18T20:30:00.000Z",
-      "history_published_at": "2026-10-20T04:30:01.388Z"
+      "to": "2026-10-19T20:30:00.000Z",
+      "history_published_at": "2026-10-21T00:30:01.460Z"
     },
     {
       "symbol": "GOLD_18K_IRR",
@@ -339,11 +339,11 @@
       "category": "gold",
       "file": "history/GOLD_18K_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/GOLD_18K_IRR.json",
-      "records": 3533,
+      "records": 3534,
       "currency": "IRT",
       "from": "2013-07-21T19:30:00.000Z",
-      "to": "2026-10-18T20:30:00.000Z",
-      "history_published_at": "2026-10-20T04:30:01.388Z"
+      "to": "2026-10-19T20:30:00.000Z",
+      "history_published_at": "2026-10-21T00:30:01.460Z"
     },
     {
       "symbol": "GOLD_24K_IRR",
@@ -352,11 +352,11 @@
       "category": "gold",
       "file": "history/GOLD_24K_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/GOLD_24K_IRR.json",
-      "records": 3392,
+      "records": 3393,
       "currency": "IRT",
       "from": "2014-05-01T19:30:00.000Z",
-      "to": "2026-10-18T20:30:00.000Z",
-      "history_published_at": "2026-10-20T04:30:01.388Z"
+      "to": "2026-10-19T20:30:00.000Z",
+      "history_published_at": "2026-10-21T00:30:01.460Z"
     },
     {
       "symbol": "GOLD_USED_IRR",
@@ -365,11 +365,11 @@
       "category": "gold",
       "file": "history/GOLD_USED_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/GOLD_USED_IRR.json",
-      "records": 2213,
+      "records": 2214,
       "currency": "IRT",
       "from": "2018-03-16T20:30:00.000Z",
-      "to": "2026-10-18T20:30:00.000Z",
-      "history_published_at": "2026-10-20T04:30:01.388Z"
+      "to": "2026-10-19T20:30:00.000Z",
+      "history_published_at": "2026-10-21T00:30:01.460Z"
     },
     {
       "symbol": "GOLD_MESGHAL_IRR",
