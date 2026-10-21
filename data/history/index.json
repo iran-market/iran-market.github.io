@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-21T02:00:01.439Z",
+    "published_at": "2026-10-21T02:30:01.451Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -482,11 +482,11 @@
       "category": "coin",
       "file": "history/COIN_HALF_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_HALF_IRR.json",
-      "records": 3456,
+      "records": 3457,
       "currency": "IRT",
       "from": "2013-07-21T19:30:00.000Z",
-      "to": "2026-10-18T20:30:00.000Z",
-      "history_published_at": "2026-10-20T06:30:01.381Z"
+      "to": "2026-10-19T20:30:00.000Z",
+      "history_published_at": "2026-10-21T02:30:01.451Z"
     },
     {
       "symbol": "COIN_QUARTER_IRR",
@@ -495,11 +495,11 @@
       "category": "coin",
       "file": "history/COIN_QUARTER_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_QUARTER_IRR.json",
-      "records": 3441,
+      "records": 3442,
       "currency": "IRT",
       "from": "2013-07-21T19:30:00.000Z",
-      "to": "2026-10-18T20:30:00.000Z",
-      "history_published_at": "2026-10-20T06:30:01.381Z"
+      "to": "2026-10-19T20:30:00.000Z",
+      "history_published_at": "2026-10-21T02:30:01.451Z"
     },
     {
       "symbol": "COIN_GRAMI_IRR",
@@ -512,7 +512,7 @@
       "currency": "IRT",
       "from": "2013-07-21T19:30:00.000Z",
       "to": "2026-10-18T20:30:00.000Z",
-      "history_published_at": "2026-10-20T06:30:01.381Z"
+      "history_published_at": "2026-10-21T02:30:01.451Z"
     },
     {
       "symbol": "COIN_EMAMI_RETAIL_IRR",
@@ -521,11 +521,11 @@
       "category": "coin",
       "file": "history/COIN_EMAMI_RETAIL_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_EMAMI_RETAIL_IRR.json",
-      "records": 2391,
+      "records": 2392,
       "currency": "IRT",
       "from": "2017-07-04T19:30:00.000Z",
-      "to": "2026-10-18T20:30:00.000Z",
-      "history_published_at": "2026-10-20T06:30:01.381Z"
+      "to": "2026-10-19T20:30:00.000Z",
+      "history_published_at": "2026-10-21T02:30:01.451Z"
     },
     {
       "symbol": "COIN_BAHAR_RETAIL_IRR",
