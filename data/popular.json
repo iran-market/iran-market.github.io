@@ -23,7 +23,7 @@
       "timestamp": "2026-10-21T08:45:46.000Z",
       "timestamp_tehran": "2026-10-21T12:15:46+03:30",
       "timestamp_jalali": "1405/07/29 12:15:46",
-      "checked_at": "2026-10-21T08:59:59.593Z",
+      "checked_at": "2026-10-21T09:29:53.178Z",
       "source": "tgju",
       "stale": false,
       "quality": []
@@ -51,7 +51,7 @@
       "timestamp": "2026-10-21T08:45:48.000Z",
       "timestamp_tehran": "2026-10-21T12:15:48+03:30",
       "timestamp_jalali": "1405/07/29 12:15:48",
-      "checked_at": "2026-10-21T08:59:59.593Z",
+      "checked_at": "2026-10-21T09:29:53.178Z",
       "source": "tgju",
       "stale": false,
       "quality": []
@@ -79,7 +79,7 @@
       "timestamp": "2026-10-21T08:45:40.000Z",
       "timestamp_tehran": "2026-10-21T12:15:40+03:30",
       "timestamp_jalali": "1405/07/29 12:15:40",
-      "checked_at": "2026-10-21T08:59:59.593Z",
+      "checked_at": "2026-10-21T09:29:53.178Z",
       "source": "tgju",
       "stale": false,
       "quality": []
@@ -107,7 +107,7 @@
       "timestamp": "2026-10-21T08:45:48.000Z",
       "timestamp_tehran": "2026-10-21T12:15:48+03:30",
       "timestamp_jalali": "1405/07/29 12:15:48",
-      "checked_at": "2026-10-21T08:59:59.593Z",
+      "checked_at": "2026-10-21T09:29:53.178Z",
       "source": "tgju",
       "stale": false,
       "quality": []
@@ -135,7 +135,7 @@
       "timestamp": "2026-10-21T08:45:48.000Z",
       "timestamp_tehran": "2026-10-21T12:15:48+03:30",
       "timestamp_jalali": "1405/07/29 12:15:48",
-      "checked_at": "2026-10-21T08:59:59.593Z",
+      "checked_at": "2026-10-21T09:29:53.178Z",
       "source": "tgju",
       "stale": false,
       "quality": []
@@ -163,7 +163,7 @@
       "timestamp": "2026-10-21T08:45:45.000Z",
       "timestamp_tehran": "2026-10-21T12:15:45+03:30",
       "timestamp_jalali": "1405/07/29 12:15:45",
-      "checked_at": "2026-10-21T08:59:59.593Z",
+      "checked_at": "2026-10-21T09:29:53.178Z",
       "source": "tgju",
       "stale": false,
       "quality": [
@@ -179,7 +179,7 @@
     "sources": [
       "tgju"
     ],
-    "published_at": "2026-10-21T09:00:01.547Z",
+    "published_at": "2026-10-21T09:30:01.651Z",
     "update_frequency_minutes": 30,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/popular.json",
     "source": "TGJU"

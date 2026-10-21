@@ -58932,15 +58932,28 @@
     {
       "t": "2026-10-19T20:30:00.000Z",
       "t_tehran": "2026-10-20T00:00:00+03:30",
-      "open": 596.29,
-      "high": 614.55,
-      "low": 596.29,
-      "close": 608.06,
+      "open": 595.61,
+      "high": 625.17,
+      "low": 595.61,
+      "close": 621.8,
       "volume": null,
-      "ticks": 19,
-      "origin": "derived",
+      "ticks": 26,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/28"
+    },
+    {
+      "t": "2026-10-20T20:30:00.000Z",
+      "t_tehran": "2026-10-21T00:00:00+03:30",
+      "open": 617.66,
+      "high": 621.24,
+      "low": 578.24,
+      "close": 585.14,
+      "volume": null,
+      "ticks": 14,
+      "origin": "derived",
+      "quality": [],
+      "date_jalali": "1405/07/29"
     }
   ],
   "meta": {
@@ -58948,9 +58961,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 4534,
+    "count": 4535,
     "next_cursor": null,
-    "published_at": "2026-10-20T13:30:01.463Z",
+    "published_at": "2026-10-21T09:30:01.651Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/XMR_USD.json",
     "currency": "USD"
