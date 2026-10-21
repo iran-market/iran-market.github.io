@@ -57905,15 +57905,28 @@
     {
       "t": "2026-10-19T20:30:00.000Z",
       "t_tehran": "2026-10-20T00:00:00+03:30",
-      "open": 1118.5,
-      "high": 1119.5,
-      "low": 1110,
-      "close": 1115,
+      "open": 1119,
+      "high": 1123,
+      "low": 1094.5,
+      "close": 1102.5,
       "volume": null,
-      "ticks": 9,
-      "origin": "derived",
+      "ticks": 26,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/28"
+    },
+    {
+      "t": "2026-10-20T20:30:00.000Z",
+      "t_tehran": "2026-10-21T00:00:00+03:30",
+      "open": 1104,
+      "high": 1105.5,
+      "low": 1098,
+      "close": 1098,
+      "volume": null,
+      "ticks": 5,
+      "origin": "derived",
+      "quality": [],
+      "date_jalali": "1405/07/29"
     }
   ],
   "meta": {
@@ -57921,9 +57934,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 4381,
+    "count": 4382,
     "next_cursor": null,
-    "published_at": "2026-10-20T05:30:01.433Z",
+    "published_at": "2026-10-21T01:30:01.479Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/PALLADIUM.json",
     "currency": "USD"
