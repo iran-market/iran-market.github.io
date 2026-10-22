@@ -26550,6 +26550,22 @@
         "ohlc_repaired"
       ],
       "date_jalali": "1405/07/29"
+    },
+    {
+      "t": "2026-10-21T20:30:00.000Z",
+      "t_tehran": "2026-10-22T00:00:00+03:30",
+      "open": 12487000,
+      "high": 12950000,
+      "low": 11427000,
+      "close": 12247000,
+      "volume": null,
+      "ticks": 7,
+      "origin": "derived",
+      "quality": [
+        "spike",
+        "ohlc_inconsistent"
+      ],
+      "date_jalali": "1405/07/30"
     }
   ],
   "meta": {
@@ -26557,9 +26573,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 2013,
+    "count": 2014,
     "next_cursor": null,
-    "published_at": "2026-10-22T00:00:01.684Z",
+    "published_at": "2026-10-22T20:00:01.389Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_EMAMI_BUBBLE_IRR.json",
     "currency": "IRT"

@@ -25950,6 +25950,19 @@
         "ohlc_repaired"
       ],
       "date_jalali": "1405/07/29"
+    },
+    {
+      "t": "2026-10-21T20:30:00.000Z",
+      "t_tehran": "2026-10-22T00:00:00+03:30",
+      "open": 11675000,
+      "high": 11675000,
+      "low": 10936000,
+      "close": 11113000,
+      "volume": null,
+      "ticks": 7,
+      "origin": "derived",
+      "quality": [],
+      "date_jalali": "1405/07/30"
     }
   ],
   "meta": {
@@ -25957,9 +25970,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 1983,
+    "count": 1984,
     "next_cursor": null,
-    "published_at": "2026-10-22T00:00:01.684Z",
+    "published_at": "2026-10-22T20:00:01.389Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_QUARTER_BUBBLE_IRR.json",
     "currency": "IRT"

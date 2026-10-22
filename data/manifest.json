@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-22T19:30:01.542Z",
+  "generated_at": "2026-10-22T20:00:01.389Z",
   "update_frequency_minutes": 30,
   "source": "TGJU",
   "license_note": "Market data belongs to its original providers; verify before financial use.",
@@ -352,28 +352,28 @@
       "path": "history/COIN_EMAMI_BUBBLE_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_EMAMI_BUBBLE_IRR.json",
       "description": "Daily OHLC history for COIN_EMAMI_BUBBLE_IRR",
-      "records": 2013,
+      "records": 2014,
       "unit": "IRT"
     },
     {
       "path": "history/COIN_BAHAR_BUBBLE_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_BAHAR_BUBBLE_IRR.json",
       "description": "Daily OHLC history for COIN_BAHAR_BUBBLE_IRR",
-      "records": 1984,
+      "records": 1985,
       "unit": "IRT"
     },
     {
       "path": "history/COIN_HALF_BUBBLE_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_HALF_BUBBLE_IRR.json",
       "description": "Daily OHLC history for COIN_HALF_BUBBLE_IRR",
-      "records": 1982,
+      "records": 1983,
       "unit": "IRT"
     },
     {
       "path": "history/COIN_QUARTER_BUBBLE_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_QUARTER_BUBBLE_IRR.json",
       "description": "Daily OHLC history for COIN_QUARTER_BUBBLE_IRR",
-      "records": 1983,
+      "records": 1984,
       "unit": "IRT"
     },
     {
