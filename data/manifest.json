@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-22T07:30:01.456Z",
+  "generated_at": "2026-10-22T08:00:01.580Z",
   "update_frequency_minutes": 30,
   "source": "TGJU",
   "license_note": "Market data belongs to its original providers; verify before financial use.",
@@ -604,28 +604,28 @@
       "path": "history/DOGE_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DOGE_IRR.json",
       "description": "Daily OHLC history for DOGE_IRR",
-      "records": 2030,
+      "records": 2031,
       "unit": "IRT"
     },
     {
       "path": "history/ADA_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/ADA_IRR.json",
       "description": "Daily OHLC history for ADA_IRR",
-      "records": 2033,
+      "records": 2034,
       "unit": "IRT"
     },
     {
       "path": "history/TRX_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/TRX_IRR.json",
       "description": "Daily OHLC history for TRX_IRR",
-      "records": 2043,
+      "records": 2044,
       "unit": "IRT"
     },
     {
       "path": "history/SOL_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/SOL_IRR.json",
       "description": "Daily OHLC history for SOL_IRR",
-      "records": 1735,
+      "records": 1736,
       "unit": "IRT"
     },
     {
