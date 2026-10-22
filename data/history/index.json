@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-22T22:30:01.513Z",
+    "published_at": "2026-10-22T23:00:01.470Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -1175,7 +1175,7 @@
       "currency": "USD",
       "from": "2011-01-01T20:30:00.000Z",
       "to": "2026-07-19T20:30:00.000Z",
-      "history_published_at": "2026-10-22T03:00:01.394Z"
+      "history_published_at": "2026-10-22T23:00:01.470Z"
     },
     {
       "symbol": "ENERGY_NATURAL_GAS",
@@ -1184,11 +1184,11 @@
       "category": "energy",
       "file": "history/ENERGY_NATURAL_GAS.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/ENERGY_NATURAL_GAS.json",
-      "records": 4152,
+      "records": 4153,
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-10-21T20:30:00.000Z",
-      "history_published_at": "2026-10-22T03:00:01.394Z"
+      "to": "2026-10-22T20:30:00.000Z",
+      "history_published_at": "2026-10-22T23:00:01.470Z"
     },
     {
       "symbol": "OPEC_BASKET_USD",
@@ -1197,11 +1197,11 @@
       "category": "energy",
       "file": "history/OPEC_BASKET_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/OPEC_BASKET_USD.json",
-      "records": 2602,
+      "records": 2603,
       "currency": "USD",
       "from": "2015-03-06T20:30:00.000Z",
-      "to": "2026-10-20T20:30:00.000Z",
-      "history_published_at": "2026-10-22T03:00:01.394Z"
+      "to": "2026-10-21T20:30:00.000Z",
+      "history_published_at": "2026-10-22T23:00:01.470Z"
     },
     {
       "symbol": "ENERGY_GASOLINE_RBOB",
@@ -1210,11 +1210,11 @@
       "category": "energy",
       "file": "history/ENERGY_GASOLINE_RBOB.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/ENERGY_GASOLINE_RBOB.json",
-      "records": 4103,
+      "records": 4104,
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-10-21T20:30:00.000Z",
-      "history_published_at": "2026-10-22T03:00:01.394Z"
+      "to": "2026-10-22T20:30:00.000Z",
+      "history_published_at": "2026-10-22T23:00:01.470Z"
     },
     {
       "symbol": "COMMODITY_LONDON_COFFEE",
