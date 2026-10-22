@@ -27063,32 +27063,41 @@
     {
       "t": "2026-10-18T20:30:00.000Z",
       "t_tehran": "2026-10-19T00:00:00+03:30",
-      "open": 259903,
-      "high": 261118,
-      "low": 259903,
+      "open": 259696,
+      "high": 261485,
+      "low": 259687,
       "close": 259903,
       "volume": null,
       "ticks": 5733,
-      "origin": "derived",
-      "quality": [
-        "spike"
-      ],
+      "origin": "source",
+      "quality": [],
       "date_jalali": "1405/07/27"
     },
     {
       "t": "2026-10-19T20:30:00.000Z",
       "t_tehran": "2026-10-20T00:00:00+03:30",
-      "open": 260005,
-      "high": 262800,
-      "low": 259920,
+      "open": 259915,
+      "high": 262808,
+      "low": 259909,
       "close": 260005,
       "volume": null,
-      "ticks": 5061,
-      "origin": "derived",
-      "quality": [
-        "spike"
-      ],
+      "ticks": 5841,
+      "origin": "source",
+      "quality": [],
       "date_jalali": "1405/07/28"
+    },
+    {
+      "t": "2026-10-20T20:30:00.000Z",
+      "t_tehran": "2026-10-21T00:00:00+03:30",
+      "open": 260362,
+      "high": 266669,
+      "low": 260350,
+      "close": 266664,
+      "volume": null,
+      "ticks": 2819,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/07/29"
     }
   ],
   "meta": {
@@ -27096,9 +27105,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 2082,
+    "count": 2083,
     "next_cursor": null,
-    "published_at": "2026-10-21T05:30:01.426Z",
+    "published_at": "2026-10-22T01:30:01.610Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/USDT_IRR.json",
     "currency": "IRT"
