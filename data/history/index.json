@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-22T23:00:01.470Z",
+    "published_at": "2026-10-22T23:30:01.540Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -1227,7 +1227,7 @@
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
       "to": "2026-10-15T20:30:00.000Z",
-      "history_published_at": "2026-10-22T03:30:01.431Z"
+      "history_published_at": "2026-10-22T23:30:01.540Z"
     },
     {
       "symbol": "COMMODITY_US_COFFEE_C",
@@ -1240,7 +1240,7 @@
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
       "to": "2026-10-16T20:30:00.000Z",
-      "history_published_at": "2026-10-22T03:30:01.431Z"
+      "history_published_at": "2026-10-22T23:30:01.540Z"
     },
     {
       "symbol": "COMMODITY_LONDON_COCOA",
@@ -1253,7 +1253,7 @@
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
       "to": "2026-09-24T20:30:00.000Z",
-      "history_published_at": "2026-10-22T03:30:01.431Z"
+      "history_published_at": "2026-10-22T23:30:01.540Z"
     },
     {
       "symbol": "COMMODITY_US_COCOA",
@@ -1266,7 +1266,7 @@
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
       "to": "2026-10-16T20:30:00.000Z",
-      "history_published_at": "2026-10-22T03:30:01.431Z"
+      "history_published_at": "2026-10-22T23:30:01.540Z"
     },
     {
       "symbol": "COMMODITY_US_SUGAR_NO11",
