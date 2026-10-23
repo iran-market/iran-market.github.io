@@ -45405,15 +45405,28 @@
     {
       "t": "2026-10-21T20:30:00.000Z",
       "t_tehran": "2026-10-22T00:00:00+03:30",
-      "open": 1369.93,
-      "high": 1371,
-      "low": 1369.93,
-      "close": 1370,
+      "open": 1370.12,
+      "high": 1376,
+      "low": 1369.91,
+      "close": 1374.09,
       "volume": null,
-      "ticks": 5,
-      "origin": "derived",
+      "ticks": 13,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/07/30"
+    },
+    {
+      "t": "2026-10-22T20:30:00.000Z",
+      "t_tehran": "2026-10-23T00:00:00+03:30",
+      "open": 1374,
+      "high": 1375,
+      "low": 1372,
+      "close": 1375,
+      "volume": null,
+      "ticks": 6,
+      "origin": "derived",
+      "quality": [],
+      "date_jalali": "1405/08/01"
     }
   ],
   "meta": {
@@ -45421,9 +45434,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 3487,
+    "count": 3488,
     "next_cursor": null,
-    "published_at": "2026-10-22T10:00:01.506Z",
+    "published_at": "2026-10-23T06:00:01.631Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BASE_US_STEEL_COIL.json",
     "currency": "USD"
