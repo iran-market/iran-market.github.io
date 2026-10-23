@@ -31046,11 +31046,11 @@
       "t": "2026-10-22T20:30:00.000Z",
       "t_tehran": "2026-10-23T00:00:00+03:30",
       "open": 103.15,
-      "high": 103.56,
+      "high": 104.95,
       "low": 103.15,
-      "close": 103.56,
+      "close": 104.49,
       "volume": null,
-      "ticks": 2,
+      "ticks": 22,
       "origin": "derived",
       "quality": [],
       "date_jalali": "1405/08/01"
@@ -31063,7 +31063,7 @@
     "unit": "toman",
     "count": 2387,
     "next_cursor": null,
-    "published_at": "2026-10-22T22:00:01.587Z",
+    "published_at": "2026-10-23T18:00:01.580Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/SOL_USD.json",
     "currency": "USD"

@@ -62755,11 +62755,11 @@
       "t": "2026-10-22T20:30:00.000Z",
       "t_tehran": "2026-10-23T00:00:00+03:30",
       "open": 1.31,
-      "high": 1.31,
+      "high": 1.33,
       "low": 1.31,
       "close": 1.31,
       "volume": null,
-      "ticks": 1,
+      "ticks": 9,
       "origin": "derived",
       "quality": [],
       "date_jalali": "1405/08/01"
@@ -62772,7 +62772,7 @@
     "unit": "toman",
     "count": 4828,
     "next_cursor": null,
-    "published_at": "2026-10-22T22:00:01.587Z",
+    "published_at": "2026-10-23T18:00:01.580Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/XRP_USD.json",
     "currency": "USD"
