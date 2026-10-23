@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-23T02:30:01.438Z",
+    "published_at": "2026-10-23T03:00:01.447Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -950,11 +950,11 @@
       "category": "crypto",
       "file": "history/LINK_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/LINK_USD.json",
-      "records": 3318,
+      "records": 3319,
       "currency": "USD",
       "from": "2017-09-19T19:30:00.000Z",
-      "to": "2026-10-21T20:30:00.000Z",
-      "history_published_at": "2026-10-22T07:00:01.582Z"
+      "to": "2026-10-22T20:30:00.000Z",
+      "history_published_at": "2026-10-23T03:00:01.447Z"
     },
     {
       "symbol": "USDC_USD",
@@ -967,7 +967,7 @@
       "currency": "USD",
       "from": "2018-10-07T20:30:00.000Z",
       "to": "2026-10-06T20:30:00.000Z",
-      "history_published_at": "2026-10-22T07:00:01.582Z"
+      "history_published_at": "2026-10-23T03:00:01.447Z"
     },
     {
       "symbol": "SHIB_USD",
@@ -976,11 +976,11 @@
       "category": "crypto",
       "file": "history/SHIB_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/SHIB_USD.json",
-      "records": 2274,
+      "records": 2275,
       "currency": "USD",
       "from": "2020-07-31T19:30:00.000Z",
-      "to": "2026-10-21T20:30:00.000Z",
-      "history_published_at": "2026-10-22T07:00:01.582Z"
+      "to": "2026-10-22T20:30:00.000Z",
+      "history_published_at": "2026-10-23T03:00:01.447Z"
     },
     {
       "symbol": "DOT_USD",
@@ -989,11 +989,11 @@
       "category": "crypto",
       "file": "history/DOT_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DOT_USD.json",
-      "records": 2254,
+      "records": 2255,
       "currency": "USD",
       "from": "2020-08-19T19:30:00.000Z",
-      "to": "2026-10-21T20:30:00.000Z",
-      "history_published_at": "2026-10-22T07:00:01.582Z"
+      "to": "2026-10-22T20:30:00.000Z",
+      "history_published_at": "2026-10-23T03:00:01.447Z"
     },
     {
       "symbol": "AVAX_USD",
