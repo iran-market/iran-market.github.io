@@ -8,7 +8,7 @@
       "low": 1600,
       "close": 1600,
       "volume": null,
-      "ticks": 121059,
+      "ticks": 125837,
       "origin": "derived",
       "quality": [
         "spike",
@@ -26464,32 +26464,43 @@
     {
       "t": "2026-10-21T20:30:00.000Z",
       "t_tehran": "2026-10-22T00:00:00+03:30",
-      "open": 22597856900,
-      "high": 22619162200,
-      "low": 21904412200,
-      "close": 22130080400,
+      "open": 22543383000,
+      "high": 22620471500,
+      "low": 21904247900,
+      "close": 22111160000,
       "volume": null,
       "ticks": 5736,
-      "origin": "derived",
-      "quality": [
-        "spike"
-      ],
+      "origin": "source",
+      "quality": [],
       "date_jalali": "1405/07/30"
     },
     {
       "t": "2026-10-22T20:30:00.000Z",
       "t_tehran": "2026-10-23T00:00:00+03:30",
-      "open": 22071618900,
-      "high": 22264424500,
-      "low": 22071618900,
-      "close": 22264424500,
+      "open": 22107654300,
+      "high": 22366065600,
+      "low": 21795623800,
+      "close": 21853382600,
       "volume": null,
-      "ticks": 1579,
+      "ticks": 5733,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/01"
+    },
+    {
+      "t": "2026-10-23T20:30:00.000Z",
+      "t_tehran": "2026-10-24T00:00:00+03:30",
+      "open": 21882528400,
+      "high": 21882528400,
+      "low": 21737712700,
+      "close": 21737712700,
+      "volume": null,
+      "ticks": 622,
       "origin": "derived",
       "quality": [
         "spike"
       ],
-      "date_jalali": "1405/08/01"
+      "date_jalali": "1405/08/02"
     }
   ],
   "meta": {
@@ -26497,9 +26508,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 2034,
+    "count": 2035,
     "next_cursor": null,
-    "published_at": "2026-10-23T03:30:01.461Z",
+    "published_at": "2026-10-23T23:30:01.432Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BTC_IRR.json",
     "currency": "IRT"
