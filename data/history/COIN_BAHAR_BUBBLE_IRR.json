@@ -26147,15 +26147,15 @@
     {
       "t": "2026-10-21T20:30:00.000Z",
       "t_tehran": "2026-10-22T00:00:00+03:30",
-      "open": 3237000,
-      "high": 4361000,
-      "low": 2612000,
+      "open": 541000,
+      "high": 3317000,
+      "low": 103000,
       "close": 3317000,
       "volume": null,
-      "ticks": 7,
-      "origin": "derived",
+      "ticks": 8,
+      "origin": "source",
       "quality": [
-        "spike"
+        "ohlc_repaired"
       ],
       "date_jalali": "1405/07/30"
     }
@@ -26167,7 +26167,7 @@
     "unit": "toman",
     "count": 1985,
     "next_cursor": null,
-    "published_at": "2026-10-22T20:00:01.389Z",
+    "published_at": "2026-10-23T16:00:01.549Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_BAHAR_BUBBLE_IRR.json",
     "currency": "IRT"
