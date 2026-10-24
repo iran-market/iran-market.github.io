@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-23T23:30:01.432Z",
+    "published_at": "2026-10-24T00:00:01.616Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -1054,11 +1054,11 @@
       "category": "crypto",
       "file": "history/DOGE_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DOGE_IRR.json",
-      "records": 2032,
+      "records": 2033,
       "currency": "IRT",
       "from": "2020-11-11T20:30:00.000Z",
-      "to": "2026-10-22T20:30:00.000Z",
-      "history_published_at": "2026-10-23T04:00:01.681Z"
+      "to": "2026-10-23T20:30:00.000Z",
+      "history_published_at": "2026-10-24T00:00:01.616Z"
     },
     {
       "symbol": "ADA_IRR",
@@ -1067,11 +1067,11 @@
       "category": "crypto",
       "file": "history/ADA_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/ADA_IRR.json",
-      "records": 2035,
+      "records": 2036,
       "currency": "IRT",
       "from": "2020-11-11T20:30:00.000Z",
-      "to": "2026-10-22T20:30:00.000Z",
-      "history_published_at": "2026-10-23T04:00:01.681Z"
+      "to": "2026-10-23T20:30:00.000Z",
+      "history_published_at": "2026-10-24T00:00:01.616Z"
     },
     {
       "symbol": "TRX_IRR",
@@ -1080,11 +1080,11 @@
       "category": "crypto",
       "file": "history/TRX_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/TRX_IRR.json",
-      "records": 2045,
+      "records": 2046,
       "currency": "IRT",
       "from": "2020-11-11T20:30:00.000Z",
-      "to": "2026-10-22T20:30:00.000Z",
-      "history_published_at": "2026-10-23T04:00:01.681Z"
+      "to": "2026-10-23T20:30:00.000Z",
+      "history_published_at": "2026-10-24T00:00:01.616Z"
     },
     {
       "symbol": "SOL_IRR",
@@ -1093,11 +1093,11 @@
       "category": "crypto",
       "file": "history/SOL_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/SOL_IRR.json",
-      "records": 1737,
+      "records": 1738,
       "currency": "IRT",
       "from": "2021-09-22T20:30:00.000Z",
-      "to": "2026-10-22T20:30:00.000Z",
-      "history_published_at": "2026-10-23T04:00:01.681Z"
+      "to": "2026-10-23T20:30:00.000Z",
+      "history_published_at": "2026-10-24T00:00:01.616Z"
     },
     {
       "symbol": "DOT_IRR",
