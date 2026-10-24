@@ -43154,10 +43154,10 @@
       "t_tehran": "2026-10-24T00:00:00+03:30",
       "open": 11.96,
       "high": 11.96,
-      "low": 11.78,
-      "close": 11.78,
+      "low": 11.34,
+      "close": 11.5,
       "volume": null,
-      "ticks": 3,
+      "ticks": 23,
       "origin": "derived",
       "quality": [],
       "date_jalali": "1405/08/02"
@@ -43170,7 +43170,7 @@
     "unit": "toman",
     "count": 3320,
     "next_cursor": null,
-    "published_at": "2026-10-23T23:00:01.519Z",
+    "published_at": "2026-10-24T19:00:01.527Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/LINK_USD.json",
     "currency": "USD"

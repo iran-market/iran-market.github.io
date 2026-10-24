@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-24T18:30:01.520Z",
+    "published_at": "2026-10-24T19:00:01.527Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -954,7 +954,7 @@
       "currency": "USD",
       "from": "2017-09-19T19:30:00.000Z",
       "to": "2026-10-23T20:30:00.000Z",
-      "history_published_at": "2026-10-23T23:00:01.519Z"
+      "history_published_at": "2026-10-24T19:00:01.527Z"
     },
     {
       "symbol": "USDC_USD",
@@ -967,7 +967,7 @@
       "currency": "USD",
       "from": "2018-10-07T20:30:00.000Z",
       "to": "2026-10-06T20:30:00.000Z",
-      "history_published_at": "2026-10-23T23:00:01.519Z"
+      "history_published_at": "2026-10-24T19:00:01.527Z"
     },
     {
       "symbol": "SHIB_USD",
@@ -980,7 +980,7 @@
       "currency": "USD",
       "from": "2020-07-31T19:30:00.000Z",
       "to": "2026-10-23T20:30:00.000Z",
-      "history_published_at": "2026-10-23T23:00:01.519Z"
+      "history_published_at": "2026-10-24T19:00:01.527Z"
     },
     {
       "symbol": "DOT_USD",
@@ -993,7 +993,7 @@
       "currency": "USD",
       "from": "2020-08-19T19:30:00.000Z",
       "to": "2026-10-23T20:30:00.000Z",
-      "history_published_at": "2026-10-23T23:00:01.519Z"
+      "history_published_at": "2026-10-24T19:00:01.527Z"
     },
     {
       "symbol": "AVAX_USD",
