@@ -54525,13 +54525,13 @@
     {
       "t": "2026-10-23T20:30:00.000Z",
       "t_tehran": "2026-10-24T00:00:00+03:30",
-      "open": 0.8251,
-      "high": 0.8251,
-      "low": 0.825,
+      "open": 0.8252,
+      "high": 0.8254,
+      "low": 0.8249,
       "close": 0.825,
       "volume": null,
-      "ticks": 2,
-      "origin": "derived",
+      "ticks": 3,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/02"
     }
@@ -54543,7 +54543,7 @@
     "unit": "toman",
     "count": 4195,
     "next_cursor": null,
-    "published_at": "2026-10-24T03:00:01.495Z",
+    "published_at": "2026-10-24T23:00:01.536Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DIFF_USD_CHF.json",
     "currency": "POINTS"
