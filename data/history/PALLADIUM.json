@@ -57959,11 +57959,11 @@
       "t_tehran": "2026-10-24T00:00:00+03:30",
       "open": 1045.5,
       "high": 1051.5,
-      "low": 1045.5,
+      "low": 1044.5,
       "close": 1051.5,
       "volume": null,
-      "ticks": 4,
-      "origin": "derived",
+      "ticks": 5,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/02"
     }
@@ -57975,7 +57975,7 @@
     "unit": "toman",
     "count": 4385,
     "next_cursor": null,
-    "published_at": "2026-10-24T09:30:01.398Z",
+    "published_at": "2026-10-25T05:30:01.606Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/PALLADIUM.json",
     "currency": "USD"
