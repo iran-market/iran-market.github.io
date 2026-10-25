@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-25T10:30:01.621Z",
+    "published_at": "2026-10-25T11:00:01.507Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -846,11 +846,11 @@
       "category": "crypto",
       "file": "history/TRX_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/TRX_USD.json",
-      "records": 3328,
+      "records": 3329,
       "currency": "USD",
       "from": "2017-09-12T19:30:00.000Z",
-      "to": "2026-10-23T20:30:00.000Z",
-      "history_published_at": "2026-10-24T14:30:01.578Z"
+      "to": "2026-10-24T20:30:00.000Z",
+      "history_published_at": "2026-10-25T11:00:01.507Z"
     },
     {
       "symbol": "LTC_USD",
@@ -859,11 +859,11 @@
       "category": "crypto",
       "file": "history/LTC_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/LTC_USD.json",
-      "records": 4927,
+      "records": 4928,
       "currency": "USD",
       "from": "2013-04-27T19:30:00.000Z",
-      "to": "2026-10-23T20:30:00.000Z",
-      "history_published_at": "2026-10-24T14:30:01.578Z"
+      "to": "2026-10-24T20:30:00.000Z",
+      "history_published_at": "2026-10-25T11:00:01.507Z"
     },
     {
       "symbol": "DASH_USD",
@@ -872,11 +872,11 @@
       "category": "crypto",
       "file": "history/DASH_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DASH_USD.json",
-      "records": 4635,
+      "records": 4636,
       "currency": "USD",
       "from": "2014-02-13T20:30:00.000Z",
-      "to": "2026-10-23T20:30:00.000Z",
-      "history_published_at": "2026-10-24T14:30:01.578Z"
+      "to": "2026-10-24T20:30:00.000Z",
+      "history_published_at": "2026-10-25T11:00:01.507Z"
     },
     {
       "symbol": "XMR_USD",
@@ -1162,7 +1162,7 @@
       "currency": "USD",
       "from": "2011-01-01T20:30:00.000Z",
       "to": "2026-10-23T20:30:00.000Z",
-      "history_published_at": "2026-10-24T14:30:01.578Z"
+      "history_published_at": "2026-10-25T11:00:01.507Z"
     },
     {
       "symbol": "OIL",
