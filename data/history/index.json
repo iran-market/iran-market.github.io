@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-25T04:30:01.381Z",
+    "published_at": "2026-10-25T05:00:01.377Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -382,7 +382,7 @@
       "currency": "IRT",
       "from": "2013-07-21T19:30:00.000Z",
       "to": "2026-10-23T20:30:00.000Z",
-      "history_published_at": "2026-10-24T09:00:01.496Z"
+      "history_published_at": "2026-10-25T05:00:01.377Z"
     },
     {
       "symbol": "XAU_USD",
@@ -395,7 +395,7 @@
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
       "to": "2026-10-23T20:30:00.000Z",
-      "history_published_at": "2026-10-24T09:00:01.496Z"
+      "history_published_at": "2026-10-25T05:00:01.377Z"
     },
     {
       "symbol": "SILVER",
@@ -408,7 +408,7 @@
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
       "to": "2026-10-23T20:30:00.000Z",
-      "history_published_at": "2026-10-24T09:00:01.496Z"
+      "history_published_at": "2026-10-25T05:00:01.377Z"
     },
     {
       "symbol": "SILVER_999_IRR",
@@ -417,11 +417,11 @@
       "category": "precious_metal",
       "file": "history/SILVER_999_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/SILVER_999_IRR.json",
-      "records": 1700,
+      "records": 1701,
       "currency": "IRT",
       "from": "2020-10-30T20:30:00.000Z",
-      "to": "2026-10-23T20:30:00.000Z",
-      "history_published_at": "2026-10-24T09:00:01.496Z"
+      "to": "2026-10-24T20:30:00.000Z",
+      "history_published_at": "2026-10-25T05:00:01.377Z"
     },
     {
       "symbol": "PLATINUM",
