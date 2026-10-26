@@ -32591,13 +32591,13 @@
     {
       "t": "2026-10-24T20:30:00.000Z",
       "t_tehran": "2026-10-25T00:00:00+03:30",
-      "open": 111648000,
-      "high": 112249000,
-      "low": 111648000,
-      "close": 112249000,
+      "open": 111834000,
+      "high": 114155000,
+      "low": 111515000,
+      "close": 112648000,
       "volume": null,
-      "ticks": 2,
-      "origin": "derived",
+      "ticks": 12,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/03"
     }
@@ -32609,7 +32609,7 @@
     "unit": "toman",
     "count": 2503,
     "next_cursor": null,
-    "published_at": "2026-10-25T08:30:01.442Z",
+    "published_at": "2026-10-26T04:30:01.431Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/GOLD_MELTED_WHOLESALE.json",
     "currency": "IRT"
