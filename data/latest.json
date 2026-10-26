@@ -1,7 +1,7 @@
 {
   "data": {
-    "generated_at": "2026-10-26T12:00:01.655Z",
-    "generated_at_jalali": "1405/08/04 15:30:01",
+    "generated_at": "2026-10-26T12:30:01.636Z",
+    "generated_at_jalali": "1405/08/04 16:00:01",
     "categories": {
       "commodity": [
         {
@@ -31318,8 +31318,8 @@
   },
   "meta": {
     "unit": "rial",
-    "tehran_time": "2026-10-26T15:30:01+03:30",
-    "published_at": "2026-10-26T12:00:01.486Z",
+    "tehran_time": "2026-10-26T16:00:01+03:30",
+    "published_at": "2026-10-26T12:30:01.435Z",
     "update_frequency_minutes": 30,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/latest.json",
     "source": "TGJU"
