@@ -23,10 +23,12 @@
       "timestamp": "2026-10-25T16:29:59.000Z",
       "timestamp_tehran": "2026-10-25T19:59:59+03:30",
       "timestamp_jalali": "1405/08/03 19:59:59",
-      "checked_at": "2026-10-26T00:00:00.301Z",
+      "checked_at": "2026-10-26T00:00:16.163Z",
       "source": "tgju",
-      "stale": false,
-      "quality": []
+      "stale": true,
+      "quality": [
+        "stale"
+      ]
     },
     {
       "symbol": "EUR_IRR_FREE",
@@ -51,10 +53,12 @@
       "timestamp": "2026-10-25T16:29:58.000Z",
       "timestamp_tehran": "2026-10-25T19:59:58+03:30",
       "timestamp_jalali": "1405/08/03 19:59:58",
-      "checked_at": "2026-10-26T00:00:00.301Z",
+      "checked_at": "2026-10-26T00:00:16.163Z",
       "source": "tgju",
-      "stale": false,
-      "quality": []
+      "stale": true,
+      "quality": [
+        "stale"
+      ]
     },
     {
       "symbol": "GBP_IRR_FREE",
@@ -79,10 +83,12 @@
       "timestamp": "2026-10-25T16:29:58.000Z",
       "timestamp_tehran": "2026-10-25T19:59:58+03:30",
       "timestamp_jalali": "1405/08/03 19:59:58",
-      "checked_at": "2026-10-26T00:00:00.301Z",
+      "checked_at": "2026-10-26T00:00:16.163Z",
       "source": "tgju",
-      "stale": false,
-      "quality": []
+      "stale": true,
+      "quality": [
+        "stale"
+      ]
     },
     {
       "symbol": "GOLD_18K_IRR",
@@ -107,10 +113,12 @@
       "timestamp": "2026-10-25T16:29:58.000Z",
       "timestamp_tehran": "2026-10-25T19:59:58+03:30",
       "timestamp_jalali": "1405/08/03 19:59:58",
-      "checked_at": "2026-10-26T00:00:00.301Z",
+      "checked_at": "2026-10-26T00:00:16.163Z",
       "source": "tgju",
-      "stale": false,
-      "quality": []
+      "stale": true,
+      "quality": [
+        "stale"
+      ]
     },
     {
       "symbol": "COIN_EMAMI_IRR",
@@ -135,10 +143,12 @@
       "timestamp": "2026-10-25T16:29:56.000Z",
       "timestamp_tehran": "2026-10-25T19:59:56+03:30",
       "timestamp_jalali": "1405/08/03 19:59:56",
-      "checked_at": "2026-10-26T00:00:00.301Z",
+      "checked_at": "2026-10-26T00:00:16.163Z",
       "source": "tgju",
-      "stale": false,
-      "quality": []
+      "stale": true,
+      "quality": [
+        "stale"
+      ]
     },
     {
       "symbol": "USDT_IRR",
@@ -163,10 +173,11 @@
       "timestamp": "2026-10-24T20:30:00.000Z",
       "timestamp_tehran": "2026-10-25T00:00:00+03:30",
       "timestamp_jalali": "1405/08/03 00:00:00",
-      "checked_at": "2026-10-26T00:00:00.301Z",
+      "checked_at": "2026-10-26T00:00:16.163Z",
       "source": "tgju",
-      "stale": false,
+      "stale": true,
       "quality": [
+        "stale",
         "spike"
       ]
     }
@@ -175,11 +186,11 @@
     "count": 6,
     "unit": "toman",
     "updated_at": "2026-10-25T16:29:59.000Z",
-    "stale": false,
+    "stale": true,
     "sources": [
       "tgju"
     ],
-    "published_at": "2026-10-26T00:00:01.397Z",
+    "published_at": "2026-10-26T00:30:01.385Z",
     "update_frequency_minutes": 30,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/popular.json",
     "source": "TGJU"
