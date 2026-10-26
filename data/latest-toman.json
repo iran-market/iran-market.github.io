@@ -1,7 +1,7 @@
 {
   "data": {
-    "generated_at": "2026-10-26T06:30:01.398Z",
-    "generated_at_jalali": "1405/08/04 10:00:01",
+    "generated_at": "2026-10-26T07:00:01.421Z",
+    "generated_at_jalali": "1405/08/04 10:30:01",
     "categories": {
       "commodity": [
         {
@@ -31318,8 +31318,8 @@
   },
   "meta": {
     "unit": "toman",
-    "tehran_time": "2026-10-26T10:00:01+03:30",
-    "published_at": "2026-10-26T06:30:01.333Z",
+    "tehran_time": "2026-10-26T10:30:01+03:30",
+    "published_at": "2026-10-26T07:00:01.362Z",
     "update_frequency_minutes": 30,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/latest-toman.json",
     "source": "TGJU"

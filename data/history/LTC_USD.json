@@ -64054,15 +64054,28 @@
     {
       "t": "2026-10-24T20:30:00.000Z",
       "t_tehran": "2026-10-25T00:00:00+03:30",
-      "open": 56.86,
-      "high": 57.18,
-      "low": 56.06,
-      "close": 56.22,
+      "open": 56.83,
+      "high": 57.28,
+      "low": 55.98,
+      "close": 57.12,
       "volume": null,
-      "ticks": 16,
-      "origin": "derived",
+      "ticks": 26,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/03"
+    },
+    {
+      "t": "2026-10-25T20:30:00.000Z",
+      "t_tehran": "2026-10-26T00:00:00+03:30",
+      "open": 57.03,
+      "high": 57.03,
+      "low": 56.64,
+      "close": 56.64,
+      "volume": null,
+      "ticks": 4,
+      "origin": "derived",
+      "quality": [],
+      "date_jalali": "1405/08/04"
     }
   ],
   "meta": {
@@ -64070,9 +64083,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 4928,
+    "count": 4929,
     "next_cursor": null,
-    "published_at": "2026-10-25T11:00:01.507Z",
+    "published_at": "2026-10-26T07:00:01.362Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/LTC_USD.json",
     "currency": "USD"
