@@ -44034,6 +44034,19 @@
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/02"
+    },
+    {
+      "t": "2026-10-24T20:30:00.000Z",
+      "t_tehran": "2026-10-25T00:00:00+03:30",
+      "open": 38000000,
+      "high": 38000000,
+      "low": 38000000,
+      "close": 38000000,
+      "volume": null,
+      "ticks": 1,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/03"
     }
   ],
   "meta": {
@@ -44041,9 +44054,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 3381,
+    "count": 3382,
     "next_cursor": null,
-    "published_at": "2026-10-25T06:30:01.402Z",
+    "published_at": "2026-10-26T02:30:01.370Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_GRAMI_IRR.json",
     "currency": "IRT"
