@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-26T21:00:01.506Z",
+    "published_at": "2026-10-26T21:30:01.440Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -434,7 +434,7 @@
       "currency": "USD",
       "from": "2011-01-01T20:30:00.000Z",
       "to": "2026-10-23T20:30:00.000Z",
-      "history_published_at": "2026-10-26T01:30:01.403Z"
+      "history_published_at": "2026-10-26T21:30:01.440Z"
     },
     {
       "symbol": "PALLADIUM",
@@ -447,7 +447,7 @@
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
       "to": "2026-10-25T20:30:00.000Z",
-      "history_published_at": "2026-10-26T01:30:01.403Z"
+      "history_published_at": "2026-10-26T21:30:01.440Z"
     },
     {
       "symbol": "COIN_EMAMI_IRR",
@@ -460,7 +460,7 @@
       "currency": "IRT",
       "from": "2010-12-31T20:30:00.000Z",
       "to": "2026-10-24T20:30:00.000Z",
-      "history_published_at": "2026-10-26T01:30:01.403Z"
+      "history_published_at": "2026-10-26T21:30:01.440Z"
     },
     {
       "symbol": "COIN_BAHAR_IRR",
@@ -473,7 +473,7 @@
       "currency": "IRT",
       "from": "2013-07-21T19:30:00.000Z",
       "to": "2026-10-24T20:30:00.000Z",
-      "history_published_at": "2026-10-26T01:30:01.403Z"
+      "history_published_at": "2026-10-26T21:30:01.440Z"
     },
     {
       "symbol": "COIN_HALF_IRR",
