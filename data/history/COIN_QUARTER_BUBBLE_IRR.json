@@ -25980,13 +25980,13 @@
     {
       "t": "2026-10-24T20:30:00.000Z",
       "t_tehran": "2026-10-25T00:00:00+03:30",
-      "open": 11132000,
-      "high": 11132000,
-      "low": 11132000,
-      "close": 11132000,
+      "open": 11586000,
+      "high": 12606000,
+      "low": 10702000,
+      "close": 12009000,
       "volume": null,
-      "ticks": 1,
-      "origin": "derived",
+      "ticks": 13,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/03"
     }
@@ -25998,7 +25998,7 @@
     "unit": "toman",
     "count": 1986,
     "next_cursor": null,
-    "published_at": "2026-10-25T08:00:01.439Z",
+    "published_at": "2026-10-26T04:00:01.323Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_QUARTER_BUBBLE_IRR.json",
     "currency": "IRT"
