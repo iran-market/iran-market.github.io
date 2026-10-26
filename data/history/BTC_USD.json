@@ -75091,15 +75091,28 @@
     {
       "t": "2026-10-24T20:30:00.000Z",
       "t_tehran": "2026-10-25T00:00:00+03:30",
-      "open": 80551.48,
-      "high": 80953.05,
-      "low": 80166.79,
-      "close": 80166.79,
+      "open": 80524.68,
+      "high": 81031.09,
+      "low": 80112.31,
+      "close": 80568.11,
       "volume": null,
-      "ticks": 15,
-      "origin": "derived",
+      "ticks": 26,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/03"
+    },
+    {
+      "t": "2026-10-25T20:30:00.000Z",
+      "t_tehran": "2026-10-26T00:00:00+03:30",
+      "open": 80459.15,
+      "high": 80561.77,
+      "low": 80076.2,
+      "close": 80076.2,
+      "volume": null,
+      "ticks": 4,
+      "origin": "derived",
+      "quality": [],
+      "date_jalali": "1405/08/04"
     }
   ],
   "meta": {
@@ -75107,9 +75120,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 5777,
+    "count": 5778,
     "next_cursor": null,
-    "published_at": "2026-10-25T09:30:01.565Z",
+    "published_at": "2026-10-26T05:30:01.278Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BTC_USD.json",
     "currency": "USD"
