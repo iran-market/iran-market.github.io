@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-27T16:30:01.428Z",
+    "published_at": "2026-10-27T17:00:01.412Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -382,7 +382,7 @@
       "currency": "IRT",
       "from": "2013-07-21T19:30:00.000Z",
       "to": "2026-10-24T20:30:00.000Z",
-      "history_published_at": "2026-10-26T21:00:01.506Z"
+      "history_published_at": "2026-10-27T17:00:01.412Z"
     },
     {
       "symbol": "XAU_USD",
@@ -395,7 +395,7 @@
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
       "to": "2026-10-25T20:30:00.000Z",
-      "history_published_at": "2026-10-26T21:00:01.506Z"
+      "history_published_at": "2026-10-27T17:00:01.412Z"
     },
     {
       "symbol": "SILVER",
@@ -408,7 +408,7 @@
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
       "to": "2026-10-25T20:30:00.000Z",
-      "history_published_at": "2026-10-26T21:00:01.506Z"
+      "history_published_at": "2026-10-27T17:00:01.412Z"
     },
     {
       "symbol": "SILVER_999_IRR",
@@ -421,7 +421,7 @@
       "currency": "IRT",
       "from": "2020-10-30T20:30:00.000Z",
       "to": "2026-10-25T20:30:00.000Z",
-      "history_published_at": "2026-10-26T21:00:01.506Z"
+      "history_published_at": "2026-10-27T17:00:01.412Z"
     },
     {
       "symbol": "PLATINUM",
