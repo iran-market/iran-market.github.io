@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-27T22:30:01.488Z",
+    "published_at": "2026-10-27T23:00:01.335Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -850,7 +850,7 @@
       "currency": "USD",
       "from": "2017-09-12T19:30:00.000Z",
       "to": "2026-10-25T20:30:00.000Z",
-      "history_published_at": "2026-10-27T03:00:01.408Z"
+      "history_published_at": "2026-10-27T23:00:01.335Z"
     },
     {
       "symbol": "LTC_USD",
@@ -863,7 +863,7 @@
       "currency": "USD",
       "from": "2013-04-27T19:30:00.000Z",
       "to": "2026-10-25T20:30:00.000Z",
-      "history_published_at": "2026-10-27T03:00:01.408Z"
+      "history_published_at": "2026-10-27T23:00:01.335Z"
     },
     {
       "symbol": "DASH_USD",
@@ -876,7 +876,7 @@
       "currency": "USD",
       "from": "2014-02-13T20:30:00.000Z",
       "to": "2026-10-25T20:30:00.000Z",
-      "history_published_at": "2026-10-27T03:00:01.408Z"
+      "history_published_at": "2026-10-27T23:00:01.335Z"
     },
     {
       "symbol": "XMR_USD",
@@ -1162,7 +1162,7 @@
       "currency": "USD",
       "from": "2011-01-01T20:30:00.000Z",
       "to": "2026-10-25T20:30:00.000Z",
-      "history_published_at": "2026-10-27T03:00:01.408Z"
+      "history_published_at": "2026-10-27T23:00:01.335Z"
     },
     {
       "symbol": "OIL",
