@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-28T14:00:01.413Z",
+    "published_at": "2026-10-28T14:30:01.469Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -482,11 +482,11 @@
       "category": "coin",
       "file": "history/COIN_HALF_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_HALF_IRR.json",
-      "records": 3461,
+      "records": 3464,
       "currency": "IRT",
       "from": "2013-07-21T19:30:00.000Z",
-      "to": "2026-10-24T20:30:00.000Z",
-      "history_published_at": "2026-10-27T18:30:01.421Z"
+      "to": "2026-10-27T20:30:00.000Z",
+      "history_published_at": "2026-10-28T14:30:01.469Z"
     },
     {
       "symbol": "COIN_QUARTER_IRR",
@@ -495,11 +495,11 @@
       "category": "coin",
       "file": "history/COIN_QUARTER_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_QUARTER_IRR.json",
-      "records": 3446,
+      "records": 3449,
       "currency": "IRT",
       "from": "2013-07-21T19:30:00.000Z",
-      "to": "2026-10-24T20:30:00.000Z",
-      "history_published_at": "2026-10-27T18:30:01.421Z"
+      "to": "2026-10-27T20:30:00.000Z",
+      "history_published_at": "2026-10-28T14:30:01.469Z"
     },
     {
       "symbol": "COIN_GRAMI_IRR",
@@ -508,11 +508,11 @@
       "category": "coin",
       "file": "history/COIN_GRAMI_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_GRAMI_IRR.json",
-      "records": 3382,
+      "records": 3385,
       "currency": "IRT",
       "from": "2013-07-21T19:30:00.000Z",
-      "to": "2026-10-24T20:30:00.000Z",
-      "history_published_at": "2026-10-27T18:30:01.421Z"
+      "to": "2026-10-27T20:30:00.000Z",
+      "history_published_at": "2026-10-28T14:30:01.469Z"
     },
     {
       "symbol": "COIN_EMAMI_RETAIL_IRR",
@@ -521,11 +521,11 @@
       "category": "coin",
       "file": "history/COIN_EMAMI_RETAIL_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_EMAMI_RETAIL_IRR.json",
-      "records": 2396,
+      "records": 2399,
       "currency": "IRT",
       "from": "2017-07-04T19:30:00.000Z",
-      "to": "2026-10-24T20:30:00.000Z",
-      "history_published_at": "2026-10-27T18:30:01.421Z"
+      "to": "2026-10-27T20:30:00.000Z",
+      "history_published_at": "2026-10-28T14:30:01.469Z"
     },
     {
       "symbol": "COIN_BAHAR_RETAIL_IRR",
