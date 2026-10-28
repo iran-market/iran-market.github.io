@@ -29370,12 +29370,12 @@
     {
       "t": "2026-10-27T20:30:00.000Z",
       "t_tehran": "2026-10-28T00:00:00+03:30",
-      "open": 1,
-      "high": 1.01,
-      "low": 0.99998682,
-      "close": 1,
+      "open": 1.02,
+      "high": 1.04,
+      "low": 0.98974117,
+      "close": 1.02,
       "volume": null,
-      "ticks": 29,
+      "ticks": 263,
       "origin": "derived",
       "quality": [
         "out_of_order"
@@ -29390,7 +29390,7 @@
     "unit": "toman",
     "count": 2260,
     "next_cursor": null,
-    "published_at": "2026-10-28T03:30:01.257Z",
+    "published_at": "2026-10-28T23:30:01.428Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DOT_USD.json",
     "currency": "USD"
