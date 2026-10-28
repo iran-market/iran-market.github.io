@@ -29717,6 +29717,45 @@
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/03"
+    },
+    {
+      "t": "2026-10-25T20:30:00.000Z",
+      "t_tehran": "2026-10-26T00:00:00+03:30",
+      "open": 38500000,
+      "high": 38500000,
+      "low": 38500000,
+      "close": 38500000,
+      "volume": null,
+      "ticks": null,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/04"
+    },
+    {
+      "t": "2026-10-26T20:30:00.000Z",
+      "t_tehran": "2026-10-27T00:00:00+03:30",
+      "open": 38500000,
+      "high": 38500000,
+      "low": 38500000,
+      "close": 38500000,
+      "volume": null,
+      "ticks": 1,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/05"
+    },
+    {
+      "t": "2026-10-27T20:30:00.000Z",
+      "t_tehran": "2026-10-28T00:00:00+03:30",
+      "open": 38210000,
+      "high": 38500000,
+      "low": 38210000,
+      "close": 38210000,
+      "volume": null,
+      "ticks": 17,
+      "origin": "derived",
+      "quality": [],
+      "date_jalali": "1405/08/06"
     }
   ],
   "meta": {
@@ -29724,9 +29763,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 2280,
+    "count": 2283,
     "next_cursor": null,
-    "published_at": "2026-10-27T19:30:01.354Z",
+    "published_at": "2026-10-28T15:30:01.383Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_GRAMI_RETAIL_IRR.json",
     "currency": "IRT"
