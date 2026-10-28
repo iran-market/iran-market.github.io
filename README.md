@@ -295,7 +295,8 @@ console.log(history.meta.currency, history.data.at(-1));
       <li><code>talair</code> (tala.ir): پشتیبان طلا و سکه.</li>
     </ul>
   </li>
-  <li>اگر منبع اصلی یک قلم قطع شود یا قیمتش به‌روز نشود، همان قلم خودکار از منبع بعدی منتشر می‌شود و فقط مقدار <code>source</code> آن عوض می‌شود؛ نام و نوع همه فیلدها در همه حالت‌ها ثابت می‌ماند. مقدار <code>meta.source</code> برای سازگاری با نسخه‌های قبل همان <code>TGJU</code> مانده است.</li>
+  <li>اگر منبع اصلی یک قلم قطع شود یا قیمتش به‌روز نشود، همان قلم خودکار از منبع بعدی منتشر می‌شود و فقط مقدار <code>source</code> آن عوض می‌شود؛ نام و نوع همه فیلدها در همه حالت‌ها ثابت می‌ماند.</li>
+  <li><code>meta.source</code> (و <code>source</code> در <code>manifest.json</code>) فهرست منابعی است که قلم‌های همان فایل از آن‌ها آمده‌اند، به ترتیب تعداد قلم؛ مثلاً <code>TGJU, Nobitex, Wallex</code>. وقتی همهٔ قلم‌ها از TGJU باشند، همان <code>TGJU</code> است. در فایل‌های تاریخچه و <code>symbols.json</code> همیشه <code>TGJU</code> است.</li>
   <li>این مخزن static data API است؛ پارامتر جست‌وجو، API key، حساب کاربری و rate-limit اختصاصی ندارد.</li>
   <li>برای JSON از Raw GitHub (پیشنهادی، cache حدود ۵ دقیقه) یا jsDelivr (جایگزین، cache حدود ۱۲ ساعت) استفاده کنید؛ GitHub Pages فقط میزبان رابط و مستندات وب است.</li>
   <li>دسترسی به Raw GitHub یا jsDelivr تابع پایداری و سیاست cache همان سرویس‌ها است و SLA تجاری ارائه نمی‌شود.</li>
