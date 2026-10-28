@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-28T16:00:01.438Z",
+    "published_at": "2026-10-28T16:30:01.436Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -638,11 +638,11 @@
       "category": "coin",
       "file": "history/COIN_GRAMI_BUBBLE_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_GRAMI_BUBBLE_IRR.json",
-      "records": 1987,
+      "records": 1990,
       "currency": "IRT",
       "from": "2019-02-11T20:30:00.000Z",
-      "to": "2026-10-24T20:30:00.000Z",
-      "history_published_at": "2026-10-27T20:30:01.311Z"
+      "to": "2026-10-27T20:30:00.000Z",
+      "history_published_at": "2026-10-28T16:30:01.436Z"
     },
     {
       "symbol": "GOLD_MELTED_WHOLESALE",
@@ -651,11 +651,11 @@
       "category": "gold",
       "file": "history/GOLD_MELTED_WHOLESALE.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/GOLD_MELTED_WHOLESALE.json",
-      "records": 2503,
+      "records": 2506,
       "currency": "IRT",
       "from": "2017-04-06T19:30:00.000Z",
-      "to": "2026-10-24T20:30:00.000Z",
-      "history_published_at": "2026-10-27T20:30:01.311Z"
+      "to": "2026-10-27T20:30:00.000Z",
+      "history_published_at": "2026-10-28T16:30:01.436Z"
     },
     {
       "symbol": "GOLD_17",
@@ -664,11 +664,11 @@
       "category": "gold",
       "file": "history/GOLD_17.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/GOLD_17.json",
-      "records": 2499,
+      "records": 2502,
       "currency": "IRT",
       "from": "2017-04-06T19:30:00.000Z",
-      "to": "2026-10-24T20:30:00.000Z",
-      "history_published_at": "2026-10-27T20:30:01.311Z"
+      "to": "2026-10-27T20:30:00.000Z",
+      "history_published_at": "2026-10-28T16:30:01.436Z"
     },
     {
       "symbol": "GOLD_FUTURES",
@@ -677,11 +677,11 @@
       "category": "gold",
       "file": "history/GOLD_FUTURES.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/GOLD_FUTURES.json",
-      "records": 2223,
+      "records": 2226,
       "currency": "IRT",
       "from": "2018-03-16T20:30:00.000Z",
-      "to": "2026-10-24T20:30:00.000Z",
-      "history_published_at": "2026-10-27T20:30:01.311Z"
+      "to": "2026-10-27T20:30:00.000Z",
+      "history_published_at": "2026-10-28T16:30:01.436Z"
     },
     {
       "symbol": "GOLD_WORLD_FUTURES",

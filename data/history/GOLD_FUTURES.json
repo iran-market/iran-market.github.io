@@ -28961,6 +28961,47 @@
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/03"
+    },
+    {
+      "t": "2026-10-25T20:30:00.000Z",
+      "t_tehran": "2026-10-26T00:00:00+03:30",
+      "open": 114279000,
+      "high": 114565000,
+      "low": 113175000,
+      "close": 113483000,
+      "volume": null,
+      "ticks": null,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/04"
+    },
+    {
+      "t": "2026-10-26T20:30:00.000Z",
+      "t_tehran": "2026-10-27T00:00:00+03:30",
+      "open": 114157000,
+      "high": 114325000,
+      "low": 112725000,
+      "close": 112975000,
+      "volume": null,
+      "ticks": 1,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/05"
+    },
+    {
+      "t": "2026-10-27T20:30:00.000Z",
+      "t_tehran": "2026-10-28T00:00:00+03:30",
+      "open": 113837000,
+      "high": 114215000,
+      "low": 113525000,
+      "close": 113995000,
+      "volume": null,
+      "ticks": 1502,
+      "origin": "derived",
+      "quality": [
+        "out_of_order"
+      ],
+      "date_jalali": "1405/08/06"
     }
   ],
   "meta": {
@@ -28968,9 +29009,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 2223,
+    "count": 2226,
     "next_cursor": null,
-    "published_at": "2026-10-27T20:30:01.311Z",
+    "published_at": "2026-10-28T16:30:01.436Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/GOLD_FUTURES.json",
     "currency": "IRT"
