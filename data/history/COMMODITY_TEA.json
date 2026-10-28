@@ -158,7 +158,9 @@
       "volume": null,
       "ticks": 1,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1405/07/20"
     }
   ],
@@ -169,7 +171,7 @@
     "unit": "toman",
     "count": 11,
     "next_cursor": null,
-    "published_at": "2026-10-28T01:30:01.277Z",
+    "published_at": "2026-10-28T21:30:01.440Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_TEA.json",
     "currency": "USD"
