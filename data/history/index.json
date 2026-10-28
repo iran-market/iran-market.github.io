@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-28T06:30:01.328Z",
+    "published_at": "2026-10-28T07:00:01.346Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -1626,11 +1626,11 @@
       "category": "index",
       "file": "history/DIFF_USD_JPY.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DIFF_USD_JPY.json",
-      "records": 5016,
+      "records": 5018,
       "currency": "POINTS",
       "from": "2010-12-31T20:30:00.000Z",
-      "to": "2026-10-25T20:30:00.000Z",
-      "history_published_at": "2026-10-27T11:00:01.329Z"
+      "to": "2026-10-27T20:30:00.000Z",
+      "history_published_at": "2026-10-28T07:00:01.346Z"
     },
     {
       "symbol": "DIFF_USD_CHF",
@@ -1639,11 +1639,11 @@
       "category": "index",
       "file": "history/DIFF_USD_CHF.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DIFF_USD_CHF.json",
-      "records": 4196,
+      "records": 4198,
       "currency": "POINTS",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-10-25T20:30:00.000Z",
-      "history_published_at": "2026-10-27T11:00:01.329Z"
+      "to": "2026-10-27T20:30:00.000Z",
+      "history_published_at": "2026-10-28T07:00:01.346Z"
     },
     {
       "symbol": "DIFF_AUD_USD",
@@ -1652,11 +1652,11 @@
       "category": "index",
       "file": "history/DIFF_AUD_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DIFF_AUD_USD.json",
-      "records": 4656,
+      "records": 4658,
       "currency": "POINTS",
       "from": "2010-12-31T20:30:00.000Z",
-      "to": "2026-10-25T20:30:00.000Z",
-      "history_published_at": "2026-10-27T11:00:01.329Z"
+      "to": "2026-10-27T20:30:00.000Z",
+      "history_published_at": "2026-10-28T07:00:01.346Z"
     },
     {
       "symbol": "DIFF_USD_CAD",
@@ -1665,11 +1665,11 @@
       "category": "index",
       "file": "history/DIFF_USD_CAD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DIFF_USD_CAD.json",
-      "records": 4204,
+      "records": 4206,
       "currency": "POINTS",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-10-25T20:30:00.000Z",
-      "history_published_at": "2026-10-27T11:00:01.329Z"
+      "to": "2026-10-27T20:30:00.000Z",
+      "history_published_at": "2026-10-28T07:00:01.346Z"
     }
   ]
 }

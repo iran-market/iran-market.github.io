@@ -60518,15 +60518,43 @@
     {
       "t": "2026-10-25T20:30:00.000Z",
       "t_tehran": "2026-10-26T00:00:00+03:30",
-      "open": 0.7036,
-      "high": 0.7036,
-      "low": 0.703,
-      "close": 0.703,
+      "open": 0.7033,
+      "high": 0.7039,
+      "low": 0.7014,
+      "close": 0.7016,
       "volume": null,
       "ticks": 3,
-      "origin": "derived",
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/04"
+    },
+    {
+      "t": "2026-10-26T20:30:00.000Z",
+      "t_tehran": "2026-10-27T00:00:00+03:30",
+      "open": 0.7014,
+      "high": 0.704,
+      "low": 0.7008,
+      "close": 0.7025,
+      "volume": null,
+      "ticks": null,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/05"
+    },
+    {
+      "t": "2026-10-27T20:30:00.000Z",
+      "t_tehran": "2026-10-28T00:00:00+03:30",
+      "open": 0.7042,
+      "high": 0.7046,
+      "low": 0.7026,
+      "close": 0.7029,
+      "volume": null,
+      "ticks": 265,
+      "origin": "derived",
+      "quality": [
+        "out_of_order"
+      ],
+      "date_jalali": "1405/08/06"
     }
   ],
   "meta": {
@@ -60534,9 +60562,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 4656,
+    "count": 4658,
     "next_cursor": null,
-    "published_at": "2026-10-27T11:00:01.329Z",
+    "published_at": "2026-10-28T07:00:01.346Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DIFF_AUD_USD.json",
     "currency": "POINTS"

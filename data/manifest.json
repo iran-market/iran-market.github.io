@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-28T06:30:01.328Z",
+  "generated_at": "2026-10-28T07:00:01.346Z",
   "update_frequency_minutes": 30,
-  "source": "TGJU",
+  "source": "TGJU, Nobitex, Bitpin, Wallex",
   "license_note": "Market data belongs to its original providers; verify before financial use.",
   "files": [
     {
@@ -912,28 +912,28 @@
       "path": "history/DIFF_USD_JPY.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DIFF_USD_JPY.json",
       "description": "Daily OHLC history for DIFF_USD_JPY",
-      "records": 5016,
+      "records": 5018,
       "unit": "POINTS"
     },
     {
       "path": "history/DIFF_USD_CHF.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DIFF_USD_CHF.json",
       "description": "Daily OHLC history for DIFF_USD_CHF",
-      "records": 4196,
+      "records": 4198,
       "unit": "POINTS"
     },
     {
       "path": "history/DIFF_AUD_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DIFF_AUD_USD.json",
       "description": "Daily OHLC history for DIFF_AUD_USD",
-      "records": 4656,
+      "records": 4658,
       "unit": "POINTS"
     },
     {
       "path": "history/DIFF_USD_CAD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DIFF_USD_CAD.json",
       "description": "Daily OHLC history for DIFF_USD_CAD",
-      "records": 4204,
+      "records": 4206,
       "unit": "POINTS"
     }
   ]
