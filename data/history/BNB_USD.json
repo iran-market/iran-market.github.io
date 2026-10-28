@@ -43930,15 +43930,43 @@
     {
       "t": "2026-10-25T20:30:00.000Z",
       "t_tehran": "2026-10-26T00:00:00+03:30",
-      "open": 740.51,
-      "high": 741.5,
-      "low": 737.74,
-      "close": 737.74,
+      "open": 741.59,
+      "high": 746.38,
+      "low": 733.63,
+      "close": 742.69,
       "volume": null,
       "ticks": 4,
-      "origin": "derived",
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/04"
+    },
+    {
+      "t": "2026-10-26T20:30:00.000Z",
+      "t_tehran": "2026-10-27T00:00:00+03:30",
+      "open": 742.25,
+      "high": 752.4,
+      "low": 734.45,
+      "close": 748.23,
+      "volume": null,
+      "ticks": null,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/05"
+    },
+    {
+      "t": "2026-10-27T20:30:00.000Z",
+      "t_tehran": "2026-10-28T00:00:00+03:30",
+      "open": 742.35,
+      "high": 761.7,
+      "low": 742.35,
+      "close": 748.65,
+      "volume": null,
+      "ticks": 683,
+      "origin": "derived",
+      "quality": [
+        "out_of_order"
+      ],
+      "date_jalali": "1405/08/06"
     }
   ],
   "meta": {
@@ -43946,9 +43974,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 3380,
+    "count": 3382,
     "next_cursor": null,
-    "published_at": "2026-10-27T22:30:01.488Z",
+    "published_at": "2026-10-28T18:30:01.521Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BNB_USD.json",
     "currency": "USD"
