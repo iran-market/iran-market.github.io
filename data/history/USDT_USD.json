@@ -54976,7 +54976,9 @@
       "volume": null,
       "ticks": 1,
       "origin": "source",
-      "quality": [],
+      "quality": [
+        "gap_before"
+      ],
       "date_jalali": "1405/07/14"
     },
     {
@@ -55234,9 +55236,11 @@
       "low": 1,
       "close": 1,
       "volume": null,
-      "ticks": 1,
+      "ticks": 6,
       "origin": "derived",
-      "quality": [],
+      "quality": [
+        "out_of_order"
+      ],
       "date_jalali": "1405/08/06"
     }
   ],
@@ -55247,7 +55251,7 @@
     "unit": "toman",
     "count": 4249,
     "next_cursor": null,
-    "published_at": "2026-10-28T03:00:01.372Z",
+    "published_at": "2026-10-28T23:00:01.359Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/USDT_USD.json",
     "currency": "USD"
