@@ -17,4 +17,4 @@ which can cache the main branch for about 12 hours.
 - USDT/IRR daily OHLC history: https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/USDT_IRR.json
 - Manifest and update metadata: https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/manifest.json
 
-Current-price files update every 30 minutes. Daily-history files update once per day. Current upstream source: TGJU. Prices are informational.
+Current-price files update every 30 minutes. Daily-history files update once per day. Sources: TGJU (primary; the only source of history files), Nobitex and Wallex (primary for crypto priced in IRR), Bitpin, alanchand and tala.ir (fallbacks). Each item's `source` field names where that price came from; `meta.source` stays "TGJU" for compatibility. Prices are informational.
