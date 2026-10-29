@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-29T08:30:01.253Z",
+  "generated_at": "2026-10-29T09:00:01.256Z",
   "update_frequency_minutes": 30,
   "source": "TGJU, Nobitex, Bitpin, Wallex",
   "license_note": "Market data belongs to its original providers; verify before financial use.",
@@ -240,28 +240,28 @@
       "path": "history/GOLD_MESGHAL_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/GOLD_MESGHAL_IRR.json",
       "description": "Daily OHLC history for GOLD_MESGHAL_IRR",
-      "records": 3543,
+      "records": 3544,
       "unit": "IRT"
     },
     {
       "path": "history/XAU_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/XAU_USD.json",
       "description": "Daily OHLC history for XAU_USD",
-      "records": 4150,
+      "records": 4151,
       "unit": "USD"
     },
     {
       "path": "history/SILVER.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/SILVER.json",
       "description": "Daily OHLC history for SILVER",
-      "records": 4155,
+      "records": 4156,
       "unit": "USD"
     },
     {
       "path": "history/SILVER_999_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/SILVER_999_IRR.json",
       "description": "Daily OHLC history for SILVER_999_IRR",
-      "records": 1704,
+      "records": 1705,
       "unit": "IRT"
     },
     {
