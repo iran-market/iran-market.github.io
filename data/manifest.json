@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-29T19:00:01.370Z",
+  "generated_at": "2026-10-29T19:30:01.333Z",
   "update_frequency_minutes": 30,
   "source": "TGJU, Nobitex, Bitpin, Wallex",
   "license_note": "Market data belongs to its original providers; verify before financial use.",
@@ -569,7 +569,7 @@
       "path": "history/DOT_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DOT_USD.json",
       "description": "Daily OHLC history for DOT_USD",
-      "records": 2260,
+      "records": 2261,
       "unit": "USD"
     },
     {
