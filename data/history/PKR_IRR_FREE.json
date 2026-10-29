@@ -43004,12 +43004,12 @@
     {
       "t": "2026-10-27T20:30:00.000Z",
       "t_tehran": "2026-10-28T00:00:00+03:30",
-      "open": 953.4,
+      "open": 955.5,
       "high": 957.7,
       "low": 950.6,
-      "close": 953.1,
+      "close": 955.5,
       "volume": null,
-      "ticks": 573,
+      "ticks": 1390,
       "origin": "derived",
       "quality": [
         "out_of_order"
@@ -43024,7 +43024,7 @@
     "unit": "toman",
     "count": 3303,
     "next_cursor": null,
-    "published_at": "2026-10-28T11:00:01.319Z",
+    "published_at": "2026-10-29T07:00:01.261Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/PKR_IRR_FREE.json",
     "currency": "IRT"
