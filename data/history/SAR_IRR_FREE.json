@@ -42386,12 +42386,12 @@
     {
       "t": "2026-10-27T20:30:00.000Z",
       "t_tehran": "2026-10-28T00:00:00+03:30",
-      "open": 71898,
+      "open": 71880,
       "high": 72227,
       "low": 71683,
-      "close": 71903,
+      "close": 71880,
       "volume": null,
-      "ticks": 703,
+      "ticks": 1510,
       "origin": "derived",
       "quality": [
         "out_of_order"
@@ -42406,7 +42406,7 @@
     "unit": "toman",
     "count": 3256,
     "next_cursor": null,
-    "published_at": "2026-10-28T11:30:01.377Z",
+    "published_at": "2026-10-29T07:30:01.366Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/SAR_IRR_FREE.json",
     "currency": "IRT"
