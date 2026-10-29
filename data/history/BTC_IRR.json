@@ -19,11 +19,11 @@
       "t": "2026-10-28T20:30:00.000Z",
       "t_tehran": "2026-10-29T00:00:00+03:30",
       "open": 21940000000,
-      "high": 21980000001,
-      "low": 21888726633,
-      "close": 21910001250,
+      "high": 22106000000,
+      "low": 21600000017,
+      "close": 21934408891,
       "volume": null,
-      "ticks": 161,
+      "ticks": 1094,
       "origin": "derived",
       "quality": [
         "timestamp_estimated"
@@ -38,7 +38,7 @@
     "unit": "toman",
     "count": 2,
     "next_cursor": null,
-    "published_at": "2026-10-29T00:00:01.338Z",
+    "published_at": "2026-10-29T20:00:01.312Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BTC_IRR.json",
     "currency": "IRT"
