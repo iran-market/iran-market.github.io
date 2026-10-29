@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-29T18:30:01.585Z",
+    "published_at": "2026-10-29T19:00:01.370Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -902,7 +902,7 @@
       "currency": "USD",
       "from": "2014-08-04T19:30:00.000Z",
       "to": "2026-10-28T20:30:00.000Z",
-      "history_published_at": "2026-10-28T23:00:01.359Z"
+      "history_published_at": "2026-10-29T19:00:01.370Z"
     },
     {
       "symbol": "USDT_USD",
@@ -911,11 +911,11 @@
       "category": "crypto",
       "file": "history/USDT_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/USDT_USD.json",
-      "records": 4249,
+      "records": 4250,
       "currency": "USD",
       "from": "2015-02-24T20:30:00.000Z",
-      "to": "2026-10-27T20:30:00.000Z",
-      "history_published_at": "2026-10-28T23:00:01.359Z"
+      "to": "2026-10-28T20:30:00.000Z",
+      "history_published_at": "2026-10-29T19:00:01.370Z"
     },
     {
       "symbol": "ETC_USD",
@@ -928,7 +928,7 @@
       "currency": "USD",
       "from": "2016-07-23T19:30:00.000Z",
       "to": "2026-10-28T20:30:00.000Z",
-      "history_published_at": "2026-10-28T23:00:01.359Z"
+      "history_published_at": "2026-10-29T19:00:01.370Z"
     },
     {
       "symbol": "BCH_USD",
@@ -941,7 +941,7 @@
       "currency": "USD",
       "from": "2017-07-22T19:30:00.000Z",
       "to": "2026-10-28T20:30:00.000Z",
-      "history_published_at": "2026-10-28T23:00:01.359Z"
+      "history_published_at": "2026-10-29T19:00:01.370Z"
     },
     {
       "symbol": "LINK_USD",
