@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-29T13:00:02.108Z",
+    "published_at": "2026-10-29T13:30:01.395Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -742,11 +742,11 @@
       "category": "crypto",
       "file": "history/USDT_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/USDT_IRR.json",
-      "records": 1,
+      "records": 2,
       "currency": "IRT",
       "from": "2026-10-27T20:30:00.000Z",
-      "to": "2026-10-27T20:30:00.000Z",
-      "history_published_at": "2026-10-28T17:30:01.332Z"
+      "to": "2026-10-28T20:30:00.000Z",
+      "history_published_at": "2026-10-29T13:30:01.395Z"
     },
     {
       "symbol": "BTC_USD",
@@ -755,11 +755,11 @@
       "category": "crypto",
       "file": "history/BTC_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BTC_USD.json",
-      "records": 5780,
+      "records": 5781,
       "currency": "USD",
       "from": "2010-12-31T20:30:00.000Z",
-      "to": "2026-10-27T20:30:00.000Z",
-      "history_published_at": "2026-10-28T17:30:01.332Z"
+      "to": "2026-10-28T20:30:00.000Z",
+      "history_published_at": "2026-10-29T13:30:01.395Z"
     },
     {
       "symbol": "ETH_USD",
@@ -768,11 +768,11 @@
       "category": "crypto",
       "file": "history/ETH_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/ETH_USD.json",
-      "records": 4100,
+      "records": 4101,
       "currency": "USD",
       "from": "2015-08-06T19:30:00.000Z",
-      "to": "2026-10-27T20:30:00.000Z",
-      "history_published_at": "2026-10-28T17:30:01.332Z"
+      "to": "2026-10-28T20:30:00.000Z",
+      "history_published_at": "2026-10-29T13:30:01.395Z"
     },
     {
       "symbol": "DOGE_USD",
@@ -781,11 +781,11 @@
       "category": "crypto",
       "file": "history/DOGE_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DOGE_USD.json",
-      "records": 4701,
+      "records": 4702,
       "currency": "USD",
       "from": "2013-12-14T20:30:00.000Z",
-      "to": "2026-10-27T20:30:00.000Z",
-      "history_published_at": "2026-10-28T17:30:01.332Z"
+      "to": "2026-10-28T20:30:00.000Z",
+      "history_published_at": "2026-10-29T13:30:01.395Z"
     },
     {
       "symbol": "SOL_USD",
