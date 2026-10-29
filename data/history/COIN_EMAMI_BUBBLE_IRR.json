@@ -26625,19 +26625,34 @@
     {
       "t": "2026-10-27T20:30:00.000Z",
       "t_tehran": "2026-10-28T00:00:00+03:30",
-      "open": 11663000,
-      "high": 11663000,
-      "low": 9561000,
-      "close": 11245000,
+      "open": 9598000,
+      "high": 11126000,
+      "low": 9598000,
+      "close": 11126000,
       "volume": null,
-      "ticks": 1425,
+      "ticks": 1511,
+      "origin": "source",
+      "quality": [
+        "ohlc_repaired"
+      ],
+      "date_jalali": "1405/08/06"
+    },
+    {
+      "t": "2026-10-28T20:30:00.000Z",
+      "t_tehran": "2026-10-29T00:00:00+03:30",
+      "open": 8997000,
+      "high": 11579000,
+      "low": 8802000,
+      "close": 9829000,
+      "volume": null,
+      "ticks": 512,
       "origin": "derived",
       "quality": [
         "spike",
         "out_of_order",
         "ohlc_inconsistent"
       ],
-      "date_jalali": "1405/08/06"
+      "date_jalali": "1405/08/07"
     }
   ],
   "meta": {
@@ -26645,9 +26660,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 2019,
+    "count": 2020,
     "next_cursor": null,
-    "published_at": "2026-10-28T16:00:01.438Z",
+    "published_at": "2026-10-29T12:00:01.357Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_EMAMI_BUBBLE_IRR.json",
     "currency": "IRT"
