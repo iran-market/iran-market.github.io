@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-29T06:00:01.260Z",
+    "published_at": "2026-10-29T06:30:01.404Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -122,7 +122,7 @@
       "currency": "IRT",
       "from": "2014-07-20T19:30:00.000Z",
       "to": "2026-10-27T20:30:00.000Z",
-      "history_published_at": "2026-10-28T10:30:01.328Z"
+      "history_published_at": "2026-10-29T06:30:01.404Z"
     },
     {
       "symbol": "IQD_IRR_FREE",
@@ -135,7 +135,7 @@
       "currency": "IRT",
       "from": "2014-07-22T19:30:00.000Z",
       "to": "2026-10-27T20:30:00.000Z",
-      "history_published_at": "2026-10-28T10:30:01.328Z"
+      "history_published_at": "2026-10-29T06:30:01.404Z"
     },
     {
       "symbol": "AUD_IRR_FREE",
@@ -148,7 +148,7 @@
       "currency": "IRT",
       "from": "2014-07-20T19:30:00.000Z",
       "to": "2026-10-27T20:30:00.000Z",
-      "history_published_at": "2026-10-28T10:30:01.328Z"
+      "history_published_at": "2026-10-29T06:30:01.404Z"
     },
     {
       "symbol": "SGD_IRR_FREE",
@@ -161,7 +161,7 @@
       "currency": "IRT",
       "from": "2014-07-20T19:30:00.000Z",
       "to": "2026-10-27T20:30:00.000Z",
-      "history_published_at": "2026-10-28T10:30:01.328Z"
+      "history_published_at": "2026-10-29T06:30:01.404Z"
     },
     {
       "symbol": "NZD_IRR_FREE",
