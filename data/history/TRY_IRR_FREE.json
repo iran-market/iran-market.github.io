@@ -41504,9 +41504,9 @@
       "open": 5420,
       "high": 5450,
       "low": 5410,
-      "close": 5410,
+      "close": 5420,
       "volume": null,
-      "ticks": 57,
+      "ticks": 131,
       "origin": "derived",
       "quality": [
         "out_of_order"
@@ -41521,7 +41521,7 @@
     "unit": "toman",
     "count": 3187,
     "next_cursor": null,
-    "published_at": "2026-10-28T10:00:01.512Z",
+    "published_at": "2026-10-29T06:00:01.260Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/TRY_IRR_FREE.json",
     "currency": "IRT"
