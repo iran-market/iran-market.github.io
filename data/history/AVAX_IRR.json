@@ -20,15 +20,30 @@
       "t_tehran": "2026-10-29T00:00:00+03:30",
       "open": 2431641,
       "high": 2476660,
-      "low": 2417935,
-      "close": 2428425,
+      "low": 2320033,
+      "close": 2368470,
       "volume": null,
-      "ticks": 26,
+      "ticks": 245,
       "origin": "derived",
       "quality": [
         "timestamp_estimated"
       ],
       "date_jalali": "1405/08/07"
+    },
+    {
+      "t": "2026-10-29T20:30:00.000Z",
+      "t_tehran": "2026-10-30T00:00:00+03:30",
+      "open": 2368470,
+      "high": 2368470,
+      "low": 2254896,
+      "close": 2274267,
+      "volume": null,
+      "ticks": 20,
+      "origin": "derived",
+      "quality": [
+        "timestamp_estimated"
+      ],
+      "date_jalali": "1405/08/08"
     }
   ],
   "meta": {
@@ -36,9 +51,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 2,
+    "count": 3,
     "next_cursor": null,
-    "published_at": "2026-10-29T01:00:01.384Z",
+    "published_at": "2026-10-29T21:00:01.391Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/AVAX_IRR.json",
     "currency": "IRT"
