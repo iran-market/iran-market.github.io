@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-30T12:00:01.391Z",
+    "published_at": "2026-10-30T13:00:01.684Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -1279,7 +1279,7 @@
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
       "to": "2026-10-15T20:30:00.000Z",
-      "history_published_at": "2026-10-29T16:30:01.395Z"
+      "history_published_at": "2026-10-30T13:00:01.684Z"
     },
     {
       "symbol": "COMMODITY_CORN",
@@ -1292,7 +1292,7 @@
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
       "to": "2026-10-16T20:30:00.000Z",
-      "history_published_at": "2026-10-29T16:30:01.395Z"
+      "history_published_at": "2026-10-30T13:00:01.684Z"
     },
     {
       "symbol": "COMMODITY_LONDON_WHEAT",
@@ -1305,7 +1305,7 @@
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
       "to": "2026-10-15T20:30:00.000Z",
-      "history_published_at": "2026-10-29T16:30:01.395Z"
+      "history_published_at": "2026-10-30T13:00:01.684Z"
     },
     {
       "symbol": "COMMODITY_US_WHEAT",
@@ -1318,7 +1318,7 @@
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
       "to": "2026-10-16T20:30:00.000Z",
-      "history_published_at": "2026-10-29T16:30:01.395Z"
+      "history_published_at": "2026-10-30T13:00:01.684Z"
     },
     {
       "symbol": "COMMODITY_ROUGH_RICE",
