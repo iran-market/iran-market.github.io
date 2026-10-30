@@ -66667,27 +66667,25 @@
     {
       "t": "2026-10-28T20:30:00.000Z",
       "t_tehran": "2026-10-29T00:00:00+03:30",
-      "open": 1.1177,
+      "open": 1.1137,
       "high": 1.1177,
       "low": 1.1109,
       "close": 1.1177,
       "volume": null,
       "ticks": 242,
-      "origin": "derived",
-      "quality": [
-        "out_of_order"
-      ],
+      "origin": "source",
+      "quality": [],
       "date_jalali": "1405/08/07"
     },
     {
       "t": "2026-10-29T20:30:00.000Z",
       "t_tehran": "2026-10-30T00:00:00+03:30",
       "open": 1.1178,
-      "high": 1.1187,
-      "low": 1.1169,
-      "close": 1.1186,
+      "high": 1.1213,
+      "low": 1.1136,
+      "close": 1.1162,
       "volume": null,
-      "ticks": 35,
+      "ticks": 472,
       "origin": "derived",
       "quality": [
         "out_of_order"
@@ -66702,7 +66700,7 @@
     "unit": "toman",
     "count": 5130,
     "next_cursor": null,
-    "published_at": "2026-10-29T22:30:01.398Z",
+    "published_at": "2026-10-30T18:30:01.504Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DIFF_EUR_USD.json",
     "currency": "POINTS"
