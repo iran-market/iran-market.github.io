@@ -60571,11 +60571,11 @@
       "t": "2026-10-29T20:30:00.000Z",
       "t_tehran": "2026-10-30T00:00:00+03:30",
       "open": 0.7031,
-      "high": 0.7031,
-      "low": 0.7019,
-      "close": 0.7019,
+      "high": 0.7042,
+      "low": 0.7015,
+      "close": 0.7027,
       "volume": null,
-      "ticks": 55,
+      "ticks": 459,
       "origin": "derived",
       "quality": [
         "out_of_order"
@@ -60590,7 +60590,7 @@
     "unit": "toman",
     "count": 4660,
     "next_cursor": null,
-    "published_at": "2026-10-29T23:00:01.321Z",
+    "published_at": "2026-10-30T19:00:01.346Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DIFF_AUD_USD.json",
     "currency": "POINTS"
