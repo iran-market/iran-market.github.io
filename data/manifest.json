@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-30T21:30:01.382Z",
+  "generated_at": "2026-10-30T22:00:01.286Z",
   "update_frequency_minutes": 30,
-  "source": "TGJU, Nobitex, Bitpin, Wallex",
+  "source": "TGJU, Nobitex, Wallex, Bitpin",
   "license_note": "Market data belongs to its original providers; verify before financial use.",
   "files": [
     {
