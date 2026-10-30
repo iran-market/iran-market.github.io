@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-30T00:30:01.307Z",
+  "generated_at": "2026-10-30T01:00:01.346Z",
   "update_frequency_minutes": 30,
   "source": "TGJU, Nobitex, Bitpin",
   "license_note": "Market data belongs to its original providers; verify before financial use.",
@@ -44,28 +44,28 @@
       "path": "history/USD_IRR_FREE.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/USD_IRR_FREE.json",
       "description": "Daily OHLC history for USD_IRR_FREE",
-      "records": 3989,
+      "records": 3990,
       "unit": "IRT"
     },
     {
       "path": "history/EUR_IRR_FREE.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/EUR_IRR_FREE.json",
       "description": "Daily OHLC history for EUR_IRR_FREE",
-      "records": 3757,
+      "records": 3758,
       "unit": "IRT"
     },
     {
       "path": "history/GBP_IRR_FREE.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/GBP_IRR_FREE.json",
       "description": "Daily OHLC history for GBP_IRR_FREE",
-      "records": 3752,
+      "records": 3753,
       "unit": "IRT"
     },
     {
       "path": "history/AED_IRR_FREE.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/AED_IRR_FREE.json",
       "description": "Daily OHLC history for AED_IRR_FREE",
-      "records": 3687,
+      "records": 3688,
       "unit": "IRT"
     },
     {
