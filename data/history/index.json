@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-10-31T06:00:01.343Z",
+    "published_at": "2026-10-31T06:30:01.493Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -794,11 +794,11 @@
       "category": "crypto",
       "file": "history/SOL_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/SOL_USD.json",
-      "records": 2394,
+      "records": 2395,
       "currency": "USD",
       "from": "2020-04-09T19:30:00.000Z",
-      "to": "2026-10-29T20:30:00.000Z",
-      "history_published_at": "2026-10-30T10:30:01.606Z"
+      "to": "2026-10-30T20:30:00.000Z",
+      "history_published_at": "2026-10-31T06:30:01.493Z"
     },
     {
       "symbol": "XRP_USD",
@@ -807,11 +807,11 @@
       "category": "crypto",
       "file": "history/XRP_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/XRP_USD.json",
-      "records": 4835,
+      "records": 4836,
       "currency": "USD",
       "from": "2013-08-03T19:30:00.000Z",
-      "to": "2026-10-29T20:30:00.000Z",
-      "history_published_at": "2026-10-30T10:30:01.606Z"
+      "to": "2026-10-30T20:30:00.000Z",
+      "history_published_at": "2026-10-31T06:30:01.493Z"
     },
     {
       "symbol": "BNB_USD",
@@ -820,11 +820,11 @@
       "category": "crypto",
       "file": "history/BNB_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BNB_USD.json",
-      "records": 3384,
+      "records": 3385,
       "currency": "USD",
       "from": "2017-07-24T19:30:00.000Z",
-      "to": "2026-10-29T20:30:00.000Z",
-      "history_published_at": "2026-10-30T10:30:01.606Z"
+      "to": "2026-10-30T20:30:00.000Z",
+      "history_published_at": "2026-10-31T06:30:01.493Z"
     },
     {
       "symbol": "ADA_USD",
@@ -833,11 +833,11 @@
       "category": "crypto",
       "file": "history/ADA_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/ADA_USD.json",
-      "records": 3316,
+      "records": 3317,
       "currency": "USD",
       "from": "2017-09-30T20:30:00.000Z",
-      "to": "2026-10-29T20:30:00.000Z",
-      "history_published_at": "2026-10-30T10:30:01.606Z"
+      "to": "2026-10-30T20:30:00.000Z",
+      "history_published_at": "2026-10-31T06:30:01.493Z"
     },
     {
       "symbol": "TRX_USD",
