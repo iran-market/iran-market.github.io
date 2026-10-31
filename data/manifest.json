@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-31T17:30:01.437Z",
+  "generated_at": "2026-10-31T18:00:01.366Z",
   "update_frequency_minutes": 30,
   "source": "TGJU, Nobitex, Bitpin, Wallex",
   "license_note": "Market data belongs to its original providers; verify before financial use.",
@@ -72,28 +72,28 @@
       "path": "history/TRY_IRR_FREE.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/TRY_IRR_FREE.json",
       "description": "Daily OHLC history for TRY_IRR_FREE",
-      "records": 3188,
+      "records": 3189,
       "unit": "IRT"
     },
     {
       "path": "history/CAD_IRR_FREE.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/CAD_IRR_FREE.json",
       "description": "Daily OHLC history for CAD_IRR_FREE",
-      "records": 3250,
+      "records": 3251,
       "unit": "IRT"
     },
     {
       "path": "history/CHF_IRR_FREE.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/CHF_IRR_FREE.json",
       "description": "Daily OHLC history for CHF_IRR_FREE",
-      "records": 3238,
+      "records": 3239,
       "unit": "IRT"
     },
     {
       "path": "history/CNY_IRR_FREE.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/CNY_IRR_FREE.json",
       "description": "Daily OHLC history for CNY_IRR_FREE",
-      "records": 3213,
+      "records": 3214,
       "unit": "IRT"
     },
     {
