@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-31T14:00:01.331Z",
+  "generated_at": "2026-10-31T14:30:01.344Z",
   "update_frequency_minutes": 30,
   "source": "TGJU, Nobitex, Bitpin, Wallex",
   "license_note": "Market data belongs to its original providers; verify before financial use.",
@@ -891,21 +891,21 @@
       "path": "history/BASE_US_STEEL_COIL.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BASE_US_STEEL_COIL.json",
       "description": "Daily OHLC history for BASE_US_STEEL_COIL",
-      "records": 3494,
+      "records": 3495,
       "unit": "USD"
     },
     {
       "path": "history/DIFF_EUR_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DIFF_EUR_USD.json",
       "description": "Daily OHLC history for DIFF_EUR_USD",
-      "records": 5130,
+      "records": 5131,
       "unit": "POINTS"
     },
     {
       "path": "history/DIFF_GBP_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DIFF_GBP_USD.json",
       "description": "Daily OHLC history for DIFF_GBP_USD",
-      "records": 5069,
+      "records": 5070,
       "unit": "POINTS"
     },
     {
