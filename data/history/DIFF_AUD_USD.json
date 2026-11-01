@@ -60588,8 +60588,8 @@
       "low": 0.7029,
       "close": 0.7029,
       "volume": null,
-      "ticks": 12,
-      "origin": "derived",
+      "ticks": 14,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/09"
     }
@@ -60601,7 +60601,7 @@
     "unit": "toman",
     "count": 4661,
     "next_cursor": null,
-    "published_at": "2026-10-31T15:00:01.559Z",
+    "published_at": "2026-11-01T11:00:01.463Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DIFF_AUD_USD.json",
     "currency": "POINTS"
