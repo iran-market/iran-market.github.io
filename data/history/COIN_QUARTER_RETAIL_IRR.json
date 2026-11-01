@@ -30205,17 +30205,30 @@
     {
       "t": "2026-10-30T20:30:00.000Z",
       "t_tehran": "2026-10-31T00:00:00+03:30",
-      "open": 74110000,
+      "open": 75400000,
       "high": 75680000,
       "low": 73570000,
       "close": 74110000,
       "volume": null,
       "ticks": 216,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/09"
+    },
+    {
+      "t": "2026-10-31T20:30:00.000Z",
+      "t_tehran": "2026-11-01T00:00:00+03:30",
+      "open": 74880000,
+      "high": 75270000,
+      "low": 74520000,
+      "close": 74680000,
+      "volume": null,
+      "ticks": 78,
       "origin": "derived",
       "quality": [
         "out_of_order"
       ],
-      "date_jalali": "1405/08/09"
+      "date_jalali": "1405/08/10"
     }
   ],
   "meta": {
@@ -30223,9 +30236,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 2319,
+    "count": 2320,
     "next_cursor": null,
-    "published_at": "2026-10-31T23:30:01.522Z",
+    "published_at": "2026-11-01T19:30:01.361Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_QUARTER_RETAIL_IRR.json",
     "currency": "IRT"
