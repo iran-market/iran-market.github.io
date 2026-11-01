@@ -291,11 +291,13 @@ console.log(history.meta.currency, history.data.at(-1));
       <li><code>tgju</code>: منبع اصلی ارز، طلا، سکه، کالا و بازارهای جهانی، و تنها منبع فایل‌های تاریخچه.</li>
       <li><code>nobitex</code> و <code>wallex</code>: منبع اصلی رمزارزهای ریالی، مثل تتر و بیت‌کوین به تومان.</li>
       <li><code>bitpin</code>: پشتیبان رمزارزها.</li>
-      <li><code>alanchand</code>: پشتیبان ارز، طلا و سکه.</li>
+      <li><code>bonbast</code>: پشتیبان ارز، طلا و سکه.</li>
+      <li><code>alanchand</code>: پشتیبان ارز، طلا، سکه و رمزارز.</li>
       <li><code>talair</code> (tala.ir): پشتیبان طلا و سکه.</li>
     </ul>
   </li>
   <li>اگر منبع اصلی یک قلم قطع شود یا قیمتش به‌روز نشود، همان قلم خودکار از منبع بعدی منتشر می‌شود و فقط مقدار <code>source</code> آن عوض می‌شود؛ نام و نوع همه فیلدها در همه حالت‌ها ثابت می‌ماند.</li>
+  <li>میزبان <code>bonbast</code> و <code>alanchand</code> بیرون از ایران است. اگر دسترسی به منابع داخل ایران قطع شود، مثلاً در قطعی اینترنت بین‌الملل، قلم‌هایی که این دو منبع دارند تا وقتی قیمتشان به‌روز می‌شود از آن‌ها منتشر می‌شوند.</li>
   <li><code>meta.source</code> (و <code>source</code> در <code>manifest.json</code>) فهرست منابعی است که قلم‌های همان فایل از آن‌ها آمده‌اند، به ترتیب تعداد قلم؛ مثلاً <code>TGJU, Nobitex, Wallex</code>. وقتی همهٔ قلم‌ها از TGJU باشند، همان <code>TGJU</code> است. در فایل‌های تاریخچه و <code>symbols.json</code> همیشه <code>TGJU</code> است.</li>
   <li>این مخزن static data API است؛ پارامتر جست‌وجو، API key، حساب کاربری و rate-limit اختصاصی ندارد.</li>
   <li>برای JSON از Raw GitHub (پیشنهادی، cache حدود ۵ دقیقه) یا jsDelivr (جایگزین، cache حدود ۱۲ ساعت) استفاده کنید؛ GitHub Pages فقط میزبان رابط و مستندات وب است.</li>
