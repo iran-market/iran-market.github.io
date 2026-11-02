@@ -29030,17 +29030,30 @@
     {
       "t": "2026-10-31T20:30:00.000Z",
       "t_tehran": "2026-11-01T00:00:00+03:30",
-      "open": 110644000,
+      "open": 110637000,
       "high": 111055000,
-      "low": 110039000,
+      "low": 110035000,
       "close": 110342000,
       "volume": null,
-      "ticks": 1468,
+      "ticks": 1470,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/10"
+    },
+    {
+      "t": "2026-11-01T20:30:00.000Z",
+      "t_tehran": "2026-11-02T00:00:00+03:30",
+      "open": 111688000,
+      "high": 111845000,
+      "low": 111135000,
+      "close": 111495000,
+      "volume": null,
+      "ticks": 1438,
       "origin": "derived",
       "quality": [
         "out_of_order"
       ],
-      "date_jalali": "1405/08/10"
+      "date_jalali": "1405/08/11"
     }
   ],
   "meta": {
@@ -29048,9 +29061,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 2229,
+    "count": 2230,
     "next_cursor": null,
-    "published_at": "2026-11-01T20:30:01.381Z",
+    "published_at": "2026-11-02T16:30:01.354Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/GOLD_FUTURES.json",
     "currency": "IRT"
