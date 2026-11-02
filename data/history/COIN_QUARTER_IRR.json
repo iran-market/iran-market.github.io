@@ -44953,12 +44953,25 @@
       "low": 74220000,
       "close": 74380000,
       "volume": null,
-      "ticks": 74,
+      "ticks": 76,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/10"
+    },
+    {
+      "t": "2026-11-01T20:30:00.000Z",
+      "t_tehran": "2026-11-02T00:00:00+03:30",
+      "open": 75530000,
+      "high": 75990000,
+      "low": 75390000,
+      "close": 75760000,
+      "volume": null,
+      "ticks": 43,
       "origin": "derived",
       "quality": [
         "out_of_order"
       ],
-      "date_jalali": "1405/08/10"
+      "date_jalali": "1405/08/11"
     }
   ],
   "meta": {
@@ -44966,9 +44979,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 3452,
+    "count": 3453,
     "next_cursor": null,
-    "published_at": "2026-11-01T18:30:01.311Z",
+    "published_at": "2026-11-02T14:30:01.454Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_QUARTER_IRR.json",
     "currency": "IRT"
