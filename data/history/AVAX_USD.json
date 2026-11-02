@@ -29012,14 +29012,27 @@
       "open": 8.58,
       "high": 9,
       "low": 8.53,
-      "close": 8.88,
+      "close": 8.66,
       "volume": null,
-      "ticks": 175,
+      "ticks": 332,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/10"
+    },
+    {
+      "t": "2026-11-01T20:30:00.000Z",
+      "t_tehran": "2026-11-02T00:00:00+03:30",
+      "open": 8.67,
+      "high": 8.73,
+      "low": 8.59,
+      "close": 8.7,
+      "volume": null,
+      "ticks": 325,
       "origin": "derived",
       "quality": [
         "out_of_order"
       ],
-      "date_jalali": "1405/08/10"
+      "date_jalali": "1405/08/11"
     }
   ],
   "meta": {
@@ -29027,9 +29040,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 2231,
+    "count": 2232,
     "next_cursor": null,
-    "published_at": "2026-11-01T08:00:01.406Z",
+    "published_at": "2026-11-02T04:00:01.537Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/AVAX_USD.json",
     "currency": "USD"
