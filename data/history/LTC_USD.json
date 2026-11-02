@@ -64159,11 +64159,11 @@
       "t": "2026-11-01T20:30:00.000Z",
       "t_tehran": "2026-11-02T00:00:00+03:30",
       "open": 55.2,
-      "high": 55.6,
-      "low": 55.14,
-      "close": 55.21,
+      "high": 56.15,
+      "low": 53.86,
+      "close": 53.94,
       "volume": null,
-      "ticks": 152,
+      "ticks": 1024,
       "origin": "derived",
       "quality": [
         "out_of_order"
@@ -64178,7 +64178,7 @@
     "unit": "toman",
     "count": 4936,
     "next_cursor": null,
-    "published_at": "2026-11-01T23:00:01.521Z",
+    "published_at": "2026-11-02T19:00:01.462Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/LTC_USD.json",
     "currency": "USD"

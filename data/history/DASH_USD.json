@@ -60363,11 +60363,11 @@
       "t": "2026-11-01T20:30:00.000Z",
       "t_tehran": "2026-11-02T00:00:00+03:30",
       "open": 47.57,
-      "high": 48.04,
-      "low": 47.57,
-      "close": 47.88,
+      "high": 48.78,
+      "low": 46.17,
+      "close": 46.28,
       "volume": null,
-      "ticks": 144,
+      "ticks": 1028,
       "origin": "derived",
       "quality": [
         "out_of_order"
@@ -60382,7 +60382,7 @@
     "unit": "toman",
     "count": 4644,
     "next_cursor": null,
-    "published_at": "2026-11-01T23:00:01.521Z",
+    "published_at": "2026-11-02T19:00:01.462Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DASH_USD.json",
     "currency": "USD"
