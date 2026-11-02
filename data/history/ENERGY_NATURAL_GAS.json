@@ -54090,11 +54090,11 @@
       "t": "2026-11-01T20:30:00.000Z",
       "t_tehran": "2026-11-02T00:00:00+03:30",
       "open": 2.8771,
-      "high": 2.898,
+      "high": 2.973,
       "low": 2.8501,
-      "close": 2.898,
+      "close": 2.857,
       "volume": null,
-      "ticks": 52,
+      "ticks": 1107,
       "origin": "derived",
       "quality": [
         "out_of_order"
@@ -54109,7 +54109,7 @@
     "unit": "toman",
     "count": 4161,
     "next_cursor": null,
-    "published_at": "2026-11-01T23:30:01.528Z",
+    "published_at": "2026-11-02T19:30:01.290Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/ENERGY_NATURAL_GAS.json",
     "currency": "USD"
