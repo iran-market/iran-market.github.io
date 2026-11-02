@@ -26263,18 +26263,32 @@
     {
       "t": "2026-10-31T20:30:00.000Z",
       "t_tehran": "2026-11-01T00:00:00+03:30",
-      "open": 3921000,
-      "high": 4292000,
-      "low": 3083000,
+      "open": 1628000,
+      "high": 4293000,
+      "low": 1628000,
       "close": 4215000,
       "volume": null,
-      "ticks": 1464,
+      "ticks": 1466,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/10"
+    },
+    {
+      "t": "2026-11-01T20:30:00.000Z",
+      "t_tehran": "2026-11-02T00:00:00+03:30",
+      "open": 1650000,
+      "high": 3267000,
+      "low": 1000,
+      "close": 121000,
+      "volume": null,
+      "ticks": 1358,
       "origin": "derived",
       "quality": [
         "spike",
-        "out_of_order"
+        "out_of_order",
+        "ohlc_inconsistent"
       ],
-      "date_jalali": "1405/08/10"
+      "date_jalali": "1405/08/11"
     }
   ],
   "meta": {
@@ -26282,9 +26296,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 1993,
+    "count": 1994,
     "next_cursor": null,
-    "published_at": "2026-11-01T20:00:01.405Z",
+    "published_at": "2026-11-02T16:00:01.306Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_BAHAR_BUBBLE_IRR.json",
     "currency": "IRT"
