@@ -43564,17 +43564,30 @@
     {
       "t": "2026-10-31T20:30:00.000Z",
       "t_tehran": "2026-11-01T00:00:00+03:30",
-      "open": 153260,
+      "open": 153270,
       "high": 153570,
-      "low": 153090,
-      "close": 153090,
+      "low": 152980,
+      "close": 153000,
       "volume": null,
-      "ticks": 1210,
+      "ticks": 1441,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/10"
+    },
+    {
+      "t": "2026-11-01T20:30:00.000Z",
+      "t_tehran": "2026-11-02T00:00:00+03:30",
+      "open": 153760,
+      "high": 154370,
+      "low": 153470,
+      "close": 153600,
+      "volume": null,
+      "ticks": 555,
       "origin": "derived",
       "quality": [
         "out_of_order"
       ],
-      "date_jalali": "1405/08/10"
+      "date_jalali": "1405/08/11"
     }
   ],
   "meta": {
@@ -43582,9 +43595,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 3346,
+    "count": 3347,
     "next_cursor": null,
-    "published_at": "2026-11-01T15:00:01.313Z",
+    "published_at": "2026-11-02T11:00:01.434Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/NZD_IRR_FREE.json",
     "currency": "IRT"
