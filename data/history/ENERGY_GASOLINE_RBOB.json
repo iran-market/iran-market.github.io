@@ -53517,14 +53517,27 @@
       "open": 3.1144,
       "high": 3.1565,
       "low": 2.8809,
-      "close": 2.9,
+      "close": 2.901,
       "volume": null,
-      "ticks": 1315,
+      "ticks": 1403,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/11"
+    },
+    {
+      "t": "2026-11-02T20:30:00.000Z",
+      "t_tehran": "2026-11-03T00:00:00+03:30",
+      "open": 2.9034,
+      "high": 2.9822,
+      "low": 2.8673,
+      "close": 2.9372,
+      "volume": null,
+      "ticks": 1135,
       "origin": "derived",
       "quality": [
         "out_of_order"
       ],
-      "date_jalali": "1405/08/11"
+      "date_jalali": "1405/08/12"
     }
   ],
   "meta": {
@@ -53532,9 +53545,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 4112,
+    "count": 4113,
     "next_cursor": null,
-    "published_at": "2026-11-02T19:30:01.290Z",
+    "published_at": "2026-11-03T15:30:01.323Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/ENERGY_GASOLINE_RBOB.json",
     "currency": "USD"
