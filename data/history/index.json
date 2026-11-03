@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-11-03T18:30:01.349Z",
+    "published_at": "2026-11-03T19:00:01.386Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -902,7 +902,7 @@
       "currency": "USD",
       "from": "2014-08-04T19:30:00.000Z",
       "to": "2026-11-02T20:30:00.000Z",
-      "history_published_at": "2026-11-02T23:00:01.287Z"
+      "history_published_at": "2026-11-03T19:00:01.386Z"
     },
     {
       "symbol": "USDT_USD",
@@ -915,7 +915,7 @@
       "currency": "USD",
       "from": "2015-02-24T20:30:00.000Z",
       "to": "2026-11-02T20:30:00.000Z",
-      "history_published_at": "2026-11-02T23:00:01.287Z"
+      "history_published_at": "2026-11-03T19:00:01.386Z"
     },
     {
       "symbol": "ETC_USD",
@@ -928,7 +928,7 @@
       "currency": "USD",
       "from": "2016-07-23T19:30:00.000Z",
       "to": "2026-11-02T20:30:00.000Z",
-      "history_published_at": "2026-11-02T23:00:01.287Z"
+      "history_published_at": "2026-11-03T19:00:01.386Z"
     },
     {
       "symbol": "BCH_USD",
@@ -941,7 +941,7 @@
       "currency": "USD",
       "from": "2017-07-22T19:30:00.000Z",
       "to": "2026-11-02T20:30:00.000Z",
-      "history_published_at": "2026-11-02T23:00:01.287Z"
+      "history_published_at": "2026-11-03T19:00:01.386Z"
     },
     {
       "symbol": "LINK_USD",
