@@ -43371,17 +43371,30 @@
     {
       "t": "2026-11-01T20:30:00.000Z",
       "t_tehran": "2026-11-02T00:00:00+03:30",
-      "open": 0.31284504,
-      "high": 0.31958435,
-      "low": 0.31270888,
-      "close": 0.31756028,
+      "open": 0.3128,
+      "high": 0.3196,
+      "low": 0.3127,
+      "close": 0.3179,
       "volume": null,
-      "ticks": 1196,
+      "ticks": 1310,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/11"
+    },
+    {
+      "t": "2026-11-02T20:30:00.000Z",
+      "t_tehran": "2026-11-03T00:00:00+03:30",
+      "open": 0.31785697,
+      "high": 0.32340323,
+      "low": 0.31785697,
+      "close": 0.32259655,
+      "volume": null,
+      "ticks": 878,
       "origin": "derived",
       "quality": [
         "out_of_order"
       ],
-      "date_jalali": "1405/08/11"
+      "date_jalali": "1405/08/12"
     }
   ],
   "meta": {
@@ -43389,9 +43402,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 3337,
+    "count": 3338,
     "next_cursor": null,
-    "published_at": "2026-11-02T19:00:01.462Z",
+    "published_at": "2026-11-03T15:00:01.379Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/TRX_USD.json",
     "currency": "USD"
