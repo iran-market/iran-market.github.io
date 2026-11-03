@@ -43283,11 +43283,11 @@
       "t": "2026-11-02T20:30:00.000Z",
       "t_tehran": "2026-11-03T00:00:00+03:30",
       "open": 11.11,
-      "high": 11.14,
+      "high": 11.27,
       "low": 11.03,
-      "close": 11.14,
+      "close": 11.08,
       "volume": null,
-      "ticks": 140,
+      "ticks": 556,
       "origin": "derived",
       "quality": [
         "out_of_order"
@@ -43302,7 +43302,7 @@
     "unit": "toman",
     "count": 3330,
     "next_cursor": null,
-    "published_at": "2026-11-02T23:30:01.235Z",
+    "published_at": "2026-11-03T19:30:01.249Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/LINK_USD.json",
     "currency": "USD"

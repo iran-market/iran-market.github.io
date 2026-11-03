@@ -34241,11 +34241,11 @@
       "t": "2026-11-02T20:30:00.000Z",
       "t_tehran": "2026-11-03T00:00:00+03:30",
       "open": 1e-8,
-      "high": 0.00000459,
+      "high": 0.00000465,
       "low": 1e-8,
-      "close": 0.00000458,
+      "close": 0.00000462,
       "volume": null,
-      "ticks": 121,
+      "ticks": 491,
       "origin": "derived",
       "quality": [
         "spike",
@@ -34261,7 +34261,7 @@
     "unit": "toman",
     "count": 2286,
     "next_cursor": null,
-    "published_at": "2026-11-02T23:30:01.235Z",
+    "published_at": "2026-11-03T19:30:01.249Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/SHIB_USD.json",
     "currency": "USD"
