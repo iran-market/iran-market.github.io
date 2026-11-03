@@ -32682,17 +32682,30 @@
     {
       "t": "2026-11-01T20:30:00.000Z",
       "t_tehran": "2026-11-02T00:00:00+03:30",
-      "open": 112131000,
-      "high": 112254000,
-      "low": 111445000,
-      "close": 111871000,
+      "open": 110853000,
+      "high": 112255000,
+      "low": 110853000,
+      "close": 111868000,
       "volume": null,
-      "ticks": 1436,
+      "ticks": 1442,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/11"
+    },
+    {
+      "t": "2026-11-02T20:30:00.000Z",
+      "t_tehran": "2026-11-03T00:00:00+03:30",
+      "open": 110898000,
+      "high": 111305000,
+      "low": 110615000,
+      "close": 110851000,
+      "volume": null,
+      "ticks": 831,
       "origin": "derived",
       "quality": [
         "out_of_order"
       ],
-      "date_jalali": "1405/08/11"
+      "date_jalali": "1405/08/12"
     }
   ],
   "meta": {
@@ -32700,9 +32713,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 2510,
+    "count": 2511,
     "next_cursor": null,
-    "published_at": "2026-11-02T16:30:01.354Z",
+    "published_at": "2026-11-03T12:30:01.370Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/GOLD_MELTED_WHOLESALE.json",
     "currency": "IRT"
