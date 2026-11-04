@@ -60623,11 +60623,11 @@
       "t": "2026-11-03T20:30:00.000Z",
       "t_tehran": "2026-11-04T00:00:00+03:30",
       "open": 0.6963,
-      "high": 0.6968,
-      "low": 0.6959,
-      "close": 0.6964,
+      "high": 0.7021,
+      "low": 0.6955,
+      "close": 0.7007,
       "volume": null,
-      "ticks": 54,
+      "ticks": 666,
       "origin": "derived",
       "quality": [
         "out_of_order"
@@ -60642,7 +60642,7 @@
     "unit": "toman",
     "count": 4664,
     "next_cursor": null,
-    "published_at": "2026-11-03T23:00:01.318Z",
+    "published_at": "2026-11-04T19:00:01.381Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DIFF_AUD_USD.json",
     "currency": "POINTS"
