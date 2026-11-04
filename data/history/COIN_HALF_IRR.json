@@ -45211,11 +45211,11 @@
       "t_tehran": "2026-11-03T00:00:00+03:30",
       "open": 139310000,
       "high": 139500000,
-      "low": 139310000,
-      "close": 139440000,
+      "low": 138630000,
+      "close": 138630000,
       "volume": null,
-      "ticks": 15,
-      "origin": "derived",
+      "ticks": 36,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/12"
     }
@@ -45227,7 +45227,7 @@
     "unit": "toman",
     "count": 3469,
     "next_cursor": null,
-    "published_at": "2026-11-03T10:30:01.325Z",
+    "published_at": "2026-11-04T06:30:01.581Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_HALF_IRR.json",
     "currency": "IRT"
