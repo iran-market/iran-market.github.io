@@ -29817,8 +29817,8 @@
       "low": 37600000,
       "close": 37600000,
       "volume": null,
-      "ticks": 2,
-      "origin": "derived",
+      "ticks": 4,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/12"
     }
@@ -29830,7 +29830,7 @@
     "unit": "toman",
     "count": 2288,
     "next_cursor": null,
-    "published_at": "2026-11-03T11:30:01.335Z",
+    "published_at": "2026-11-04T07:30:01.602Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_GRAMI_RETAIL_IRR.json",
     "currency": "IRT"
