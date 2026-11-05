@@ -60388,17 +60388,30 @@
     {
       "t": "2026-11-03T20:30:00.000Z",
       "t_tehran": "2026-11-04T00:00:00+03:30",
-      "open": 45.97,
-      "high": 47.54,
+      "open": 45.94,
+      "high": 49.05,
       "low": 44.31,
-      "close": 47.47,
+      "close": 49.03,
       "volume": null,
-      "ticks": 528,
+      "ticks": 918,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/13"
+    },
+    {
+      "t": "2026-11-04T20:30:00.000Z",
+      "t_tehran": "2026-11-05T00:00:00+03:30",
+      "open": 49.08,
+      "high": 49.86,
+      "low": 48.26,
+      "close": 48.29,
+      "volume": null,
+      "ticks": 591,
       "origin": "derived",
       "quality": [
         "out_of_order"
       ],
-      "date_jalali": "1405/08/13"
+      "date_jalali": "1405/08/14"
     }
   ],
   "meta": {
@@ -60406,9 +60419,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 4646,
+    "count": 4647,
     "next_cursor": null,
-    "published_at": "2026-11-04T11:30:01.506Z",
+    "published_at": "2026-11-05T08:00:01.451Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DASH_USD.json",
     "currency": "USD"

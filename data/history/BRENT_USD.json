@@ -58868,17 +58868,33 @@
     {
       "t": "2026-11-03T20:30:00.000Z",
       "t_tehran": "2026-11-04T00:00:00+03:30",
-      "open": 104.408,
-      "high": 104.91,
-      "low": 101.525,
-      "close": 102.423,
+      "open": 104.456,
+      "high": 104.456,
+      "low": 95.163,
+      "close": 95.163,
       "volume": null,
-      "ticks": 808,
-      "origin": "derived",
+      "ticks": 1275,
+      "origin": "source",
       "quality": [
-        "out_of_order"
+        "ohlc_repaired"
       ],
       "date_jalali": "1405/08/13"
+    },
+    {
+      "t": "2026-11-04T20:30:00.000Z",
+      "t_tehran": "2026-11-05T00:00:00+03:30",
+      "open": 95.069,
+      "high": 95.206,
+      "low": 91.043,
+      "close": 95.114,
+      "volume": null,
+      "ticks": 795,
+      "origin": "derived",
+      "quality": [
+        "out_of_order",
+        "ohlc_inconsistent"
+      ],
+      "date_jalali": "1405/08/14"
     }
   ],
   "meta": {
@@ -58886,9 +58902,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 4525,
+    "count": 4526,
     "next_cursor": null,
-    "published_at": "2026-11-04T11:30:01.506Z",
+    "published_at": "2026-11-05T08:00:01.451Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BRENT_USD.json",
     "currency": "USD"
