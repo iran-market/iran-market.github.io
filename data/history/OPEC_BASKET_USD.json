@@ -33991,12 +33991,14 @@
       "t_tehran": "2026-11-05T00:00:00+03:30",
       "open": 103.53,
       "high": 103.53,
-      "low": 103.53,
-      "close": 103.53,
+      "low": 96.87,
+      "close": 96.87,
       "volume": null,
-      "ticks": 1,
-      "origin": "derived",
-      "quality": [],
+      "ticks": 8,
+      "origin": "source",
+      "quality": [
+        "ohlc_repaired"
+      ],
       "date_jalali": "1405/08/14"
     }
   ],
@@ -34007,7 +34009,7 @@
     "unit": "toman",
     "count": 2609,
     "next_cursor": null,
-    "published_at": "2026-11-05T08:30:01.384Z",
+    "published_at": "2026-11-06T04:30:01.312Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/OPEC_BASKET_USD.json",
     "currency": "USD"
