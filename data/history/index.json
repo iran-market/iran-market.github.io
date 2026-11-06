@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-11-06T19:00:01.444Z",
+    "published_at": "2026-11-06T19:30:01.369Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -538,7 +538,7 @@
       "currency": "IRT",
       "from": "2017-07-04T19:30:00.000Z",
       "to": "2026-11-04T20:30:00.000Z",
-      "history_published_at": "2026-11-05T23:30:01.338Z"
+      "history_published_at": "2026-11-06T19:30:01.369Z"
     },
     {
       "symbol": "COIN_HALF_RETAIL_IRR",
@@ -551,7 +551,7 @@
       "currency": "IRT",
       "from": "2017-07-04T19:30:00.000Z",
       "to": "2026-11-04T20:30:00.000Z",
-      "history_published_at": "2026-11-05T23:30:01.338Z"
+      "history_published_at": "2026-11-06T19:30:01.369Z"
     },
     {
       "symbol": "COIN_QUARTER_RETAIL_IRR",
@@ -564,7 +564,7 @@
       "currency": "IRT",
       "from": "2017-07-04T19:30:00.000Z",
       "to": "2026-11-04T20:30:00.000Z",
-      "history_published_at": "2026-11-05T23:30:01.338Z"
+      "history_published_at": "2026-11-06T19:30:01.369Z"
     },
     {
       "symbol": "COIN_GRAMI_RETAIL_IRR",
@@ -577,7 +577,7 @@
       "currency": "IRT",
       "from": "2017-07-04T19:30:00.000Z",
       "to": "2026-11-04T20:30:00.000Z",
-      "history_published_at": "2026-11-05T23:30:01.338Z"
+      "history_published_at": "2026-11-06T19:30:01.369Z"
     },
     {
       "symbol": "COIN_EMAMI_BUBBLE_IRR",
