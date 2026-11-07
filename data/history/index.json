@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-11-06T23:30:01.419Z",
+    "published_at": "2026-11-07T00:00:01.775Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -846,11 +846,11 @@
       "category": "crypto",
       "file": "history/TRX_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/TRX_USD.json",
-      "records": 3341,
+      "records": 3342,
       "currency": "USD",
       "from": "2017-09-12T19:30:00.000Z",
-      "to": "2026-11-05T20:30:00.000Z",
-      "history_published_at": "2026-11-06T04:00:01.350Z"
+      "to": "2026-11-06T20:30:00.000Z",
+      "history_published_at": "2026-11-07T00:00:01.775Z"
     },
     {
       "symbol": "LTC_USD",
@@ -859,11 +859,11 @@
       "category": "crypto",
       "file": "history/LTC_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/LTC_USD.json",
-      "records": 4940,
+      "records": 4941,
       "currency": "USD",
       "from": "2013-04-27T19:30:00.000Z",
-      "to": "2026-11-05T20:30:00.000Z",
-      "history_published_at": "2026-11-06T04:00:01.350Z"
+      "to": "2026-11-06T20:30:00.000Z",
+      "history_published_at": "2026-11-07T00:00:01.775Z"
     },
     {
       "symbol": "DASH_USD",
@@ -872,11 +872,11 @@
       "category": "crypto",
       "file": "history/DASH_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DASH_USD.json",
-      "records": 4648,
+      "records": 4649,
       "currency": "USD",
       "from": "2014-02-13T20:30:00.000Z",
-      "to": "2026-11-05T20:30:00.000Z",
-      "history_published_at": "2026-11-06T04:00:01.350Z"
+      "to": "2026-11-06T20:30:00.000Z",
+      "history_published_at": "2026-11-07T00:00:01.775Z"
     },
     {
       "symbol": "XMR_USD",
@@ -1158,11 +1158,11 @@
       "category": "energy",
       "file": "history/BRENT_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BRENT_USD.json",
-      "records": 4527,
+      "records": 4528,
       "currency": "USD",
       "from": "2011-01-01T20:30:00.000Z",
-      "to": "2026-11-05T20:30:00.000Z",
-      "history_published_at": "2026-11-06T04:00:01.350Z"
+      "to": "2026-11-06T20:30:00.000Z",
+      "history_published_at": "2026-11-07T00:00:01.775Z"
     },
     {
       "symbol": "OIL",
