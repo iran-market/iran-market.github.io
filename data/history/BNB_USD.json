@@ -44087,11 +44087,11 @@
       "t": "2026-11-06T20:30:00.000Z",
       "t_tehran": "2026-11-07T00:00:00+03:30",
       "open": 693.22,
-      "high": 695.19,
+      "high": 697.14,
       "low": 692.71,
-      "close": 693.61,
+      "close": 697.02,
       "volume": null,
-      "ticks": 96,
+      "ticks": 611,
       "origin": "derived",
       "quality": [
         "out_of_order"
@@ -44106,7 +44106,7 @@
     "unit": "toman",
     "count": 3392,
     "next_cursor": null,
-    "published_at": "2026-11-06T23:30:01.419Z",
+    "published_at": "2026-11-07T19:30:01.405Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BNB_USD.json",
     "currency": "USD"

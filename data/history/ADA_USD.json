@@ -43204,10 +43204,10 @@
       "t_tehran": "2026-11-07T00:00:00+03:30",
       "open": 0.18561567,
       "high": 0.18657364,
-      "low": 0.18465212,
-      "close": 0.18478277,
+      "low": 0.18156776,
+      "close": 0.18175906,
       "volume": null,
-      "ticks": 105,
+      "ticks": 667,
       "origin": "derived",
       "quality": [
         "out_of_order"
@@ -43222,7 +43222,7 @@
     "unit": "toman",
     "count": 3324,
     "next_cursor": null,
-    "published_at": "2026-11-06T23:30:01.419Z",
+    "published_at": "2026-11-07T19:30:01.405Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/ADA_USD.json",
     "currency": "USD"
