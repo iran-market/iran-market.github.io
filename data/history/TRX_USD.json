@@ -43437,11 +43437,11 @@
       "t": "2026-11-06T20:30:00.000Z",
       "t_tehran": "2026-11-07T00:00:00+03:30",
       "open": 0.31881222,
-      "high": 0.31886222,
-      "low": 0.31833111,
-      "close": 0.31833111,
+      "high": 0.32036552,
+      "low": 0.31738759,
+      "close": 0.32036552,
       "volume": null,
-      "ticks": 117,
+      "ticks": 685,
       "origin": "derived",
       "quality": [
         "out_of_order"
@@ -43456,7 +43456,7 @@
     "unit": "toman",
     "count": 3342,
     "next_cursor": null,
-    "published_at": "2026-11-07T00:00:01.775Z",
+    "published_at": "2026-11-07T20:00:01.283Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/TRX_USD.json",
     "currency": "USD"

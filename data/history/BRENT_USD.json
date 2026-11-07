@@ -58914,9 +58914,9 @@
       "open": 98.32,
       "high": 98.32,
       "low": 97.749,
-      "close": 97.76,
+      "close": 98.32,
       "volume": null,
-      "ticks": 80,
+      "ticks": 84,
       "origin": "derived",
       "quality": [
         "out_of_order",
@@ -58932,7 +58932,7 @@
     "unit": "toman",
     "count": 4528,
     "next_cursor": null,
-    "published_at": "2026-11-07T00:00:01.775Z",
+    "published_at": "2026-11-07T20:00:01.283Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BRENT_USD.json",
     "currency": "USD"
