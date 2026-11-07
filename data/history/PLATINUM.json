@@ -60698,14 +60698,27 @@
       "open": 1523.3,
       "high": 1550,
       "low": 1506.3,
-      "close": 1537.4,
+      "close": 1532.2,
       "volume": null,
-      "ticks": 1187,
+      "ticks": 1267,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/15"
+    },
+    {
+      "t": "2026-11-06T20:30:00.000Z",
+      "t_tehran": "2026-11-07T00:00:00+03:30",
+      "open": 1535.7,
+      "high": 1537,
+      "low": 1530.3,
+      "close": 1536.9,
+      "volume": null,
+      "ticks": 67,
       "origin": "derived",
       "quality": [
         "out_of_order"
       ],
-      "date_jalali": "1405/08/15"
+      "date_jalali": "1405/08/16"
     }
   ],
   "meta": {
@@ -60713,9 +60726,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 4663,
+    "count": 4664,
     "next_cursor": null,
-    "published_at": "2026-11-06T17:30:01.576Z",
+    "published_at": "2026-11-07T14:00:01.355Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/PLATINUM.json",
     "currency": "USD"
