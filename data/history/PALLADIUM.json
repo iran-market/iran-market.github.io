@@ -58124,11 +58124,9 @@
       "low": 1017,
       "close": 1017,
       "volume": null,
-      "ticks": 41,
-      "origin": "derived",
-      "quality": [
-        "out_of_order"
-      ],
+      "ticks": 45,
+      "origin": "source",
+      "quality": [],
       "date_jalali": "1405/08/16"
     }
   ],
@@ -58139,7 +58137,7 @@
     "unit": "toman",
     "count": 4397,
     "next_cursor": null,
-    "published_at": "2026-11-07T14:00:01.355Z",
+    "published_at": "2026-11-08T10:00:01.337Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/PALLADIUM.json",
     "currency": "USD"
