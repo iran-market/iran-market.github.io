@@ -41916,14 +41916,12 @@
       "t_tehran": "2026-11-07T00:00:00+03:30",
       "open": 40040,
       "high": 40160,
-      "low": 39960,
-      "close": 40150,
+      "low": 39870,
+      "close": 39880,
       "volume": null,
-      "ticks": 246,
-      "origin": "derived",
-      "quality": [
-        "out_of_order"
-      ],
+      "ticks": 822,
+      "origin": "source",
+      "quality": [],
       "date_jalali": "1405/08/16"
     }
   ],
@@ -41934,7 +41932,7 @@
     "unit": "toman",
     "count": 3220,
     "next_cursor": null,
-    "published_at": "2026-11-07T10:00:01.611Z",
+    "published_at": "2026-11-08T06:00:01.310Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/CNY_IRR_FREE.json",
     "currency": "IRT"
