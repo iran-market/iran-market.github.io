@@ -65983,11 +65983,9 @@
       "low": 1.3347,
       "close": 1.3348,
       "volume": null,
-      "ticks": 39,
-      "origin": "derived",
-      "quality": [
-        "out_of_order"
-      ],
+      "ticks": 42,
+      "origin": "source",
+      "quality": [],
       "date_jalali": "1405/08/16"
     }
   ],
@@ -65998,7 +65996,7 @@
     "unit": "toman",
     "count": 5076,
     "next_cursor": null,
-    "published_at": "2026-11-07T07:00:01.459Z",
+    "published_at": "2026-11-08T03:00:01.332Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DIFF_GBP_USD.json",
     "currency": "POINTS"
