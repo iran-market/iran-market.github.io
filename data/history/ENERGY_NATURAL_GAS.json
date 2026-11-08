@@ -54159,11 +54159,9 @@
       "low": 2.9667,
       "close": 2.998,
       "volume": null,
-      "ticks": 65,
-      "origin": "derived",
-      "quality": [
-        "out_of_order"
-      ],
+      "ticks": 67,
+      "origin": "source",
+      "quality": [],
       "date_jalali": "1405/08/16"
     }
   ],
@@ -54174,7 +54172,7 @@
     "unit": "toman",
     "count": 4166,
     "next_cursor": null,
-    "published_at": "2026-11-07T20:30:01.435Z",
+    "published_at": "2026-11-08T16:30:01.406Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/ENERGY_NATURAL_GAS.json",
     "currency": "USD"

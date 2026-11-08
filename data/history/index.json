@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-11-08T16:00:01.383Z",
+    "published_at": "2026-11-08T16:30:01.406Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -1175,7 +1175,7 @@
       "currency": "USD",
       "from": "2011-01-01T20:30:00.000Z",
       "to": "2026-07-19T20:30:00.000Z",
-      "history_published_at": "2026-11-07T20:30:01.435Z"
+      "history_published_at": "2026-11-08T16:30:01.406Z"
     },
     {
       "symbol": "ENERGY_NATURAL_GAS",
@@ -1188,7 +1188,7 @@
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
       "to": "2026-11-06T20:30:00.000Z",
-      "history_published_at": "2026-11-07T20:30:01.435Z"
+      "history_published_at": "2026-11-08T16:30:01.406Z"
     },
     {
       "symbol": "OPEC_BASKET_USD",
@@ -1201,7 +1201,7 @@
       "currency": "USD",
       "from": "2015-03-06T20:30:00.000Z",
       "to": "2026-11-05T20:30:00.000Z",
-      "history_published_at": "2026-11-07T20:30:01.435Z"
+      "history_published_at": "2026-11-08T16:30:01.406Z"
     },
     {
       "symbol": "ENERGY_GASOLINE_RBOB",
@@ -1214,7 +1214,7 @@
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
       "to": "2026-11-06T20:30:00.000Z",
-      "history_published_at": "2026-11-07T20:30:01.435Z"
+      "history_published_at": "2026-11-08T16:30:01.406Z"
     },
     {
       "symbol": "COMMODITY_LONDON_COFFEE",

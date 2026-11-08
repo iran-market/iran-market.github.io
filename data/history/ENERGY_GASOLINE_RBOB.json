@@ -53579,16 +53579,14 @@
     {
       "t": "2026-11-06T20:30:00.000Z",
       "t_tehran": "2026-11-07T00:00:00+03:30",
-      "open": 2.7852,
-      "high": 2.7852,
+      "open": 2.7793,
+      "high": 2.7799,
       "low": 2.7653,
       "close": 2.7767,
       "volume": null,
-      "ticks": 70,
-      "origin": "derived",
-      "quality": [
-        "out_of_order"
-      ],
+      "ticks": 72,
+      "origin": "source",
+      "quality": [],
       "date_jalali": "1405/08/16"
     }
   ],
@@ -53599,7 +53597,7 @@
     "unit": "toman",
     "count": 4117,
     "next_cursor": null,
-    "published_at": "2026-11-07T20:30:01.435Z",
+    "published_at": "2026-11-08T16:30:01.406Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/ENERGY_GASOLINE_RBOB.json",
     "currency": "USD"
