@@ -53423,14 +53423,27 @@
       "open": 2233.16,
       "high": 2250.15,
       "low": 2226.12,
-      "close": 2237.73,
+      "close": 2232.6,
       "volume": null,
-      "ticks": 632,
+      "ticks": 670,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/16"
+    },
+    {
+      "t": "2026-11-07T20:30:00.000Z",
+      "t_tehran": "2026-11-08T00:00:00+03:30",
+      "open": 2232.11,
+      "high": 2245.55,
+      "low": 2225.97,
+      "close": 2241.33,
+      "volume": null,
+      "ticks": 774,
       "origin": "derived",
       "quality": [
         "out_of_order"
       ],
-      "date_jalali": "1405/08/16"
+      "date_jalali": "1405/08/17"
     }
   ],
   "meta": {
@@ -53438,9 +53451,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 4110,
+    "count": 4111,
     "next_cursor": null,
-    "published_at": "2026-11-07T19:00:01.340Z",
+    "published_at": "2026-11-08T15:00:01.281Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/ETH_USD.json",
     "currency": "USD"
