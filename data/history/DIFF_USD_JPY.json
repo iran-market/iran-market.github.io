@@ -65346,11 +65346,9 @@
       "low": 158.44,
       "close": 158.45,
       "volume": null,
-      "ticks": 40,
-      "origin": "derived",
-      "quality": [
-        "out_of_order"
-      ],
+      "ticks": 44,
+      "origin": "source",
+      "quality": [],
       "date_jalali": "1405/08/16"
     }
   ],
@@ -65361,7 +65359,7 @@
     "unit": "toman",
     "count": 5027,
     "next_cursor": null,
-    "published_at": "2026-11-07T07:30:01.399Z",
+    "published_at": "2026-11-08T03:30:01.619Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DIFF_USD_JPY.json",
     "currency": "POINTS"
