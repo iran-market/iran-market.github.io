@@ -58205,13 +58205,15 @@
       "t": "2026-11-07T20:30:00.000Z",
       "t_tehran": "2026-11-08T00:00:00+03:30",
       "open": 0.1509586,
-      "high": 0.15126141,
-      "low": 0.15024541,
-      "close": 0.15097687,
+      "high": 0.15181423,
+      "low": 0.14986539,
+      "close": 0.15100446,
       "volume": null,
-      "ticks": 94,
+      "ticks": 814,
       "origin": "derived",
-      "quality": [],
+      "quality": [
+        "out_of_order"
+      ],
       "date_jalali": "1405/08/17"
     }
   ],
@@ -58222,7 +58224,7 @@
     "unit": "toman",
     "count": 4478,
     "next_cursor": null,
-    "published_at": "2026-11-07T23:30:01.234Z",
+    "published_at": "2026-11-08T19:30:01.503Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/XLM_USD.json",
     "currency": "USD"
