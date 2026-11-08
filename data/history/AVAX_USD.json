@@ -29103,9 +29103,9 @@
       "open": 8.21,
       "high": 8.23,
       "low": 8.14,
-      "close": 8.22,
+      "close": 8.21,
       "volume": null,
-      "ticks": 27,
+      "ticks": 242,
       "origin": "derived",
       "quality": [
         "out_of_order"
@@ -29120,7 +29120,7 @@
     "unit": "toman",
     "count": 2238,
     "next_cursor": null,
-    "published_at": "2026-11-08T00:30:01.394Z",
+    "published_at": "2026-11-08T20:30:01.293Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/AVAX_USD.json",
     "currency": "USD"
