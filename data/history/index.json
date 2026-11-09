@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-11-09T17:00:01.470Z",
+    "published_at": "2026-11-09T17:30:01.314Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -1110,7 +1110,7 @@
       "currency": "IRT",
       "from": "2026-10-27T20:30:00.000Z",
       "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-08T21:30:01.435Z"
+      "history_published_at": "2026-11-09T17:30:01.314Z"
     },
     {
       "symbol": "AVAX_IRR",
@@ -1123,7 +1123,7 @@
       "currency": "IRT",
       "from": "2026-10-27T20:30:00.000Z",
       "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-08T21:30:01.435Z"
+      "history_published_at": "2026-11-09T17:30:01.314Z"
     },
     {
       "symbol": "LINK_IRR",
@@ -1136,7 +1136,7 @@
       "currency": "IRT",
       "from": "2026-10-27T20:30:00.000Z",
       "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-08T21:30:01.435Z"
+      "history_published_at": "2026-11-09T17:30:01.314Z"
     },
     {
       "symbol": "USDC_IRR",
@@ -1149,7 +1149,7 @@
       "currency": "IRT",
       "from": "2026-10-27T20:30:00.000Z",
       "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-08T21:30:01.435Z"
+      "history_published_at": "2026-11-09T17:30:01.314Z"
     },
     {
       "symbol": "BRENT_USD",
