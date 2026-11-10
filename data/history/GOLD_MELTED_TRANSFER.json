@@ -22204,15 +22204,13 @@
       "t": "2026-11-08T20:30:00.000Z",
       "t_tehran": "2026-11-09T00:00:00+03:30",
       "open": 110900000,
-      "high": 111152000,
-      "low": 110669000,
-      "close": 111124000,
+      "high": 111175000,
+      "low": 110102000,
+      "close": 110647000,
       "volume": null,
-      "ticks": 220,
-      "origin": "derived",
-      "quality": [
-        "out_of_order"
-      ],
+      "ticks": 1424,
+      "origin": "source",
+      "quality": [],
       "date_jalali": "1405/08/18"
     }
   ],
@@ -22223,7 +22221,7 @@
     "unit": "toman",
     "count": 1705,
     "next_cursor": null,
-    "published_at": "2026-11-09T09:30:01.449Z",
+    "published_at": "2026-11-10T05:30:01.208Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/GOLD_MELTED_TRANSFER.json",
     "currency": "IRT"
