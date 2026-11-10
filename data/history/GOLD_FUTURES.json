@@ -29122,12 +29122,12 @@
       "t": "2026-11-08T20:30:00.000Z",
       "t_tehran": "2026-11-09T00:00:00+03:30",
       "open": 110900000,
-      "high": 110900000,
-      "low": 110325000,
-      "close": 110606000,
+      "high": 110905000,
+      "low": 109359000,
+      "close": 110281000,
       "volume": null,
-      "ticks": 45,
-      "origin": "derived",
+      "ticks": 1424,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/18"
     }
@@ -29139,7 +29139,7 @@
     "unit": "toman",
     "count": 2236,
     "next_cursor": null,
-    "published_at": "2026-11-09T08:30:01.421Z",
+    "published_at": "2026-11-10T05:00:01.288Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/GOLD_FUTURES.json",
     "currency": "IRT"
