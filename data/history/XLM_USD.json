@@ -58217,17 +58217,30 @@
     {
       "t": "2026-11-08T20:30:00.000Z",
       "t_tehran": "2026-11-09T00:00:00+03:30",
-      "open": 0.1445213,
-      "high": 0.14827272,
-      "low": 0.14449858,
-      "close": 0.1482156,
+      "open": 0.1445,
+      "high": 0.1497,
+      "low": 0.1445,
+      "close": 0.1478,
       "volume": null,
-      "ticks": 342,
+      "ticks": 795,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/18"
+    },
+    {
+      "t": "2026-11-09T20:30:00.000Z",
+      "t_tehran": "2026-11-10T00:00:00+03:30",
+      "open": 0.14771907,
+      "high": 0.14953984,
+      "low": 0.14577876,
+      "close": 0.14609409,
+      "volume": null,
+      "ticks": 654,
       "origin": "derived",
       "quality": [
         "out_of_order"
       ],
-      "date_jalali": "1405/08/18"
+      "date_jalali": "1405/08/19"
     }
   ],
   "meta": {
@@ -58235,9 +58248,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 4479,
+    "count": 4480,
     "next_cursor": null,
-    "published_at": "2026-11-09T15:30:01.387Z",
+    "published_at": "2026-11-10T12:00:01.637Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/XLM_USD.json",
     "currency": "USD"
