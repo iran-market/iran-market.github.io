@@ -46262,17 +46262,30 @@
     {
       "t": "2026-11-09T20:30:00.000Z",
       "t_tehran": "2026-11-10T00:00:00+03:30",
-      "open": 108004000,
+      "open": 109655000,
       "high": 110005000,
       "low": 107245000,
-      "close": 107998000,
+      "close": 108004000,
       "volume": null,
       "ticks": 1571,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/19"
+    },
+    {
+      "t": "2026-11-10T20:30:00.000Z",
+      "t_tehran": "2026-11-11T00:00:00+03:30",
+      "open": 108652000,
+      "high": 109455000,
+      "low": 108197000,
+      "close": 109068000,
+      "volume": null,
+      "ticks": 1262,
       "origin": "derived",
       "quality": [
         "out_of_order"
       ],
-      "date_jalali": "1405/08/19"
+      "date_jalali": "1405/08/20"
     }
   ],
   "meta": {
@@ -46280,9 +46293,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 3554,
+    "count": 3555,
     "next_cursor": null,
-    "published_at": "2026-11-10T21:00:01.468Z",
+    "published_at": "2026-11-11T17:00:01.380Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/GOLD_MESGHAL_IRR.json",
     "currency": "IRT"
