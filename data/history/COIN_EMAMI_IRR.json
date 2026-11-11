@@ -54193,17 +54193,30 @@
     {
       "t": "2026-11-09T20:30:00.000Z",
       "t_tehran": "2026-11-10T00:00:00+03:30",
-      "open": 251660000,
+      "open": 257295000,
       "high": 257820000,
-      "low": 251655000,
-      "close": 251655000,
+      "low": 251650000,
+      "close": 251660000,
       "volume": null,
       "ticks": 1571,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/19"
+    },
+    {
+      "t": "2026-11-10T20:30:00.000Z",
+      "t_tehran": "2026-11-11T00:00:00+03:30",
+      "open": 253035000,
+      "high": 255900000,
+      "low": 252540000,
+      "close": 254365000,
+      "volume": null,
+      "ticks": 1262,
       "origin": "derived",
       "quality": [
         "out_of_order"
       ],
-      "date_jalali": "1405/08/19"
+      "date_jalali": "1405/08/20"
     }
   ],
   "meta": {
@@ -54211,9 +54224,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 4161,
+    "count": 4162,
     "next_cursor": null,
-    "published_at": "2026-11-10T22:00:01.577Z",
+    "published_at": "2026-11-11T18:00:01.315Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_EMAMI_IRR.json",
     "currency": "IRT"
