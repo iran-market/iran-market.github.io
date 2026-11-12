@@ -45305,12 +45305,23 @@
       "low": 132770000,
       "close": 133590000,
       "volume": null,
-      "ticks": 97,
-      "origin": "derived",
-      "quality": [
-        "out_of_order"
-      ],
+      "ticks": 99,
+      "origin": "source",
+      "quality": [],
       "date_jalali": "1405/08/20"
+    },
+    {
+      "t": "2026-11-11T20:30:00.000Z",
+      "t_tehran": "2026-11-12T00:00:00+03:30",
+      "open": 133980000,
+      "high": 133980000,
+      "low": 133190000,
+      "close": 133190000,
+      "volume": null,
+      "ticks": 12,
+      "origin": "derived",
+      "quality": [],
+      "date_jalali": "1405/08/21"
     }
   ],
   "meta": {
@@ -45318,9 +45329,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 3476,
+    "count": 3477,
     "next_cursor": null,
-    "published_at": "2026-11-11T18:30:01.431Z",
+    "published_at": "2026-11-12T14:30:01.376Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_HALF_IRR.json",
     "currency": "IRT"
