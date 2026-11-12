@@ -320,3 +320,17 @@ Iran Market Data provides public, no-auth JSON files for current and historical 
 <p dir="rtl" align="right">
 کد رابط، مستندات و مثال‌های این مخزن تحت <a href="LICENSE">مجوز MIT</a> منتشر می‌شوند. دادهٔ بازار متعلق به تولیدکنندگان و ارائه‌دهندگان اصلی آن است.
 </p>
+
+<ul dir="rtl" align="right">
+  <li>از طرف این پروژه، استفاده از داده‌ها رایگان و آزاد است، از جمله استفادهٔ تجاری و انتشار دوباره؛ مثلاً در اپلیکیشن، سایت یا کانال تلگرام و بله.</li>
+  <li>ذکر نام، لوگو یا لینک پروژه اجباری نیست، ولی اگر لینک بدهید ممنون می‌شویم.</li>
+  <li>این پروژه فقط از طرف خودش می‌تواند اجازه بدهد، نه از طرف منابع اصلی داده. منبع هر قیمت در فیلد <code>source</code> همان قلم آمده و فهرست منابع در بخش «پایداری، محدودیت‌ها و منبع داده» است. اینکه استفادهٔ شما ذکر نام یا اجازهٔ آن منبع را لازم دارد یا نه، به شرایط خود آن منبع بستگی دارد و بررسی‌اش با شماست.</li>
+  <li>دربارهٔ درستی و به‌روز بودن قیمت‌ها یا در دسترس بودن همیشگی فایل‌ها تضمینی نمی‌دهیم و داده همان‌طور که هست ارائه می‌شود. مسئولیت استفاده و نمایش داده و تصمیم‌هایی که بر اساس آن گرفته می‌شود با خود شماست و پروژه مسئولیتی در قبال خسارت‌های ناشی از آن ندارد.</li>
+</ul>
+
+**In English.** The MIT license covers this repository's code, documentation and examples. The market data belongs to its original producers and providers.
+
+- From this project's side, the data is free to use, including commercially and for redistribution, for example in an app, a website, or a Telegram or Bale channel.
+- Showing our name, logo or a link is not required. A link is appreciated.
+- We can only give permission for this project, not for the original data providers. Each item's `source` field names where its price came from. Whether your use needs that provider's credit or permission depends on its own terms, and checking them is up to you.
+- The data is provided as is, with no guarantee that it is accurate, up to date or available. You are responsible for how you use and present it, and the project accepts no liability for losses arising from its use.
