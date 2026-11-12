@@ -61300,10 +61300,10 @@
       "t_tehran": "2026-11-12T00:00:00+03:30",
       "open": 0.06862646,
       "high": 0.06872093,
-      "low": 0.00004299,
-      "close": 0.0675267,
+      "low": 0.00004223,
+      "close": 0.06597228,
       "volume": null,
-      "ticks": 79,
+      "ticks": 706,
       "origin": "derived",
       "quality": [
         "spike",
@@ -61319,7 +61319,7 @@
     "unit": "toman",
     "count": 4716,
     "next_cursor": null,
-    "published_at": "2026-11-11T23:00:01.305Z",
+    "published_at": "2026-11-12T19:00:01.693Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DOGE_USD.json",
     "currency": "USD"
