@@ -43499,16 +43499,29 @@
       "t": "2026-11-10T20:30:00.000Z",
       "t_tehran": "2026-11-11T00:00:00+03:30",
       "open": 33270,
-      "high": 33500,
+      "high": 33690,
       "low": 33080,
-      "close": 33490,
+      "close": 33680,
       "volume": null,
-      "ticks": 649,
+      "ticks": 784,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/20"
+    },
+    {
+      "t": "2026-11-11T20:30:00.000Z",
+      "t_tehran": "2026-11-12T00:00:00+03:30",
+      "open": 33690,
+      "high": 34080,
+      "low": 33680,
+      "close": 34040,
+      "volume": null,
+      "ticks": 220,
       "origin": "derived",
       "quality": [
         "out_of_order"
       ],
-      "date_jalali": "1405/08/20"
+      "date_jalali": "1405/08/21"
     }
   ],
   "meta": {
@@ -43516,9 +43529,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 3342,
+    "count": 3343,
     "next_cursor": null,
-    "published_at": "2026-11-11T15:00:01.583Z",
+    "published_at": "2026-11-12T11:00:01.279Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/HKD_IRR_FREE.json",
     "currency": "IRT"
