@@ -53632,11 +53632,11 @@
       "t": "2026-11-11T20:30:00.000Z",
       "t_tehran": "2026-11-12T00:00:00+03:30",
       "open": 2.601,
-      "high": 2.6071,
-      "low": 2.5885,
-      "close": 2.5993,
+      "high": 2.6795,
+      "low": 2.5713,
+      "close": 2.6785,
       "volume": null,
-      "ticks": 103,
+      "ticks": 718,
       "origin": "derived",
       "quality": [
         "out_of_order"
@@ -53651,7 +53651,7 @@
     "unit": "toman",
     "count": 4121,
     "next_cursor": null,
-    "published_at": "2026-11-12T00:30:01.478Z",
+    "published_at": "2026-11-12T20:30:01.439Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/ENERGY_GASOLINE_RBOB.json",
     "currency": "USD"

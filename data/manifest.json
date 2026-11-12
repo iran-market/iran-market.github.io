@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-12T20:00:01.305Z",
+  "generated_at": "2026-11-12T20:30:01.439Z",
   "update_frequency_minutes": 30,
   "source": "TGJU, Nobitex, Alanchand, Wallex",
   "license_note": "Market data belongs to its original providers; verify before financial use.",
@@ -681,7 +681,7 @@
       "path": "history/OPEC_BASKET_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/OPEC_BASKET_USD.json",
       "description": "Daily OHLC history for OPEC_BASKET_USD",
-      "records": 2613,
+      "records": 2614,
       "unit": "USD"
     },
     {

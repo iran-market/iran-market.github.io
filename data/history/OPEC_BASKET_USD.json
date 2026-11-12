@@ -34050,11 +34050,22 @@
       "close": 86.02,
       "volume": null,
       "ticks": 3,
-      "origin": "derived",
-      "quality": [
-        "out_of_order"
-      ],
+      "origin": "source",
+      "quality": [],
       "date_jalali": "1405/08/20"
+    },
+    {
+      "t": "2026-11-11T20:30:00.000Z",
+      "t_tehran": "2026-11-12T00:00:00+03:30",
+      "open": 86.78,
+      "high": 86.78,
+      "low": 86.78,
+      "close": 86.78,
+      "volume": null,
+      "ticks": 1,
+      "origin": "derived",
+      "quality": [],
+      "date_jalali": "1405/08/21"
     }
   ],
   "meta": {
@@ -34062,9 +34073,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 2613,
+    "count": 2614,
     "next_cursor": null,
-    "published_at": "2026-11-12T00:30:01.478Z",
+    "published_at": "2026-11-12T20:30:01.439Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/OPEC_BASKET_USD.json",
     "currency": "USD"
