@@ -48155,17 +48155,30 @@
     {
       "t": "2026-11-10T20:30:00.000Z",
       "t_tehran": "2026-11-11T00:00:00+03:30",
-      "open": 71371,
-      "high": 71810,
+      "open": 71373,
+      "high": 72274,
       "low": 70984,
-      "close": 71674,
+      "close": 72263,
       "volume": null,
-      "ticks": 832,
+      "ticks": 1261,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/20"
+    },
+    {
+      "t": "2026-11-11T20:30:00.000Z",
+      "t_tehran": "2026-11-12T00:00:00+03:30",
+      "open": 72269,
+      "high": 73118,
+      "low": 72263,
+      "close": 72971,
+      "volume": null,
+      "ticks": 200,
       "origin": "derived",
       "quality": [
         "out_of_order"
       ],
-      "date_jalali": "1405/08/20"
+      "date_jalali": "1405/08/21"
     }
   ],
   "meta": {
@@ -48173,9 +48186,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 3699,
+    "count": 3700,
     "next_cursor": null,
-    "published_at": "2026-11-11T13:30:01.430Z",
+    "published_at": "2026-11-12T09:30:01.323Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/AED_IRR_FREE.json",
     "currency": "IRT"
