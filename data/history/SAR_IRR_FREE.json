@@ -42556,15 +42556,13 @@
       "t": "2026-11-11T20:30:00.000Z",
       "t_tehran": "2026-11-12T00:00:00+03:30",
       "open": 70411,
-      "high": 71267,
+      "high": 71321,
       "low": 70404,
-      "close": 71257,
+      "close": 71261,
       "volume": null,
-      "ticks": 491,
-      "origin": "derived",
-      "quality": [
-        "out_of_order"
-      ],
+      "ticks": 785,
+      "origin": "source",
+      "quality": [],
       "date_jalali": "1405/08/21"
     }
   ],
@@ -42575,7 +42573,7 @@
     "unit": "toman",
     "count": 3269,
     "next_cursor": null,
-    "published_at": "2026-11-12T11:30:01.498Z",
+    "published_at": "2026-11-13T07:30:01.717Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/SAR_IRR_FREE.json",
     "currency": "IRT"
