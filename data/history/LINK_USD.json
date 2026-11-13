@@ -43415,13 +43415,15 @@
       "t": "2026-11-12T20:30:00.000Z",
       "t_tehran": "2026-11-13T00:00:00+03:30",
       "open": 10.03,
-      "high": 10.15,
-      "low": 10.03,
-      "close": 10.14,
+      "high": 10.2,
+      "low": 9.67,
+      "close": 10.01,
       "volume": null,
-      "ticks": 47,
+      "ticks": 518,
       "origin": "derived",
-      "quality": [],
+      "quality": [
+        "ohlc_inconsistent"
+      ],
       "date_jalali": "1405/08/22"
     }
   ],
@@ -43432,7 +43434,7 @@
     "unit": "toman",
     "count": 3340,
     "next_cursor": null,
-    "published_at": "2026-11-13T00:30:01.435Z",
+    "published_at": "2026-11-13T20:30:01.444Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/LINK_USD.json",
     "currency": "USD"
