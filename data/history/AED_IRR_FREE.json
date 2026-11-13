@@ -48169,15 +48169,13 @@
       "t": "2026-11-11T20:30:00.000Z",
       "t_tehran": "2026-11-12T00:00:00+03:30",
       "open": 72269,
-      "high": 73118,
+      "high": 73200,
       "low": 72263,
-      "close": 72971,
+      "close": 73138,
       "volume": null,
-      "ticks": 200,
-      "origin": "derived",
-      "quality": [
-        "out_of_order"
-      ],
+      "ticks": 783,
+      "origin": "source",
+      "quality": [],
       "date_jalali": "1405/08/21"
     }
   ],
@@ -48188,7 +48186,7 @@
     "unit": "toman",
     "count": 3700,
     "next_cursor": null,
-    "published_at": "2026-11-12T09:30:01.323Z",
+    "published_at": "2026-11-13T05:30:01.336Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/AED_IRR_FREE.json",
     "currency": "IRT"
