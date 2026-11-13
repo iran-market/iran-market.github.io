@@ -45657,8 +45657,8 @@
       "low": 1418.07,
       "close": 1430,
       "volume": null,
-      "ticks": 15,
-      "origin": "derived",
+      "ticks": 33,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/22"
     }
@@ -45670,7 +45670,7 @@
     "unit": "toman",
     "count": 3506,
     "next_cursor": null,
-    "published_at": "2026-11-13T03:30:01.392Z",
+    "published_at": "2026-11-13T23:30:01.423Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BASE_US_STEEL_COIL.json",
     "currency": "USD"
