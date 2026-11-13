@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-11-13T08:30:01.583Z",
+    "published_at": "2026-11-13T09:00:01.301Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -382,7 +382,7 @@
       "currency": "IRT",
       "from": "2013-07-21T19:30:00.000Z",
       "to": "2026-11-11T20:30:00.000Z",
-      "history_published_at": "2026-11-12T13:00:01.557Z"
+      "history_published_at": "2026-11-13T09:00:01.301Z"
     },
     {
       "symbol": "XAU_USD",
@@ -391,11 +391,11 @@
       "category": "precious_metal",
       "file": "history/XAU_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/XAU_USD.json",
-      "records": 4163,
+      "records": 4164,
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-11-11T20:30:00.000Z",
-      "history_published_at": "2026-11-12T13:00:01.557Z"
+      "to": "2026-11-12T20:30:00.000Z",
+      "history_published_at": "2026-11-13T09:00:01.301Z"
     },
     {
       "symbol": "SILVER",
@@ -404,11 +404,11 @@
       "category": "precious_metal",
       "file": "history/SILVER.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/SILVER.json",
-      "records": 4168,
+      "records": 4169,
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-11-11T20:30:00.000Z",
-      "history_published_at": "2026-11-12T13:00:01.557Z"
+      "to": "2026-11-12T20:30:00.000Z",
+      "history_published_at": "2026-11-13T09:00:01.301Z"
     },
     {
       "symbol": "SILVER_999_IRR",
@@ -417,11 +417,11 @@
       "category": "precious_metal",
       "file": "history/SILVER_999_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/SILVER_999_IRR.json",
-      "records": 1719,
+      "records": 1720,
       "currency": "IRT",
       "from": "2020-10-30T20:30:00.000Z",
-      "to": "2026-11-11T20:30:00.000Z",
-      "history_published_at": "2026-11-12T13:00:01.557Z"
+      "to": "2026-11-12T20:30:00.000Z",
+      "history_published_at": "2026-11-13T09:00:01.301Z"
     },
     {
       "symbol": "PLATINUM",
