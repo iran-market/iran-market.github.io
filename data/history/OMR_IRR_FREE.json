@@ -42398,13 +42398,11 @@
       "open": 687450,
       "high": 696320,
       "low": 687380,
-      "close": 695760,
+      "close": 695730,
       "volume": null,
-      "ticks": 556,
-      "origin": "derived",
-      "quality": [
-        "out_of_order"
-      ],
+      "ticks": 785,
+      "origin": "source",
+      "quality": [],
       "date_jalali": "1405/08/21"
     }
   ],
@@ -42415,7 +42413,7 @@
     "unit": "toman",
     "count": 3257,
     "next_cursor": null,
-    "published_at": "2026-11-12T12:00:01.353Z",
+    "published_at": "2026-11-13T08:00:01.347Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/OMR_IRR_FREE.json",
     "currency": "IRT"
