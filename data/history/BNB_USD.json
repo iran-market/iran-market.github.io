@@ -44151,17 +44151,28 @@
     {
       "t": "2026-11-11T20:30:00.000Z",
       "t_tehran": "2026-11-12T00:00:00+03:30",
-      "open": 686.57,
+      "open": 686.44,
       "high": 687.48,
       "low": 650.66,
-      "close": 654.67,
+      "close": 654.5,
       "volume": null,
-      "ticks": 603,
-      "origin": "derived",
-      "quality": [
-        "out_of_order"
-      ],
+      "ticks": 628,
+      "origin": "source",
+      "quality": [],
       "date_jalali": "1405/08/21"
+    },
+    {
+      "t": "2026-11-12T20:30:00.000Z",
+      "t_tehran": "2026-11-13T00:00:00+03:30",
+      "open": 654.45,
+      "high": 658.05,
+      "low": 626.03,
+      "close": 632.6,
+      "volume": null,
+      "ticks": 501,
+      "origin": "derived",
+      "quality": [],
+      "date_jalali": "1405/08/22"
     }
   ],
   "meta": {
@@ -44169,9 +44180,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 3397,
+    "count": 3398,
     "next_cursor": null,
-    "published_at": "2026-11-12T19:30:01.396Z",
+    "published_at": "2026-11-13T15:30:01.724Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BNB_USD.json",
     "currency": "USD"
