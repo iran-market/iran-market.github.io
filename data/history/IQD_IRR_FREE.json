@@ -37564,12 +37564,12 @@
       "t": "2026-11-11T20:30:00.000Z",
       "t_tehran": "2026-11-12T00:00:00+03:30",
       "open": 167.8,
-      "high": 169.8,
+      "high": 171.6,
       "low": 167.8,
-      "close": 169.6,
+      "close": 171.6,
       "volume": null,
-      "ticks": 52,
-      "origin": "derived",
+      "ticks": 94,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/21"
     }
@@ -37581,7 +37581,7 @@
     "unit": "toman",
     "count": 2867,
     "next_cursor": null,
-    "published_at": "2026-11-12T10:30:01.326Z",
+    "published_at": "2026-11-13T06:30:01.385Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/IQD_IRR_FREE.json",
     "currency": "IRT"
