@@ -60775,11 +60775,11 @@
       "t_tehran": "2026-11-13T00:00:00+03:30",
       "open": 1519.5,
       "high": 1540.2,
-      "low": 1503.3,
-      "close": 1514.6,
+      "low": 1497.4,
+      "close": 1498.2,
       "volume": null,
-      "ticks": 442,
-      "origin": "derived",
+      "ticks": 629,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/22"
     }
@@ -60791,7 +60791,7 @@
     "unit": "toman",
     "count": 4669,
     "next_cursor": null,
-    "published_at": "2026-11-13T10:00:01.461Z",
+    "published_at": "2026-11-14T06:00:01.313Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/PLATINUM.json",
     "currency": "USD"
