@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-11-14T17:30:01.291Z",
+    "published_at": "2026-11-14T18:00:01.400Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -1058,7 +1058,7 @@
       "currency": "IRT",
       "from": "2026-10-27T20:30:00.000Z",
       "to": "2026-11-13T20:30:00.000Z",
-      "history_published_at": "2026-11-13T21:30:01.857Z"
+      "history_published_at": "2026-11-14T18:00:01.400Z"
     },
     {
       "symbol": "ADA_IRR",
@@ -1071,7 +1071,7 @@
       "currency": "IRT",
       "from": "2026-10-27T20:30:00.000Z",
       "to": "2026-11-13T20:30:00.000Z",
-      "history_published_at": "2026-11-13T21:30:01.857Z"
+      "history_published_at": "2026-11-14T18:00:01.400Z"
     },
     {
       "symbol": "TRX_IRR",
@@ -1084,7 +1084,7 @@
       "currency": "IRT",
       "from": "2026-10-27T20:30:00.000Z",
       "to": "2026-11-13T20:30:00.000Z",
-      "history_published_at": "2026-11-13T21:30:01.857Z"
+      "history_published_at": "2026-11-14T18:00:01.400Z"
     },
     {
       "symbol": "SOL_IRR",
@@ -1097,7 +1097,7 @@
       "currency": "IRT",
       "from": "2026-10-27T20:30:00.000Z",
       "to": "2026-11-13T20:30:00.000Z",
-      "history_published_at": "2026-11-13T21:30:01.857Z"
+      "history_published_at": "2026-11-14T18:00:01.400Z"
     },
     {
       "symbol": "DOT_IRR",
