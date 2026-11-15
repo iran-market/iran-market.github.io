@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-15T00:30:01.351Z",
+  "generated_at": "2026-11-15T01:00:01.767Z",
   "update_frequency_minutes": 30,
   "source": "TGJU, Nobitex, Alanchand, Wallex",
   "license_note": "Market data belongs to its original providers; verify before financial use.",
@@ -212,28 +212,28 @@
       "path": "history/NOK_IRR_FREE.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/NOK_IRR_FREE.json",
       "description": "Daily OHLC history for NOK_IRR_FREE",
-      "records": 3214,
+      "records": 3215,
       "unit": "IRT"
     },
     {
       "path": "history/GOLD_18K_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/GOLD_18K_IRR.json",
       "description": "Daily OHLC history for GOLD_18K_IRR",
-      "records": 3554,
+      "records": 3555,
       "unit": "IRT"
     },
     {
       "path": "history/GOLD_24K_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/GOLD_24K_IRR.json",
       "description": "Daily OHLC history for GOLD_24K_IRR",
-      "records": 3413,
+      "records": 3414,
       "unit": "IRT"
     },
     {
       "path": "history/GOLD_USED_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/GOLD_USED_IRR.json",
       "description": "Daily OHLC history for GOLD_USED_IRR",
-      "records": 2234,
+      "records": 2235,
       "unit": "IRT"
     },
     {
