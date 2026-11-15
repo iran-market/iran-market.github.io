@@ -75351,17 +75351,30 @@
     {
       "t": "2026-11-13T20:30:00.000Z",
       "t_tehran": "2026-11-14T00:00:00+03:30",
-      "open": 68963.62,
-      "high": 68963.62,
-      "low": 66650.18,
-      "close": 67305.77,
+      "open": 68925.67,
+      "high": 68962.84,
+      "low": 65095.27,
+      "close": 65569.63,
       "volume": null,
-      "ticks": 372,
+      "ticks": 630,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/23"
+    },
+    {
+      "t": "2026-11-14T20:30:00.000Z",
+      "t_tehran": "2026-11-15T00:00:00+03:30",
+      "open": 65545.13,
+      "high": 65563.86,
+      "low": 62163.28,
+      "close": 64442.15,
+      "volume": null,
+      "ticks": 289,
       "origin": "derived",
       "quality": [
         "out_of_order"
       ],
-      "date_jalali": "1405/08/23"
+      "date_jalali": "1405/08/24"
     }
   ],
   "meta": {
@@ -75369,9 +75382,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 5797,
+    "count": 5798,
     "next_cursor": null,
-    "published_at": "2026-11-14T11:00:01.389Z",
+    "published_at": "2026-11-15T07:00:01.312Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BTC_USD.json",
     "currency": "USD"
