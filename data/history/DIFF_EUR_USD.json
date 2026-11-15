@@ -66854,8 +66854,8 @@
       "low": 1.1019,
       "close": 1.102,
       "volume": null,
-      "ticks": 27,
-      "origin": "derived",
+      "ticks": 29,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/23"
     }
@@ -66867,7 +66867,7 @@
     "unit": "toman",
     "count": 5143,
     "next_cursor": null,
-    "published_at": "2026-11-14T20:00:01.685Z",
+    "published_at": "2026-11-15T16:00:01.319Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DIFF_EUR_USD.json",
     "currency": "POINTS"
