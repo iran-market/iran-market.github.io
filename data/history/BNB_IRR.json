@@ -261,14 +261,29 @@
       "open": 171568156,
       "high": 172506543,
       "low": 158700007,
-      "close": 159913344,
+      "close": 159190180,
       "volume": null,
-      "ticks": 671,
+      "ticks": 775,
       "origin": "derived",
       "quality": [
         "timestamp_estimated"
       ],
       "date_jalali": "1405/08/23"
+    },
+    {
+      "t": "2026-11-14T20:30:00.000Z",
+      "t_tehran": "2026-11-15T00:00:00+03:30",
+      "open": 159290000,
+      "high": 162975056,
+      "low": 154000015,
+      "close": 160005159,
+      "volume": null,
+      "ticks": 565,
+      "origin": "derived",
+      "quality": [
+        "timestamp_estimated"
+      ],
+      "date_jalali": "1405/08/24"
     }
   ],
   "meta": {
@@ -276,9 +291,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 18,
+    "count": 19,
     "next_cursor": null,
-    "published_at": "2026-11-14T17:30:01.291Z",
+    "published_at": "2026-11-15T13:30:01.450Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BNB_IRR.json",
     "currency": "IRT"
