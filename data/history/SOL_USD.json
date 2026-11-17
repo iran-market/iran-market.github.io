@@ -31377,13 +31377,15 @@
       "t": "2026-11-16T20:30:00.000Z",
       "t_tehran": "2026-11-17T00:00:00+03:30",
       "open": 71.5,
-      "high": 72.15,
-      "low": 71.3,
-      "close": 71.63,
+      "high": 74.14,
+      "low": 71.06,
+      "close": 72.67,
       "volume": null,
-      "ticks": 76,
+      "ticks": 590,
       "origin": "derived",
-      "quality": [],
+      "quality": [
+        "out_of_order"
+      ],
       "date_jalali": "1405/08/26"
     }
   ],
@@ -31394,7 +31396,7 @@
     "unit": "toman",
     "count": 2412,
     "next_cursor": null,
-    "published_at": "2026-11-16T23:30:01.483Z",
+    "published_at": "2026-11-17T19:30:01.487Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/SOL_USD.json",
     "currency": "USD"

@@ -63080,13 +63080,15 @@
       "t": "2026-11-16T20:30:00.000Z",
       "t_tehran": "2026-11-17T00:00:00+03:30",
       "open": 0.95869523,
-      "high": 0.96271464,
-      "low": 0.95426724,
-      "close": 0.9559432,
+      "high": 0.97765322,
+      "low": 0.94891704,
+      "close": 0.96131572,
       "volume": null,
-      "ticks": 84,
+      "ticks": 629,
       "origin": "derived",
-      "quality": [],
+      "quality": [
+        "out_of_order"
+      ],
       "date_jalali": "1405/08/26"
     }
   ],
@@ -63097,7 +63099,7 @@
     "unit": "toman",
     "count": 4853,
     "next_cursor": null,
-    "published_at": "2026-11-16T23:30:01.483Z",
+    "published_at": "2026-11-17T19:30:01.487Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/XRP_USD.json",
     "currency": "USD"
