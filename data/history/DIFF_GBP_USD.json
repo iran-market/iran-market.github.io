@@ -66071,15 +66071,28 @@
       "t_tehran": "2026-11-16T00:00:00+03:30",
       "open": 1.3209,
       "high": 1.3222,
-      "low": 1.3183,
-      "close": 1.319,
+      "low": 1.3177,
+      "close": 1.3186,
       "volume": null,
-      "ticks": 293,
+      "ticks": 467,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/25"
+    },
+    {
+      "t": "2026-11-16T20:30:00.000Z",
+      "t_tehran": "2026-11-17T00:00:00+03:30",
+      "open": 1.3185,
+      "high": 1.3202,
+      "low": 1.3169,
+      "close": 1.3191,
+      "volume": null,
+      "ticks": 245,
       "origin": "derived",
       "quality": [
         "out_of_order"
       ],
-      "date_jalali": "1405/08/25"
+      "date_jalali": "1405/08/26"
     }
   ],
   "meta": {
@@ -66087,9 +66100,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 5083,
+    "count": 5084,
     "next_cursor": null,
-    "published_at": "2026-11-16T12:00:01.394Z",
+    "published_at": "2026-11-17T08:30:01.322Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DIFF_GBP_USD.json",
     "currency": "POINTS"
