@@ -59310,11 +59310,11 @@
       "t": "2026-11-17T20:30:00.000Z",
       "t_tehran": "2026-11-18T00:00:00+03:30",
       "open": 510.97,
-      "high": 512.91,
-      "low": 504.51,
-      "close": 509.38,
+      "high": 517.07,
+      "low": 489.33,
+      "close": 497.66,
       "volume": null,
-      "ticks": 89,
+      "ticks": 707,
       "origin": "derived",
       "quality": [
         "out_of_order"
@@ -59329,7 +59329,7 @@
     "unit": "toman",
     "count": 4563,
     "next_cursor": null,
-    "published_at": "2026-11-18T00:00:01.307Z",
+    "published_at": "2026-11-18T20:00:01.359Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/XMR_USD.json",
     "currency": "USD"
