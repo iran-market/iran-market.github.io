@@ -49136,14 +49136,12 @@
       "t_tehran": "2026-11-17T00:00:00+03:30",
       "open": 296180,
       "high": 297190,
-      "low": 295610,
-      "close": 296060,
+      "low": 293860,
+      "close": 294440,
       "volume": null,
-      "ticks": 327,
-      "origin": "derived",
-      "quality": [
-        "out_of_order"
-      ],
+      "ticks": 1451,
+      "origin": "source",
+      "quality": [],
       "date_jalali": "1405/08/26"
     }
   ],
@@ -49154,7 +49152,7 @@
     "unit": "toman",
     "count": 3774,
     "next_cursor": null,
-    "published_at": "2026-11-17T09:30:01.373Z",
+    "published_at": "2026-11-18T05:30:01.310Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/EUR_IRR_FREE.json",
     "currency": "IRT"
