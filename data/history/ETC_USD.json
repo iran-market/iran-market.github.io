@@ -48990,13 +48990,15 @@
       "t": "2026-11-17T20:30:00.000Z",
       "t_tehran": "2026-11-18T00:00:00+03:30",
       "open": 5.91,
-      "high": 6.02,
-      "low": 5.91,
-      "close": 6,
+      "high": 6.05,
+      "low": 5.85,
+      "close": 5.89,
       "volume": null,
-      "ticks": 32,
+      "ticks": 252,
       "origin": "derived",
-      "quality": [],
+      "quality": [
+        "out_of_order"
+      ],
       "date_jalali": "1405/08/27"
     }
   ],
@@ -49007,7 +49009,7 @@
     "unit": "toman",
     "count": 3769,
     "next_cursor": null,
-    "published_at": "2026-11-18T00:30:01.395Z",
+    "published_at": "2026-11-18T20:30:01.347Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/ETC_USD.json",
     "currency": "USD"
