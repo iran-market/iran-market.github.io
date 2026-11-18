@@ -37617,11 +37617,11 @@
       "t_tehran": "2026-11-17T00:00:00+03:30",
       "open": 172.1,
       "high": 172.7,
-      "low": 171.5,
-      "close": 171.8,
+      "low": 171.2,
+      "close": 171.2,
       "volume": null,
-      "ticks": 170,
-      "origin": "derived",
+      "ticks": 284,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/26"
     }
@@ -37633,7 +37633,7 @@
     "unit": "toman",
     "count": 2871,
     "next_cursor": null,
-    "published_at": "2026-11-17T11:00:01.364Z",
+    "published_at": "2026-11-18T07:00:01.372Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/IQD_IRR_FREE.json",
     "currency": "IRT"
