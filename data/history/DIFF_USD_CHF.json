@@ -54799,16 +54799,29 @@
       "t": "2026-11-17T20:30:00.000Z",
       "t_tehran": "2026-11-18T00:00:00+03:30",
       "open": 0.8397,
-      "high": 0.8418,
+      "high": 0.8441,
       "low": 0.8395,
-      "close": 0.8404,
+      "close": 0.8434,
       "volume": null,
-      "ticks": 144,
+      "ticks": 473,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/27"
+    },
+    {
+      "t": "2026-11-18T20:30:00.000Z",
+      "t_tehran": "2026-11-19T00:00:00+03:30",
+      "open": 0.8433,
+      "high": 0.8436,
+      "low": 0.8419,
+      "close": 0.8428,
+      "volume": null,
+      "ticks": 102,
       "origin": "derived",
       "quality": [
         "out_of_order"
       ],
-      "date_jalali": "1405/08/27"
+      "date_jalali": "1405/08/28"
     }
   ],
   "meta": {
@@ -54816,9 +54829,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 4216,
+    "count": 4217,
     "next_cursor": null,
-    "published_at": "2026-11-18T05:00:01.313Z",
+    "published_at": "2026-11-19T01:00:01.321Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DIFF_USD_CHF.json",
     "currency": "POINTS"
