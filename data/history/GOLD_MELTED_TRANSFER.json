@@ -22307,17 +22307,30 @@
     {
       "t": "2026-11-17T20:30:00.000Z",
       "t_tehran": "2026-11-18T00:00:00+03:30",
-      "open": 106003000,
-      "high": 106751000,
-      "low": 105552000,
-      "close": 106149000,
+      "open": 105998000,
+      "high": 106755000,
+      "low": 105545000,
+      "close": 105953000,
       "volume": null,
-      "ticks": 1071,
+      "ticks": 1460,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/27"
+    },
+    {
+      "t": "2026-11-18T20:30:00.000Z",
+      "t_tehran": "2026-11-19T00:00:00+03:30",
+      "open": 105301000,
+      "high": 105405000,
+      "low": 105196000,
+      "close": 105311000,
+      "volume": null,
+      "ticks": 392,
       "origin": "derived",
       "quality": [
         "out_of_order"
       ],
-      "date_jalali": "1405/08/27"
+      "date_jalali": "1405/08/28"
     }
   ],
   "meta": {
@@ -22325,9 +22338,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 1713,
+    "count": 1714,
     "next_cursor": null,
-    "published_at": "2026-11-18T14:00:01.381Z",
+    "published_at": "2026-11-19T10:00:01.326Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/GOLD_MELTED_TRANSFER.json",
     "currency": "IRT"
