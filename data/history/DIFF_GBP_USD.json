@@ -66109,11 +66109,11 @@
       "t": "2026-11-18T20:30:00.000Z",
       "t_tehran": "2026-11-19T00:00:00+03:30",
       "open": 1.3147,
-      "high": 1.3151,
-      "low": 1.3142,
-      "close": 1.3142,
+      "high": 1.3171,
+      "low": 1.3094,
+      "close": 1.31,
       "volume": null,
-      "ticks": 90,
+      "ticks": 490,
       "origin": "derived",
       "quality": [
         "out_of_order"
@@ -66128,7 +66128,7 @@
     "unit": "toman",
     "count": 5086,
     "next_cursor": null,
-    "published_at": "2026-11-19T00:30:01.337Z",
+    "published_at": "2026-11-19T20:30:01.579Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DIFF_GBP_USD.json",
     "currency": "POINTS"
