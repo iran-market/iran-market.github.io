@@ -61376,18 +61376,31 @@
     {
       "t": "2026-11-17T20:30:00.000Z",
       "t_tehran": "2026-11-18T00:00:00+03:30",
-      "open": 0.05920112,
-      "high": 0.06029837,
-      "low": 0.00003938,
-      "close": 0.05921937,
+      "open": 0.0593,
+      "high": 0.0603,
+      "low": 0,
+      "close": 0.0586,
       "volume": null,
-      "ticks": 643,
+      "ticks": 860,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/27"
+    },
+    {
+      "t": "2026-11-18T20:30:00.000Z",
+      "t_tehran": "2026-11-19T00:00:00+03:30",
+      "open": 0.05850722,
+      "high": 0.05965,
+      "low": 0.00003857,
+      "close": 0.05943562,
+      "volume": null,
+      "ticks": 498,
       "origin": "derived",
       "quality": [
         "spike",
         "out_of_order"
       ],
-      "date_jalali": "1405/08/27"
+      "date_jalali": "1405/08/28"
     }
   ],
   "meta": {
@@ -61395,9 +61408,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 4722,
+    "count": 4723,
     "next_cursor": null,
-    "published_at": "2026-11-18T15:00:01.558Z",
+    "published_at": "2026-11-19T11:00:01.454Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DOGE_USD.json",
     "currency": "USD"
