@@ -54287,10 +54287,10 @@
       "open": 250370000,
       "high": 250800000,
       "low": 250340000,
-      "close": 250555000,
+      "close": 250740000,
       "volume": null,
-      "ticks": 412,
-      "origin": "derived",
+      "ticks": 1460,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/27"
     }
@@ -54302,7 +54302,7 @@
     "unit": "toman",
     "count": 4168,
     "next_cursor": null,
-    "published_at": "2026-11-18T10:00:01.363Z",
+    "published_at": "2026-11-19T06:00:01.590Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_EMAMI_IRR.json",
     "currency": "IRT"
