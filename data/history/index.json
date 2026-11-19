@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-11-19T00:00:01.380Z",
+    "published_at": "2026-11-19T00:30:01.337Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -1578,7 +1578,7 @@
       "currency": "USD",
       "from": "2011-01-03T20:30:00.000Z",
       "to": "2026-10-17T20:30:00.000Z",
-      "history_published_at": "2026-11-18T04:30:01.292Z"
+      "history_published_at": "2026-11-19T00:30:01.337Z"
     },
     {
       "symbol": "BASE_US_STEEL_COIL",
@@ -1587,11 +1587,11 @@
       "category": "commodity",
       "file": "history/BASE_US_STEEL_COIL.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BASE_US_STEEL_COIL.json",
-      "records": 3508,
+      "records": 3509,
       "currency": "USD",
       "from": "2013-08-17T19:30:00.000Z",
-      "to": "2026-11-17T20:30:00.000Z",
-      "history_published_at": "2026-11-18T04:30:01.292Z"
+      "to": "2026-11-18T20:30:00.000Z",
+      "history_published_at": "2026-11-19T00:30:01.337Z"
     },
     {
       "symbol": "DIFF_EUR_USD",
@@ -1600,11 +1600,11 @@
       "category": "index",
       "file": "history/DIFF_EUR_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DIFF_EUR_USD.json",
-      "records": 5146,
+      "records": 5147,
       "currency": "POINTS",
       "from": "2010-12-31T20:30:00.000Z",
-      "to": "2026-11-17T20:30:00.000Z",
-      "history_published_at": "2026-11-18T04:30:01.292Z"
+      "to": "2026-11-18T20:30:00.000Z",
+      "history_published_at": "2026-11-19T00:30:01.337Z"
     },
     {
       "symbol": "DIFF_GBP_USD",
@@ -1613,11 +1613,11 @@
       "category": "index",
       "file": "history/DIFF_GBP_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DIFF_GBP_USD.json",
-      "records": 5085,
+      "records": 5086,
       "currency": "POINTS",
       "from": "2010-12-31T20:30:00.000Z",
-      "to": "2026-11-17T20:30:00.000Z",
-      "history_published_at": "2026-11-18T04:30:01.292Z"
+      "to": "2026-11-18T20:30:00.000Z",
+      "history_published_at": "2026-11-19T00:30:01.337Z"
     },
     {
       "symbol": "DIFF_USD_JPY",
