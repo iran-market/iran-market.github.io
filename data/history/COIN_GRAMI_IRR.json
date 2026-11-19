@@ -44303,8 +44303,8 @@
       "low": 36000000,
       "close": 36000000,
       "volume": null,
-      "ticks": 1,
-      "origin": "derived",
+      "ticks": 2,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/27"
     }
@@ -44316,7 +44316,7 @@
     "unit": "toman",
     "count": 3402,
     "next_cursor": null,
-    "published_at": "2026-11-18T10:30:01.386Z",
+    "published_at": "2026-11-19T06:30:01.333Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_GRAMI_IRR.json",
     "currency": "IRT"
