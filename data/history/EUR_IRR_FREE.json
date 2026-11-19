@@ -49143,6 +49143,19 @@
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/26"
+    },
+    {
+      "t": "2026-11-17T20:30:00.000Z",
+      "t_tehran": "2026-11-18T00:00:00+03:30",
+      "open": 294510,
+      "high": 294540,
+      "low": 292420,
+      "close": 292580,
+      "volume": null,
+      "ticks": 1453,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/27"
     }
   ],
   "meta": {
@@ -49150,9 +49163,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 3774,
+    "count": 3775,
     "next_cursor": null,
-    "published_at": "2026-11-18T05:30:01.310Z",
+    "published_at": "2026-11-19T01:30:01.402Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/EUR_IRR_FREE.json",
     "currency": "IRT"
