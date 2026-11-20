@@ -54275,17 +54275,30 @@
     {
       "t": "2026-11-18T20:30:00.000Z",
       "t_tehran": "2026-11-19T00:00:00+03:30",
-      "open": 45.02,
+      "open": 45.1,
       "high": 45.84,
-      "low": 44.54,
-      "close": 45.42,
+      "low": 44.01,
+      "close": 44.06,
       "volume": null,
-      "ticks": 277,
+      "ticks": 653,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/28"
+    },
+    {
+      "t": "2026-11-19T20:30:00.000Z",
+      "t_tehran": "2026-11-20T00:00:00+03:30",
+      "open": 44.09,
+      "high": 44.09,
+      "low": 42.1,
+      "close": 42.13,
+      "volume": null,
+      "ticks": 137,
       "origin": "derived",
       "quality": [
         "out_of_order"
       ],
-      "date_jalali": "1405/08/28"
+      "date_jalali": "1405/08/29"
     }
   ],
   "meta": {
@@ -54293,9 +54306,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 4173,
+    "count": 4174,
     "next_cursor": null,
-    "published_at": "2026-11-19T05:30:01.347Z",
+    "published_at": "2026-11-20T01:30:01.438Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/SILVER.json",
     "currency": "USD"
