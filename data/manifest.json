@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-20T12:30:01.713Z",
+  "generated_at": "2026-11-20T13:00:01.475Z",
   "update_frequency_minutes": 30,
   "source": "TGJU, Nobitex, Alanchand, Wallex",
   "license_note": "Market data belongs to its original providers; verify before financial use.",
@@ -548,7 +548,7 @@
       "path": "history/LINK_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/LINK_USD.json",
       "description": "Daily OHLC history for LINK_USD",
-      "records": 3346,
+      "records": 3347,
       "unit": "USD"
     },
     {
@@ -562,14 +562,14 @@
       "path": "history/SHIB_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/SHIB_USD.json",
       "description": "Daily OHLC history for SHIB_USD",
-      "records": 2302,
+      "records": 2303,
       "unit": "USD"
     },
     {
       "path": "history/DOT_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DOT_USD.json",
       "description": "Daily OHLC history for DOT_USD",
-      "records": 2282,
+      "records": 2283,
       "unit": "USD"
     },
     {
