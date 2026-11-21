@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-21T22:30:01.597Z",
+  "generated_at": "2026-11-21T23:00:01.307Z",
   "update_frequency_minutes": 30,
   "source": "TGJU, Nobitex, Alanchand, Wallex",
   "license_note": "Market data belongs to its original providers; verify before financial use.",
@@ -436,28 +436,28 @@
       "path": "history/USDT_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/USDT_IRR.json",
       "description": "Daily OHLC history for USDT_IRR",
-      "records": 25,
+      "records": 26,
       "unit": "IRT"
     },
     {
       "path": "history/BTC_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/BTC_USD.json",
       "description": "Daily OHLC history for BTC_USD",
-      "records": 5804,
+      "records": 5805,
       "unit": "USD"
     },
     {
       "path": "history/ETH_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/ETH_USD.json",
       "description": "Daily OHLC history for ETH_USD",
-      "records": 4124,
+      "records": 4125,
       "unit": "USD"
     },
     {
       "path": "history/DOGE_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DOGE_USD.json",
       "description": "Daily OHLC history for DOGE_USD",
-      "records": 4725,
+      "records": 4726,
       "unit": "USD"
     },
     {
