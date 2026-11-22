@@ -64411,10 +64411,8 @@
       "close": 40.01,
       "volume": null,
       "ticks": 640,
-      "origin": "derived",
-      "quality": [
-        "out_of_order"
-      ],
+      "origin": "source",
+      "quality": [],
       "date_jalali": "1405/08/30"
     },
     {
@@ -64422,10 +64420,10 @@
       "t_tehran": "2026-11-22T00:00:00+03:30",
       "open": 40.03,
       "high": 40.19,
-      "low": 39.64,
-      "close": 39.77,
+      "low": 39,
+      "close": 39.82,
       "volume": null,
-      "ticks": 115,
+      "ticks": 591,
       "origin": "derived",
       "quality": [
         "out_of_order"
@@ -64440,7 +64438,7 @@
     "unit": "toman",
     "count": 4956,
     "next_cursor": null,
-    "published_at": "2026-11-22T00:30:01.724Z",
+    "published_at": "2026-11-22T20:30:01.372Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/LTC_USD.json",
     "currency": "USD"
