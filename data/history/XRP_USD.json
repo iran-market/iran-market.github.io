@@ -63131,16 +63131,14 @@
     {
       "t": "2026-11-20T20:30:00.000Z",
       "t_tehran": "2026-11-21T00:00:00+03:30",
-      "open": 0.8945097,
-      "high": 0.93828601,
-      "low": 0.86891988,
-      "close": 0.93692257,
+      "open": 0.8915,
+      "high": 0.9383,
+      "low": 0.8689,
+      "close": 0.9369,
       "volume": null,
       "ticks": 730,
-      "origin": "derived",
-      "quality": [
-        "out_of_order"
-      ],
+      "origin": "source",
+      "quality": [],
       "date_jalali": "1405/08/30"
     },
     {
@@ -63148,10 +63146,10 @@
       "t_tehran": "2026-11-22T00:00:00+03:30",
       "open": 0.93656727,
       "high": 0.93656727,
-      "low": 0.92741163,
-      "close": 0.93339252,
+      "low": 0.91336817,
+      "close": 0.92857061,
       "volume": null,
-      "ticks": 131,
+      "ticks": 738,
       "origin": "derived",
       "quality": [
         "out_of_order"
@@ -63166,7 +63164,7 @@
     "unit": "toman",
     "count": 4858,
     "next_cursor": null,
-    "published_at": "2026-11-22T00:00:01.496Z",
+    "published_at": "2026-11-22T20:00:01.441Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/XRP_USD.json",
     "currency": "USD"
