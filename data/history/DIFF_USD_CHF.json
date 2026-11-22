@@ -54842,11 +54842,9 @@
       "low": 0.8394,
       "close": 0.8398,
       "volume": null,
-      "ticks": 31,
-      "origin": "derived",
-      "quality": [
-        "out_of_order"
-      ],
+      "ticks": 33,
+      "origin": "source",
+      "quality": [],
       "date_jalali": "1405/08/30"
     }
   ],
@@ -54857,7 +54855,7 @@
     "unit": "toman",
     "count": 4219,
     "next_cursor": null,
-    "published_at": "2026-11-21T13:00:01.386Z",
+    "published_at": "2026-11-22T09:30:01.267Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DIFF_USD_CHF.json",
     "currency": "POINTS"
