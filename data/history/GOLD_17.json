@@ -32854,12 +32854,25 @@
       "low": 98464000,
       "close": 98726100,
       "volume": null,
-      "ticks": 1288,
+      "ticks": 1290,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/09/01"
+    },
+    {
+      "t": "2026-11-22T20:30:00.000Z",
+      "t_tehran": "2026-11-23T00:00:00+03:30",
+      "open": 103030400,
+      "high": 103103900,
+      "low": 101953900,
+      "close": 102511300,
+      "volume": null,
+      "ticks": 892,
       "origin": "derived",
       "quality": [
         "out_of_order"
       ],
-      "date_jalali": "1405/09/01"
+      "date_jalali": "1405/09/02"
     }
   ],
   "meta": {
@@ -32867,9 +32880,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 2523,
+    "count": 2524,
     "next_cursor": null,
-    "published_at": "2026-11-22T18:00:01.312Z",
+    "published_at": "2026-11-23T14:00:01.327Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/GOLD_17.json",
     "currency": "IRT"
