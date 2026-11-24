@@ -409,11 +409,11 @@
       "t": "2026-11-23T20:30:00.000Z",
       "t_tehran": "2026-11-24T00:00:00+03:30",
       "open": 1902789,
-      "high": 1916297,
-      "low": 1882443,
-      "close": 1887002,
+      "high": 1975216,
+      "low": 1873499,
+      "close": 1902319,
       "volume": null,
-      "ticks": 37,
+      "ticks": 215,
       "origin": "derived",
       "quality": [
         "timestamp_estimated"
@@ -428,7 +428,7 @@
     "unit": "toman",
     "count": 28,
     "next_cursor": null,
-    "published_at": "2026-11-24T00:00:01.380Z",
+    "published_at": "2026-11-24T20:00:01.526Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/AVAX_IRR.json",
     "currency": "IRT"
