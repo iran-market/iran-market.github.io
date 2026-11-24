@@ -29301,21 +29301,19 @@
       "close": 6.83,
       "volume": null,
       "ticks": 304,
-      "origin": "derived",
-      "quality": [
-        "out_of_order"
-      ],
+      "origin": "source",
+      "quality": [],
       "date_jalali": "1405/09/02"
     },
     {
       "t": "2026-11-23T20:30:00.000Z",
       "t_tehran": "2026-11-24T00:00:00+03:30",
       "open": 6.82,
-      "high": 6.83,
-      "low": 6.74,
-      "close": 6.75,
+      "high": 6.86,
+      "low": 6.5,
+      "close": 6.58,
       "volume": null,
-      "ticks": 37,
+      "ticks": 292,
       "origin": "derived",
       "quality": [
         "out_of_order"
@@ -29330,7 +29328,7 @@
     "unit": "toman",
     "count": 2254,
     "next_cursor": null,
-    "published_at": "2026-11-23T23:00:01.647Z",
+    "published_at": "2026-11-24T19:00:01.369Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/AVAX_USD.json",
     "currency": "USD"
