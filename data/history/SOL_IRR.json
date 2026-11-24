@@ -409,11 +409,11 @@
       "t": "2026-11-23T20:30:00.000Z",
       "t_tehran": "2026-11-24T00:00:00+03:30",
       "open": 20310026,
-      "high": 20370977,
-      "low": 20026000,
-      "close": 20129820,
+      "high": 20759999,
+      "low": 19647300,
+      "close": 20220108,
       "volume": null,
-      "ticks": 95,
+      "ticks": 802,
       "origin": "derived",
       "quality": [
         "timestamp_estimated"
@@ -428,7 +428,7 @@
     "unit": "toman",
     "count": 28,
     "next_cursor": null,
-    "published_at": "2026-11-23T23:30:01.519Z",
+    "published_at": "2026-11-24T19:30:01.555Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/SOL_IRR.json",
     "currency": "IRT"
