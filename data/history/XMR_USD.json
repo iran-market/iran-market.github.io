@@ -59380,21 +59380,19 @@
       "close": 498.4,
       "volume": null,
       "ticks": 661,
-      "origin": "derived",
-      "quality": [
-        "out_of_order"
-      ],
+      "origin": "source",
+      "quality": [],
       "date_jalali": "1405/09/02"
     },
     {
       "t": "2026-11-23T20:30:00.000Z",
       "t_tehran": "2026-11-24T00:00:00+03:30",
       "open": 498.81,
-      "high": 498.81,
-      "low": 492.98,
-      "close": 496.82,
+      "high": 500.68,
+      "low": 479.8,
+      "close": 498.4,
       "volume": null,
-      "ticks": 31,
+      "ticks": 583,
       "origin": "derived",
       "quality": [
         "out_of_order"
@@ -59409,7 +59407,7 @@
     "unit": "toman",
     "count": 4569,
     "next_cursor": null,
-    "published_at": "2026-11-23T21:30:01.384Z",
+    "published_at": "2026-11-24T17:30:01.697Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/XMR_USD.json",
     "currency": "USD"
