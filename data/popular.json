@@ -23,7 +23,7 @@
       "timestamp": "2026-11-23T09:36:33.000Z",
       "timestamp_tehran": "2026-11-23T13:06:33+03:30",
       "timestamp_jalali": "1405/09/02 13:06:33",
-      "checked_at": "2026-11-23T23:59:51.728Z",
+      "checked_at": "2026-11-24T00:29:58.212Z",
       "source": "tgju",
       "stale": false,
       "quality": []
@@ -51,7 +51,7 @@
       "timestamp": "2026-11-23T16:29:58.000Z",
       "timestamp_tehran": "2026-11-23T19:59:58+03:30",
       "timestamp_jalali": "1405/09/02 19:59:58",
-      "checked_at": "2026-11-23T23:59:51.728Z",
+      "checked_at": "2026-11-24T00:29:58.212Z",
       "source": "tgju",
       "stale": false,
       "quality": []
@@ -79,7 +79,7 @@
       "timestamp": "2026-11-23T16:29:58.000Z",
       "timestamp_tehran": "2026-11-23T19:59:58+03:30",
       "timestamp_jalali": "1405/09/02 19:59:58",
-      "checked_at": "2026-11-23T23:59:51.728Z",
+      "checked_at": "2026-11-24T00:29:58.212Z",
       "source": "tgju",
       "stale": false,
       "quality": []
@@ -107,7 +107,7 @@
       "timestamp": "2026-11-23T16:29:58.000Z",
       "timestamp_tehran": "2026-11-23T19:59:58+03:30",
       "timestamp_jalali": "1405/09/02 19:59:58",
-      "checked_at": "2026-11-23T23:59:51.728Z",
+      "checked_at": "2026-11-24T00:29:58.212Z",
       "source": "tgju",
       "stale": false,
       "quality": []
@@ -135,7 +135,7 @@
       "timestamp": "2026-11-23T16:29:59.000Z",
       "timestamp_tehran": "2026-11-23T19:59:59+03:30",
       "timestamp_jalali": "1405/09/02 19:59:59",
-      "checked_at": "2026-11-23T23:59:51.728Z",
+      "checked_at": "2026-11-24T00:29:58.212Z",
       "source": "tgju",
       "stale": false,
       "quality": []
@@ -163,7 +163,7 @@
       "timestamp": "2026-11-23T23:31:00.198Z",
       "timestamp_tehran": "2026-11-24T03:01:00+03:30",
       "timestamp_jalali": "1405/09/03 03:01:00",
-      "checked_at": "2026-11-23T23:59:21.377Z",
+      "checked_at": "2026-11-24T00:26:45.207Z",
       "source": "nobitex",
       "stale": false,
       "quality": []
@@ -178,7 +178,7 @@
       "tgju",
       "nobitex"
     ],
-    "published_at": "2026-11-24T00:00:01.380Z",
+    "published_at": "2026-11-24T00:30:01.883Z",
     "update_frequency_minutes": 30,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/popular.json",
     "source": "TGJU, Nobitex"
