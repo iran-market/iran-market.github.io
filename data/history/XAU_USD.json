@@ -54258,16 +54258,29 @@
       "t": "2026-11-22T20:30:00.000Z",
       "t_tehran": "2026-11-23T00:00:00+03:30",
       "open": 3571.22,
-      "high": 3636.44,
+      "high": 3684.94,
       "low": 3563.33,
-      "close": 3617.09,
+      "close": 3638.91,
       "volume": null,
-      "ticks": 342,
+      "ticks": 617,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/09/02"
+    },
+    {
+      "t": "2026-11-23T20:30:00.000Z",
+      "t_tehran": "2026-11-24T00:00:00+03:30",
+      "open": 3639.27,
+      "high": 3675.86,
+      "low": 3620.74,
+      "close": 3621.63,
+      "volume": null,
+      "ticks": 313,
       "origin": "derived",
       "quality": [
         "out_of_order"
       ],
-      "date_jalali": "1405/09/02"
+      "date_jalali": "1405/09/03"
     }
   ],
   "meta": {
@@ -54275,9 +54288,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 4171,
+    "count": 4172,
     "next_cursor": null,
-    "published_at": "2026-11-23T10:00:01.743Z",
+    "published_at": "2026-11-24T06:30:01.425Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/XAU_USD.json",
     "currency": "USD"
