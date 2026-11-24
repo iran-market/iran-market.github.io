@@ -43554,21 +43554,19 @@
       "close": 9,
       "volume": null,
       "ticks": 334,
-      "origin": "derived",
-      "quality": [
-        "out_of_order"
-      ],
+      "origin": "source",
+      "quality": [],
       "date_jalali": "1405/09/02"
     },
     {
       "t": "2026-11-23T20:30:00.000Z",
       "t_tehran": "2026-11-24T00:00:00+03:30",
       "open": 8.99,
-      "high": 9.02,
-      "low": 8.95,
-      "close": 8.99,
+      "high": 9.14,
+      "low": 8.75,
+      "close": 8.9,
       "volume": null,
-      "ticks": 37,
+      "ticks": 346,
       "origin": "derived",
       "quality": [
         "out_of_order"
@@ -43583,7 +43581,7 @@
     "unit": "toman",
     "count": 3351,
     "next_cursor": null,
-    "published_at": "2026-11-23T22:30:01.309Z",
+    "published_at": "2026-11-24T18:30:01.381Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/LINK_USD.json",
     "currency": "USD"
