@@ -66941,16 +66941,27 @@
       "t": "2026-11-22T20:30:00.000Z",
       "t_tehran": "2026-11-23T00:00:00+03:30",
       "open": 1.0961,
-      "high": 1.0987,
-      "low": 1.0961,
-      "close": 1.0985,
+      "high": 1.1005,
+      "low": 1.0881,
+      "close": 1.0902,
       "volume": null,
-      "ticks": 134,
-      "origin": "derived",
-      "quality": [
-        "out_of_order"
-      ],
+      "ticks": 431,
+      "origin": "source",
+      "quality": [],
       "date_jalali": "1405/09/02"
+    },
+    {
+      "t": "2026-11-23T20:30:00.000Z",
+      "t_tehran": "2026-11-24T00:00:00+03:30",
+      "open": 1.0901,
+      "high": 1.0917,
+      "low": 1.0891,
+      "close": 1.0917,
+      "volume": null,
+      "ticks": 82,
+      "origin": "derived",
+      "quality": [],
+      "date_jalali": "1405/09/03"
     }
   ],
   "meta": {
@@ -66958,9 +66969,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 5150,
+    "count": 5151,
     "next_cursor": null,
-    "published_at": "2026-11-23T05:30:01.560Z",
+    "published_at": "2026-11-24T01:30:01.327Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DIFF_EUR_USD.json",
     "currency": "POINTS"
