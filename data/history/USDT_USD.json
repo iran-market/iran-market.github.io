@@ -55562,7 +55562,7 @@
       "close": 1,
       "volume": null,
       "ticks": 2,
-      "origin": "derived",
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/09/02"
     },
@@ -55574,7 +55574,7 @@
       "low": 1,
       "close": 1,
       "volume": null,
-      "ticks": 1,
+      "ticks": 2,
       "origin": "derived",
       "quality": [],
       "date_jalali": "1405/09/03"
@@ -55587,7 +55587,7 @@
     "unit": "toman",
     "count": 4275,
     "next_cursor": null,
-    "published_at": "2026-11-23T22:00:01.502Z",
+    "published_at": "2026-11-24T18:00:01.632Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/USDT_USD.json",
     "currency": "USD"
