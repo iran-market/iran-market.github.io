@@ -411,14 +411,29 @@
       "open": 86375,
       "high": 90000,
       "low": 85749,
-      "close": 89418,
+      "close": 89726,
       "volume": null,
-      "ticks": 1107,
+      "ticks": 1159,
       "origin": "derived",
       "quality": [
         "timestamp_estimated"
       ],
       "date_jalali": "1405/09/03"
+    },
+    {
+      "t": "2026-11-24T20:30:00.000Z",
+      "t_tehran": "2026-11-25T00:00:00+03:30",
+      "open": 89735,
+      "high": 91650,
+      "low": 89200,
+      "close": 89903,
+      "volume": null,
+      "ticks": 885,
+      "origin": "derived",
+      "quality": [
+        "timestamp_estimated"
+      ],
+      "date_jalali": "1405/09/04"
     }
   ],
   "meta": {
@@ -426,9 +441,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 28,
+    "count": 29,
     "next_cursor": null,
-    "published_at": "2026-11-24T19:30:01.555Z",
+    "published_at": "2026-11-25T15:30:01.363Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/TRX_IRR.json",
     "currency": "IRT"
