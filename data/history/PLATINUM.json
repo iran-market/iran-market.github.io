@@ -60904,13 +60904,15 @@
       "t": "2026-11-25T20:30:00.000Z",
       "t_tehran": "2026-11-26T00:00:00+03:30",
       "open": 1257.6,
-      "high": 1266.9,
+      "high": 1298,
       "low": 1255,
-      "close": 1265,
+      "close": 1280.8,
       "volume": null,
-      "ticks": 61,
+      "ticks": 747,
       "origin": "derived",
-      "quality": [],
+      "quality": [
+        "out_of_order"
+      ],
       "date_jalali": "1405/09/05"
     }
   ],
@@ -60921,7 +60923,7 @@
     "unit": "toman",
     "count": 4679,
     "next_cursor": null,
-    "published_at": "2026-11-25T23:30:01.395Z",
+    "published_at": "2026-11-26T19:30:01.394Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/PLATINUM.json",
     "currency": "USD"
