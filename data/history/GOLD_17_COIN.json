@@ -29229,6 +29229,21 @@
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/09/04"
+    },
+    {
+      "t": "2026-11-25T20:30:00.000Z",
+      "t_tehran": "2026-11-26T00:00:00+03:30",
+      "open": 116921344,
+      "high": 118093892,
+      "low": 116715983,
+      "close": 116921344,
+      "volume": null,
+      "ticks": 840,
+      "origin": "derived",
+      "quality": [
+        "out_of_order"
+      ],
+      "date_jalali": "1405/09/05"
     }
   ],
   "meta": {
@@ -29236,9 +29251,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 2244,
+    "count": 2245,
     "next_cursor": null,
-    "published_at": "2026-11-26T02:30:01.332Z",
+    "published_at": "2026-11-26T22:30:01.362Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/GOLD_17_COIN.json",
     "currency": "IRT"
