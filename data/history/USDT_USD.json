@@ -55588,9 +55588,22 @@
       "close": 1,
       "volume": null,
       "ticks": 2,
-      "origin": "derived",
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/09/04"
+    },
+    {
+      "t": "2026-11-25T20:30:00.000Z",
+      "t_tehran": "2026-11-26T00:00:00+03:30",
+      "open": 1,
+      "high": 1,
+      "low": 1,
+      "close": 1,
+      "volume": null,
+      "ticks": 2,
+      "origin": "derived",
+      "quality": [],
+      "date_jalali": "1405/09/05"
     }
   ],
   "meta": {
@@ -55598,9 +55611,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 4276,
+    "count": 4277,
     "next_cursor": null,
-    "published_at": "2026-11-25T14:00:01.683Z",
+    "published_at": "2026-11-26T10:00:01.351Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/USDT_USD.json",
     "currency": "USD"
