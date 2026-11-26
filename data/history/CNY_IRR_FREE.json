@@ -42127,10 +42127,25 @@
       "low": 42600,
       "close": 43970,
       "volume": null,
-      "ticks": 637,
-      "origin": "derived",
+      "ticks": 639,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/09/04"
+    },
+    {
+      "t": "2026-11-25T20:30:00.000Z",
+      "t_tehran": "2026-11-26T00:00:00+03:30",
+      "open": 44100,
+      "high": 44430,
+      "low": 43960,
+      "close": 44010,
+      "volume": null,
+      "ticks": 352,
+      "origin": "derived",
+      "quality": [
+        "out_of_order"
+      ],
+      "date_jalali": "1405/09/05"
     }
   ],
   "meta": {
@@ -42138,9 +42153,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 3236,
+    "count": 3237,
     "next_cursor": null,
-    "published_at": "2026-11-25T20:00:01.520Z",
+    "published_at": "2026-11-26T16:00:01.246Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/CNY_IRR_FREE.json",
     "currency": "IRT"
