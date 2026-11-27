@@ -53681,11 +53681,11 @@
       "t": "2026-11-26T20:30:00.000Z",
       "t_tehran": "2026-11-27T00:00:00+03:30",
       "open": 1703.41,
-      "high": 1709.36,
-      "low": 1691.95,
-      "close": 1691.95,
+      "high": 1749.44,
+      "low": 1638.37,
+      "close": 1671.65,
       "volume": null,
-      "ticks": 65,
+      "ticks": 621,
       "origin": "derived",
       "quality": [
         "out_of_order"
@@ -53700,7 +53700,7 @@
     "unit": "toman",
     "count": 4130,
     "next_cursor": null,
-    "published_at": "2026-11-26T23:00:01.334Z",
+    "published_at": "2026-11-27T19:00:01.324Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/ETH_USD.json",
     "currency": "USD"
