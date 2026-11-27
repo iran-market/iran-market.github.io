@@ -43672,11 +43672,9 @@
       "low": 37350,
       "close": 37390,
       "volume": null,
-      "ticks": 428,
-      "origin": "derived",
-      "quality": [
-        "out_of_order"
-      ],
+      "ticks": 430,
+      "origin": "source",
+      "quality": [],
       "date_jalali": "1405/09/05"
     }
   ],
@@ -43687,7 +43685,7 @@
     "unit": "toman",
     "count": 3355,
     "next_cursor": null,
-    "published_at": "2026-11-26T17:00:01.313Z",
+    "published_at": "2026-11-27T13:00:01.392Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/HKD_IRR_FREE.json",
     "currency": "IRT"

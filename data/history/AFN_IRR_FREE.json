@@ -43321,11 +43321,9 @@
       "low": 4555,
       "close": 4560,
       "volume": null,
-      "ticks": 686,
-      "origin": "derived",
-      "quality": [
-        "out_of_order"
-      ],
+      "ticks": 688,
+      "origin": "source",
+      "quality": [],
       "date_jalali": "1405/09/05"
     }
   ],
@@ -43336,7 +43334,7 @@
     "unit": "toman",
     "count": 3328,
     "next_cursor": null,
-    "published_at": "2026-11-26T17:00:01.313Z",
+    "published_at": "2026-11-27T13:00:01.392Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/AFN_IRR_FREE.json",
     "currency": "IRT"
