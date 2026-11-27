@@ -45474,11 +45474,9 @@
       "low": 141660000,
       "close": 141660000,
       "volume": null,
-      "ticks": 17,
-      "origin": "derived",
-      "quality": [
-        "out_of_order"
-      ],
+      "ticks": 19,
+      "origin": "source",
+      "quality": [],
       "date_jalali": "1405/09/05"
     }
   ],
@@ -45489,7 +45487,7 @@
     "unit": "toman",
     "count": 3489,
     "next_cursor": null,
-    "published_at": "2026-11-26T20:00:01.425Z",
+    "published_at": "2026-11-27T16:00:01.379Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_HALF_IRR.json",
     "currency": "IRT"
