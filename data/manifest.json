@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-28T11:30:01.297Z",
+  "generated_at": "2026-11-28T12:00:01.180Z",
   "update_frequency_minutes": 30,
   "source": "TGJU, Nobitex, Alanchand, Wallex",
   "license_note": "Market data belongs to its original providers; verify before financial use.",
@@ -296,28 +296,28 @@
       "path": "history/COIN_HALF_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_HALF_IRR.json",
       "description": "Daily OHLC history for COIN_HALF_IRR",
-      "records": 3489,
+      "records": 3490,
       "unit": "IRT"
     },
     {
       "path": "history/COIN_QUARTER_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_QUARTER_IRR.json",
       "description": "Daily OHLC history for COIN_QUARTER_IRR",
-      "records": 3474,
+      "records": 3475,
       "unit": "IRT"
     },
     {
       "path": "history/COIN_GRAMI_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_GRAMI_IRR.json",
       "description": "Daily OHLC history for COIN_GRAMI_IRR",
-      "records": 3409,
+      "records": 3410,
       "unit": "IRT"
     },
     {
       "path": "history/COIN_EMAMI_RETAIL_IRR.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_EMAMI_RETAIL_IRR.json",
       "description": "Daily OHLC history for COIN_EMAMI_RETAIL_IRR",
-      "records": 2424,
+      "records": 2425,
       "unit": "IRT"
     },
     {
