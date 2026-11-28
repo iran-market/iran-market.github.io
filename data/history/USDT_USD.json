@@ -55613,8 +55613,8 @@
       "low": 1,
       "close": 1,
       "volume": null,
-      "ticks": 1,
-      "origin": "derived",
+      "ticks": 2,
+      "origin": "source",
       "quality": [],
       "date_jalali": "1405/09/06"
     }
@@ -55626,7 +55626,7 @@
     "unit": "toman",
     "count": 4278,
     "next_cursor": null,
-    "published_at": "2026-11-27T06:00:01.316Z",
+    "published_at": "2026-11-28T02:00:01.265Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/USDT_USD.json",
     "currency": "USD"
