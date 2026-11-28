@@ -54312,13 +54312,11 @@
       "open": 3564.43,
       "high": 3684.11,
       "low": 3558.38,
-      "close": 3639.8,
+      "close": 3644.05,
       "volume": null,
-      "ticks": 589,
-      "origin": "derived",
-      "quality": [
-        "out_of_order"
-      ],
+      "ticks": 721,
+      "origin": "source",
+      "quality": [],
       "date_jalali": "1405/09/06"
     }
   ],
@@ -54329,7 +54327,7 @@
     "unit": "toman",
     "count": 4175,
     "next_cursor": null,
-    "published_at": "2026-11-27T15:00:01.355Z",
+    "published_at": "2026-11-28T11:00:01.288Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/XAU_USD.json",
     "currency": "USD"
