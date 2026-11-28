@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-28T06:00:01.306Z",
+  "generated_at": "2026-11-28T06:30:01.323Z",
   "update_frequency_minutes": 30,
   "source": "TGJU, Nobitex, Alanchand, Wallex",
   "license_note": "Market data belongs to its original providers; verify before financial use.",
@@ -898,14 +898,14 @@
       "path": "history/DIFF_EUR_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DIFF_EUR_USD.json",
       "description": "Daily OHLC history for DIFF_EUR_USD",
-      "records": 5154,
+      "records": 5155,
       "unit": "POINTS"
     },
     {
       "path": "history/DIFF_GBP_USD.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DIFF_GBP_USD.json",
       "description": "Daily OHLC history for DIFF_GBP_USD",
-      "records": 5093,
+      "records": 5094,
       "unit": "POINTS"
     },
     {
