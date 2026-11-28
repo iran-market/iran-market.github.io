@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-28T08:00:01.506Z",
+  "generated_at": "2026-11-28T08:30:01.514Z",
   "update_frequency_minutes": 30,
   "source": "TGJU, Nobitex, Alanchand, Wallex",
   "license_note": "Market data belongs to its original providers; verify before financial use.",
@@ -100,28 +100,28 @@
       "path": "history/JPY_IRR_FREE.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/JPY_IRR_FREE.json",
       "description": "Daily OHLC history for JPY_IRR_FREE",
-      "records": 3245,
+      "records": 3246,
       "unit": "IRT"
     },
     {
       "path": "history/IQD_IRR_FREE.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/IQD_IRR_FREE.json",
       "description": "Daily OHLC history for IQD_IRR_FREE",
-      "records": 2879,
+      "records": 2880,
       "unit": "IRT"
     },
     {
       "path": "history/AUD_IRR_FREE.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/AUD_IRR_FREE.json",
       "description": "Daily OHLC history for AUD_IRR_FREE",
-      "records": 3271,
+      "records": 3272,
       "unit": "IRT"
     },
     {
       "path": "history/SGD_IRR_FREE.json",
       "url": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/SGD_IRR_FREE.json",
       "description": "Daily OHLC history for SGD_IRR_FREE",
-      "records": 3375,
+      "records": 3376,
       "unit": "IRT"
     },
     {
