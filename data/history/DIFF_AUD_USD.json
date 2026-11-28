@@ -60885,14 +60885,27 @@
       "open": 0.6632,
       "high": 0.6679,
       "low": 0.662,
-      "close": 0.6674,
+      "close": 0.6646,
       "volume": null,
-      "ticks": 313,
+      "ticks": 479,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/09/06"
+    },
+    {
+      "t": "2026-11-27T20:30:00.000Z",
+      "t_tehran": "2026-11-28T00:00:00+03:30",
+      "open": 0.6648,
+      "high": 0.6648,
+      "low": 0.6642,
+      "close": 0.6642,
+      "volume": null,
+      "ticks": 36,
       "origin": "derived",
       "quality": [
         "out_of_order"
       ],
-      "date_jalali": "1405/09/06"
+      "date_jalali": "1405/09/07"
     }
   ],
   "meta": {
@@ -60900,9 +60913,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 4684,
+    "count": 4685,
     "next_cursor": null,
-    "published_at": "2026-11-27T11:00:01.273Z",
+    "published_at": "2026-11-28T07:00:01.300Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DIFF_AUD_USD.json",
     "currency": "POINTS"

@@ -65563,16 +65563,29 @@
       "t": "2026-11-26T20:30:00.000Z",
       "t_tehran": "2026-11-27T00:00:00+03:30",
       "open": 159.26,
-      "high": 159.56,
+      "high": 159.58,
       "low": 159.14,
-      "close": 159.52,
+      "close": 159.55,
       "volume": null,
-      "ticks": 275,
+      "ticks": 445,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/09/06"
+    },
+    {
+      "t": "2026-11-27T20:30:00.000Z",
+      "t_tehran": "2026-11-28T00:00:00+03:30",
+      "open": 159.54,
+      "high": 159.57,
+      "low": 159.53,
+      "close": 159.56,
+      "volume": null,
+      "ticks": 30,
       "origin": "derived",
       "quality": [
         "out_of_order"
       ],
-      "date_jalali": "1405/09/06"
+      "date_jalali": "1405/09/07"
     }
   ],
   "meta": {
@@ -65580,9 +65593,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 5044,
+    "count": 5045,
     "next_cursor": null,
-    "published_at": "2026-11-27T11:00:01.273Z",
+    "published_at": "2026-11-28T07:00:01.300Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/DIFF_USD_JPY.json",
     "currency": "POINTS"
